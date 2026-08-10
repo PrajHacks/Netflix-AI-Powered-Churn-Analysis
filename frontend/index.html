@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Subscription Churn & Retention Dashboard</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Space+Grotesk:wght@500;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="./style.css?v=2" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js" defer></script>
+  <script src="./app.js?v=2" defer></script>
+</head>
+<body>
+  <div class="page-shell">
+    <header class="hero">
+      <div class="hero-copy">
+        <p class="eyebrow">AI-Powered Retention Analytics</p>
+        <h1>Subscription Churn & Retention Dashboard</h1>
+        <p class="hero-text">
+          Explore churn risk, customer segments, and live SHAP-based predictions in one portfolio-ready view.
+        </p>
+      </div>
+      <div class="hero-status">
+        <span id="apiStatus" class="status-pill status-pill--pending" role="status">Connecting to backend...</span>
+        <p class="hero-note">Backend: <code>same origin FastAPI service</code></p>
+      </div>
+    </header>
+
+    <div id="appNotice" class="notice notice--hidden" role="alert" aria-live="polite"></div>
+
+    <main class="dashboard">
+      <section class="kpi-grid" aria-label="Key performance indicators">
+        <article class="kpi-card kpi-card--neutral" data-risk="neutral">
+          <span class="kpi-label">Total Customers</span>
+          <strong id="kpiTotalCustomers" class="kpi-value">--</strong>
+          <span class="kpi-subtext">Entire active customer base</span>
+        </article>
+        <article class="kpi-card" data-risk="medium">
+          <span class="kpi-label">Overall Churn Rate</span>
+          <strong id="kpiChurnRate" class="kpi-value">--</strong>
+          <span id="kpiChurnRateSubtext" class="kpi-subtext">Across all customers</span>
+        </article>
+        <article class="kpi-card" data-risk="high">
+          <span class="kpi-label">At-Risk Customers</span>
+          <strong id="kpiAtRiskCustomers" class="kpi-value">--</strong>
+          <span id="kpiAtRiskCustomersSubtext" class="kpi-subtext">Customers above the churn threshold</span>
+        </article>
+        <article class="kpi-card" data-risk="medium">
+          <span class="kpi-label">Estimated At-Risk Revenue</span>
+          <strong id="kpiAtRiskRevenue" class="kpi-value">--</strong>
+          <span class="kpi-subtext">Monthly income tied to at-risk customers</span>
+        </article>
+      </section>
+
+      <section class="panel">
+        <div class="panel-header">
+          <div>
+            <p class="section-eyebrow">Churn patterns</p>
+            <h2>Where churn is concentrated</h2>
+          </div>
+          <p class="panel-note">Rates are pulled from the backend summary endpoint.</p>
+        </div>
+
+        <div class="charts-grid">
+          <article class="chart-card">
+            <div class="chart-card__head">
+              <h3>By Segment</h3>
+              <span class="chart-card__hint">Churn rate %</span>
+            </div>
+            <canvas id="segmentChart" aria-label="Churn rate by segment" role="img"></canvas>
+          </article>
+          <article class="chart-card">
+            <div class="chart-card__head">
+              <h3>By Subscription Plan</h3>
+              <span class="chart-card__hint">Churn rate %</span>
+            </div>
+            <canvas id="planChart" aria-label="Churn rate by subscription plan" role="img"></canvas>
+          </article>
+          <article class="chart-card">
+            <div class="chart-card__head">
+              <h3>By Region</h3>
+              <span class="chart-card__hint">Churn rate %</span>
+            </div>
+            <canvas id="regionChart" aria-label="Churn rate by region" role="img"></canvas>
+          </article>
+        </div>
+      </section>
+
+      <section class="panel segment-panel">
+        <div class="panel-header segment-panel__header">
+          <div>
+            <p class="section-eyebrow">Retention segments</p>
+            <h2>Segment summary and table filter</h2>
+          </div>
+          <div class="segment-panel__controls">
+            <span id="segmentFilterLabel" class="segment-filter-chip" aria-live="polite">Showing all segments</span>
+            <button id="clearSegmentFilterBtn" class="btn btn--secondary" type="button" disabled>Clear filter</button>
+          </div>
+        </div>
+
+        <div id="segmentCards" class="segment-cards" aria-label="Customer segment summary cards"></div>
+      </section>
+
+      <section class="panel">
+        <div class="panel-header panel-header--table">
+          <div>
+            <p class="section-eyebrow">Customer table</p>
+            <h2>Highest-risk customers first</h2>
+          </div>
+          <div class="pagination">
+            <button id="prevPageBtn" class="btn btn--secondary" type="button">Previous</button>
+            <span id="pageIndicator" class="page-indicator">Page 1 of 1</span>
+            <button id="nextPageBtn" class="btn btn--secondary" type="button">Next</button>
+          </div>
+        </div>
+
+        <div class="table-wrap">
+          <table class="customer-table">
+            <thead>
+              <tr>
+                <th>Customer ID</th>
+                <th>Churn Probability</th>
+                <th>Segment</th>
+                <th>Plan</th>
+                <th>Region</th>
+              </tr>
+            </thead>
+            <tbody id="customerTableBody">
+              <tr>
+                <td colspan="5" class="table-placeholder">Loading customers...</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="panel predict-panel">
+        <div class="panel-header">
+          <div>
+            <p class="section-eyebrow">Live inference</p>
+            <h2>Predict a New Customer</h2>
+          </div>
+          <p class="panel-note">Submit raw customer inputs and get a churn probability with SHAP reasons.</p>
+        </div>
+
+        <div class="predict-layout">
+          <form id="predictForm" class="predict-form" autocomplete="off">
+            <div class="field">
+              <label for="subscription_length_months">Subscription length (months)</label>
+              <input id="subscription_length_months" name="subscription_length_months" type="number" min="1" max="60" step="1" value="12" required />
+            </div>
+
+            <div class="field">
+              <label for="customer_satisfaction_score">Customer satisfaction score <span id="customerSatisfactionValue" class="field-value">6</span></label>
+              <input id="customer_satisfaction_score" name="customer_satisfaction_score" type="range" min="1" max="10" step="1" value="6" required />
+            </div>
+
+            <div class="field">
+              <label for="daily_watch_time_hours">Daily watch time (hours)</label>
+              <input id="daily_watch_time_hours" name="daily_watch_time_hours" type="number" min="0" max="12" step="0.1" value="2.5" required />
+            </div>
+
+            <div class="field">
+              <label for="engagement_rate">Engagement rate <span id="engagementRateValue" class="field-value">6</span></label>
+              <input id="engagement_rate" name="engagement_rate" type="range" min="1" max="10" step="1" value="6" required />
+            </div>
+
+            <div class="field">
+              <label for="device_used_most_often">Device used most often</label>
+              <select id="device_used_most_often" name="device_used_most_often" required>
+                <option>Smart TV</option>
+                <option>Mobile</option>
+                <option selected>Laptop</option>
+                <option>Desktop</option>
+                <option>Tablet</option>
+              </select>
+            </div>
+
+            <div class="field">
+              <label for="genre_preference">Genre preference</label>
+              <select id="genre_preference" name="genre_preference" required>
+                <option selected>Drama</option>
+                <option>Action</option>
+                <option>Comedy</option>
+                <option>Documentary</option>
+                <option>Romance</option>
+                <option>Sci-Fi</option>
+                <option>Thriller</option>
+              </select>
+            </div>
+
+            <div class="field">
+              <label for="region">Region</label>
+              <select id="region" name="region" required>
+                <option selected>North America</option>
+                <option>South America</option>
+                <option>Europe</option>
+                <option>Asia</option>
+                <option>Africa</option>
+              </select>
+            </div>
+
+            <div class="field">
+              <label for="payment_history">Payment history</label>
+              <select id="payment_history" name="payment_history" required>
+                <option selected>On-Time</option>
+                <option>Delayed</option>
+              </select>
+            </div>
+
+            <div class="field">
+              <label for="subscription_plan">Subscription plan</label>
+              <select id="subscription_plan" name="subscription_plan" required>
+                <option>Basic</option>
+                <option selected>Standard</option>
+                <option>Premium</option>
+              </select>
+            </div>
+
+            <div class="field">
+              <label for="support_queries_logged">Support queries logged</label>
+              <input id="support_queries_logged" name="support_queries_logged" type="number" min="0" max="20" step="1" value="2" required />
+            </div>
+
+            <div class="field">
+              <label for="age">Age</label>
+              <input id="age" name="age" type="number" min="13" max="90" step="1" value="35" required />
+            </div>
+
+            <div class="field">
+              <label for="monthly_income_usd">Monthly income (USD)</label>
+              <input id="monthly_income_usd" name="monthly_income_usd" type="number" min="0" max="20000" step="50" value="5000" required />
+            </div>
+
+            <div class="field">
+              <label for="promotional_offers_used">Promotional offers used</label>
+              <input id="promotional_offers_used" name="promotional_offers_used" type="number" min="0" max="10" step="1" value="2" required />
+            </div>
+
+            <div class="field">
+              <label for="number_of_profiles_created">Number of profiles created</label>
+              <input id="number_of_profiles_created" name="number_of_profiles_created" type="number" min="1" max="10" step="1" value="2" required />
+            </div>
+
+            <div class="field field--full form-actions">
+              <button class="btn btn--primary" type="submit">Predict churn risk</button>
+              <button class="btn btn--ghost" type="reset">Reset form</button>
+            </div>
+          </form>
+
+          <aside id="predictResultPanel" class="predict-result" data-risk="neutral" aria-live="polite">
+            <div class="predict-result__header">
+              <div>
+                <p class="section-eyebrow">Prediction output</p>
+                <h3>Churn risk result</h3>
+              </div>
+              <span id="predictRiskBadge" class="risk-badge risk-badge--neutral">Awaiting input</span>
+            </div>
+
+            <div class="predict-meter">
+              <div class="predict-meter__row">
+                <strong id="predictProbability">--</strong>
+                <span id="predictBandText" class="predict-band-text">Submit the form to generate a prediction.</span>
+              </div>
+              <progress id="predictProgress" value="0" max="100">0%</progress>
+            </div>
+
+            <div class="predict-result__reasons">
+              <h4>Top 3 reasons</h4>
+              <ol id="predictReasonsList" class="reason-list">
+                <li>Reasons will appear here after prediction.</li>
+              </ol>
+            </div>
+          </aside>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <div id="customerModalOverlay" class="modal-overlay modal-overlay--hidden" aria-hidden="true">
+    <div class="modal-dialog" role="dialog" aria-modal="true" aria-labelledby="customerModalTitle">
+      <button id="closeCustomerModalBtn" class="modal-close" type="button" aria-label="Close customer detail panel">×</button>
+      <div id="customerModalContent" class="modal-content">
+        <p class="modal-loading">Select a customer row to inspect their full detail and SHAP explanations.</p>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

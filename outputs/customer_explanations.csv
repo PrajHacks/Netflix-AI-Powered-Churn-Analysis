@@ -1,0 +1,1001 @@
+customer_id,churn_probability,reason_1,reason_2,reason_3
+C00001,0.0618835468794183,High satisfaction score (10/10) decreased churn risk,Frequent support queries (10) increased churn risk,Many promotional offers used (5) decreased churn risk
+C00002,0.23642935412233304,High satisfaction score (8/10) decreased churn risk,Frequent support queries (9) increased churn risk,High engagement rate (9/10) decreased churn risk
+C00003,0.2589611441742854,High engagement rate (9/10) decreased churn risk,Short subscription history (3 months) increased churn risk,Support queries logged (3) decreased churn risk
+C00004,0.08792621871653719,High engagement rate (9/10) decreased churn risk,Many promotional offers used (5) decreased churn risk,High satisfaction score (7/10) decreased churn risk
+C00005,0.2813925353102348,Low satisfaction score (2/10) increased churn risk,Long subscription history (24 months) decreased churn risk,Few support queries (2) decreased churn risk
+C00006,0.8504450591988891,High daily watch time (5.0 hours) decreased churn risk,Low engagement rate (3/10) increased churn risk,Many promotional offers used (4) decreased churn risk
+C00007,0.8044555523764919,Low engagement rate (3/10) increased churn risk,Low daily watch time (0.7 hours) increased churn risk,Support queries logged (3) decreased churn risk
+C00008,0.4333850327038627,Low engagement rate (2/10) increased churn risk,Many promotional offers used (5) decreased churn risk,On-Time payment history decreased churn risk
+C00009,0.5010434131057251,High satisfaction score (9/10) decreased churn risk,Low engagement rate (1/10) increased churn risk,Few promotional offers used (1) increased churn risk
+C00010,0.06547479832995685,Few support queries (0) decreased churn risk,Short subscription history (3 months) increased churn risk,On-Time payment history decreased churn risk
+C00011,0.16298966952631957,High satisfaction score (9/10) decreased churn risk,High engagement rate (9/10) decreased churn risk,Few promotional offers used (0) increased churn risk
+C00012,0.5432297701879897,Few promotional offers used (0) increased churn risk,Low daily watch time (0.8 hours) increased churn risk,High satisfaction score (7/10) decreased churn risk
+C00013,0.9792194122049305,High engagement rate (9/10) decreased churn risk,Few promotional offers used (0) increased churn risk,Frequent support queries (8) increased churn risk
+C00014,0.9743534726147797,Low satisfaction score (2/10) increased churn risk,Low engagement rate (3/10) increased churn risk,Short subscription history (1 months) increased churn risk
+C00015,0.9436834311361518,Low satisfaction score (3/10) increased churn risk,Frequent support queries (7) increased churn risk,Delayed payment history increased churn risk
+C00016,0.48774468960724804,Low satisfaction score (1/10) increased churn risk,High engagement rate (10/10) decreased churn risk,Low daily watch time (0.8 hours) increased churn risk
+C00017,0.996952723200836,Frequent support queries (10) increased churn risk,Low satisfaction score (2/10) increased churn risk,Low engagement rate (2/10) increased churn risk
+C00018,0.357509258440868,Low engagement rate (2/10) increased churn risk,Many promotional offers used (5) decreased churn risk,High daily watch time (4.8 hours) decreased churn risk
+C00019,0.8974913585814758,High satisfaction score (9/10) decreased churn risk,Frequent support queries (9) increased churn risk,Few promotional offers used (0) increased churn risk
+C00020,0.6818823965876624,Low satisfaction score (2/10) increased churn risk,High engagement rate (9/10) decreased churn risk,High daily watch time (4.3 hours) decreased churn risk
+C00021,0.7391999623657851,Few promotional offers used (0) increased churn risk,High daily watch time (4.9 hours) decreased churn risk,Low engagement rate (3/10) increased churn risk
+C00022,0.28954760411568387,Low satisfaction score (4/10) increased churn risk,On-Time payment history decreased churn risk,High daily watch time (3.6 hours) decreased churn risk
+C00023,0.49483347116545434,Low engagement rate (1/10) increased churn risk,Long subscription history (24 months) decreased churn risk,Low daily watch time (0.8 hours) increased churn risk
+C00024,0.018825753357050935,Few support queries (0) decreased churn risk,Long subscription history (24 months) decreased churn risk,High engagement rate (8/10) decreased churn risk
+C00025,0.9492678877525069,Low satisfaction score (2/10) increased churn risk,Few promotional offers used (0) increased churn risk,Delayed payment history increased churn risk
+C00026,0.19132355414503444,High engagement rate (10/10) decreased churn risk,Many promotional offers used (5) decreased churn risk,Low daily watch time (0.8 hours) increased churn risk
+C00027,0.34112117982495155,High satisfaction score (9/10) decreased churn risk,Long subscription history (24 months) decreased churn risk,Frequent support queries (9) increased churn risk
+C00028,0.07923488202406351,High engagement rate (10/10) decreased churn risk,Few support queries (0) decreased churn risk,Low satisfaction score (2/10) increased churn risk
+C00029,0.11374102954219854,High satisfaction score (10/10) decreased churn risk,High engagement rate (9/10) decreased churn risk,Low daily watch time (0.9 hours) increased churn risk
+C00030,0.9008061763440689,Frequent support queries (10) increased churn risk,High engagement rate (9/10) decreased churn risk,Few promotional offers used (0) increased churn risk
+C00031,0.7483751158441165,Low engagement rate (1/10) increased churn risk,High satisfaction score (8/10) decreased churn risk,Low daily watch time (1.4 hours) increased churn risk
+C00032,0.8580815380774269,Low engagement rate (2/10) increased churn risk,Frequent support queries (8) increased churn risk,Few promotional offers used (1) increased churn risk
+C00033,0.3303913697505028,High satisfaction score (9/10) decreased churn risk,Frequent support queries (8) increased churn risk,Short subscription history (3 months) increased churn risk
+C00034,0.7945934347862467,Few promotional offers used (0) increased churn risk,High daily watch time (5.0 hours) decreased churn risk,Delayed payment history increased churn risk
+C00035,0.8428286791178976,High satisfaction score (10/10) decreased churn risk,Low engagement rate (1/10) increased churn risk,Few promotional offers used (0) increased churn risk
+C00036,0.8298672707736736,Low satisfaction score (1/10) increased churn risk,Many promotional offers used (4) decreased churn risk,On-Time payment history decreased churn risk
+C00037,0.9403660623742586,Low satisfaction score (2/10) increased churn risk,Frequent support queries (9) increased churn risk,Short subscription history (3 months) increased churn risk
+C00038,0.9657789514594378,Low satisfaction score (1/10) increased churn risk,Many promotional offers used (5) decreased churn risk,Low engagement rate (3/10) increased churn risk
+C00039,0.01311584345326252,High engagement rate (9/10) decreased churn risk,Many promotional offers used (5) decreased churn risk,High daily watch time (4.9 hours) decreased churn risk
+C00040,0.1703727608383006,Few support queries (1) decreased churn risk,High daily watch time (5.0 hours) decreased churn risk,Short subscription history (1 months) increased churn risk
+C00041,0.895917374802008,Few support queries (1) decreased churn risk,Short subscription history (1 months) increased churn risk,Low daily watch time (1.0 hours) increased churn risk
+C00042,0.03306843655671214,Long subscription history (24 months) decreased churn risk,High daily watch time (4.7 hours) decreased churn risk,High engagement rate (8/10) decreased churn risk
+C00043,0.2794723551806625,High engagement rate (10/10) decreased churn risk,Low satisfaction score (3/10) increased churn risk,Many promotional offers used (4) decreased churn risk
+C00044,0.5624760639952583,High engagement rate (9/10) decreased churn risk,Few promotional offers used (0) increased churn risk,Low satisfaction score (3/10) increased churn risk
+C00045,0.612442766253017,High satisfaction score (8/10) decreased churn risk,Frequent support queries (9) increased churn risk,Short subscription history (3 months) increased churn risk
+C00046,0.06353271871202104,High satisfaction score (10/10) decreased churn risk,Frequent support queries (10) increased churn risk,High engagement rate (9/10) decreased churn risk
+C00047,0.8252623389930204,Frequent support queries (10) increased churn risk,Long subscription history (24 months) decreased churn risk,Few promotional offers used (0) increased churn risk
+C00048,0.5634336098488028,Few support queries (0) decreased churn risk,Low engagement rate (2/10) increased churn risk,Low daily watch time (0.6 hours) increased churn risk
+C00049,0.9619538480632123,Low satisfaction score (1/10) increased churn risk,High engagement rate (9/10) decreased churn risk,Few promotional offers used (0) increased churn risk
+C00050,0.6587105288416406,Low satisfaction score (1/10) increased churn risk,Low engagement rate (2/10) increased churn risk,Long subscription history (24 months) decreased churn risk
+C00051,0.5665507723095506,Few promotional offers used (0) increased churn risk,Support queries logged (3) decreased churn risk,Low engagement rate (4/10) increased churn risk
+C00052,0.35557527185955967,Low engagement rate (2/10) increased churn risk,Long subscription history (24 months) decreased churn risk,Few promotional offers used (0) increased churn risk
+C00053,0.10797394669251621,Few support queries (0) decreased churn risk,High satisfaction score (8/10) decreased churn risk,Long subscription history (24 months) decreased churn risk
+C00054,0.06736983497347536,Few support queries (0) decreased churn risk,High engagement rate (9/10) decreased churn risk,Many promotional offers used (5) decreased churn risk
+C00055,0.8849300553431962,Low daily watch time (1.4 hours) increased churn risk,Short subscription history (3 months) increased churn risk,Low engagement rate (4/10) increased churn risk
+C00056,0.6996379290977415,High satisfaction score (9/10) decreased churn risk,Frequent support queries (10) increased churn risk,Short subscription history (1 months) increased churn risk
+C00057,0.07997810421445196,High satisfaction score (10/10) decreased churn risk,High engagement rate (9/10) decreased churn risk,Short subscription history (1 months) increased churn risk
+C00058,0.2699682078494367,Long subscription history (24 months) decreased churn risk,Support queries logged (3) decreased churn risk,Few promotional offers used (1) increased churn risk
+C00059,0.7077133798017549,Frequent support queries (10) increased churn risk,Low satisfaction score (2/10) increased churn risk,Low engagement rate (2/10) increased churn risk
+C00060,0.46122186346248134,Low engagement rate (1/10) increased churn risk,Long subscription history (24 months) decreased churn risk,Low satisfaction score (4/10) increased churn risk
+C00061,0.369192720099263,Few support queries (2) decreased churn risk,Short subscription history (3 months) increased churn risk,Few promotional offers used (1) increased churn risk
+C00062,0.09479187367319912,Few support queries (0) decreased churn risk,Many promotional offers used (4) decreased churn risk,Short subscription history (3 months) increased churn risk
+C00063,0.06489859264552938,High satisfaction score (8/10) decreased churn risk,Few promotional offers used (0) increased churn risk,High daily watch time (4.8 hours) decreased churn risk
+C00064,0.6925042487972327,Low engagement rate (1/10) increased churn risk,Many promotional offers used (5) decreased churn risk,Delayed payment history increased churn risk
+C00065,0.3338018259188708,High engagement rate (10/10) decreased churn risk,Low satisfaction score (2/10) increased churn risk,Many promotional offers used (4) decreased churn risk
+C00066,0.40399174933471094,High engagement rate (8/10) decreased churn risk,Short subscription history (1 months) increased churn risk,Support queries logged (3) decreased churn risk
+C00067,0.017395626925924435,Few support queries (0) decreased churn risk,Long subscription history (24 months) decreased churn risk,High engagement rate (8/10) decreased churn risk
+C00068,0.5720878948807894,Low satisfaction score (1/10) increased churn risk,High daily watch time (4.3 hours) decreased churn risk,Support queries logged (3) decreased churn risk
+C00069,0.9782336470183979,Low satisfaction score (1/10) increased churn risk,Few support queries (1) decreased churn risk,Low engagement rate (3/10) increased churn risk
+C00070,0.10446476599924938,High satisfaction score (10/10) decreased churn risk,High engagement rate (10/10) decreased churn risk,Frequent support queries (9) increased churn risk
+C00071,0.2673651588755893,Low satisfaction score (1/10) increased churn risk,High engagement rate (9/10) decreased churn risk,Support queries logged (3) decreased churn risk
+C00072,0.09525708224844256,Low satisfaction score (2/10) increased churn risk,Long subscription history (24 months) decreased churn risk,Many promotional offers used (5) decreased churn risk
+C00073,0.022154653557252296,High satisfaction score (10/10) decreased churn risk,Few support queries (2) decreased churn risk,Few promotional offers used (1) increased churn risk
+C00074,0.5001595590236386,Frequent support queries (10) increased churn risk,High daily watch time (4.6 hours) decreased churn risk,Delayed payment history increased churn risk
+C00075,0.9749696446740757,Low satisfaction score (2/10) increased churn risk,Few promotional offers used (0) increased churn risk,Frequent support queries (8) increased churn risk
+C00076,0.01631097127786614,High engagement rate (10/10) decreased churn risk,Few support queries (1) decreased churn risk,Short subscription history (1 months) increased churn risk
+C00077,0.3146316569951081,High daily watch time (4.8 hours) decreased churn risk,High engagement rate (8/10) decreased churn risk,Delayed payment history increased churn risk
+C00078,0.5656959359203781,Frequent support queries (9) increased churn risk,Delayed payment history increased churn risk,Satisfaction score (6/10) decreased churn risk
+C00079,0.833962955313833,Few support queries (1) decreased churn risk,Low engagement rate (3/10) increased churn risk,Low daily watch time (0.9 hours) increased churn risk
+C00080,0.37914027404088974,Low satisfaction score (2/10) increased churn risk,High engagement rate (8/10) decreased churn risk,High daily watch time (4.4 hours) decreased churn risk
+C00081,0.8397848271462626,Frequent support queries (9) increased churn risk,Low satisfaction score (3/10) increased churn risk,Short subscription history (1 months) increased churn risk
+C00082,0.07436692024507145,High satisfaction score (9/10) decreased churn risk,Long subscription history (24 months) decreased churn risk,Few promotional offers used (0) increased churn risk
+C00083,0.2824683113700994,Long subscription history (24 months) decreased churn risk,Low daily watch time (0.8 hours) increased churn risk,High engagement rate (8/10) decreased churn risk
+C00084,0.5572236505187598,High satisfaction score (8/10) decreased churn risk,Few promotional offers used (0) increased churn risk,High engagement rate (8/10) decreased churn risk
+C00085,0.10461528374648701,Few support queries (1) decreased churn risk,High daily watch time (5.0 hours) decreased churn risk,On-Time payment history decreased churn risk
+C00086,0.06451367279086166,Many promotional offers used (5) decreased churn risk,High satisfaction score (7/10) decreased churn risk,High engagement rate (8/10) decreased churn risk
+C00087,0.8627616094716488,Low satisfaction score (2/10) increased churn risk,Few support queries (1) decreased churn risk,Low engagement rate (3/10) increased churn risk
+C00088,0.6349493889242122,Few support queries (0) decreased churn risk,High engagement rate (9/10) decreased churn risk,Few promotional offers used (0) increased churn risk
+C00089,0.7517170929372745,Many promotional offers used (5) decreased churn risk,Frequent support queries (8) increased churn risk,Low daily watch time (1.0 hours) increased churn risk
+C00090,0.15760977547255708,Long subscription history (24 months) decreased churn risk,Many promotional offers used (5) decreased churn risk,Low engagement rate (4/10) increased churn risk
+C00091,0.32063995934046985,High satisfaction score (9/10) decreased churn risk,Low engagement rate (1/10) increased churn risk,Many promotional offers used (5) decreased churn risk
+C00092,0.17312954461554772,Low satisfaction score (2/10) increased churn risk,High engagement rate (9/10) decreased churn risk,High daily watch time (4.6 hours) decreased churn risk
+C00093,0.052518008601629404,High satisfaction score (9/10) decreased churn risk,Many promotional offers used (5) decreased churn risk,High engagement rate (8/10) decreased churn risk
+C00094,0.02418492010709733,Long subscription history (24 months) decreased churn risk,Few support queries (1) decreased churn risk,High engagement rate (7/10) decreased churn risk
+C00095,0.2976623546982559,High satisfaction score (7/10) decreased churn risk,Low engagement rate (4/10) increased churn risk,Few promotional offers used (1) increased churn risk
+C00096,0.916076504211651,Low satisfaction score (2/10) increased churn risk,Low engagement rate (2/10) increased churn risk,Few support queries (2) decreased churn risk
+C00097,0.2264350642872745,Low satisfaction score (2/10) increased churn risk,Long subscription history (24 months) decreased churn risk,Many promotional offers used (4) decreased churn risk
+C00098,0.9652311198052963,Low satisfaction score (1/10) increased churn risk,Low engagement rate (3/10) increased churn risk,Short subscription history (1 months) increased churn risk
+C00099,0.17028114061353147,Low satisfaction score (1/10) increased churn risk,Few support queries (1) decreased churn risk,High engagement rate (8/10) decreased churn risk
+C00100,0.8452506398914623,Low engagement rate (1/10) increased churn risk,High satisfaction score (8/10) decreased churn risk,Frequent support queries (9) increased churn risk
+C00101,0.658655874063647,Low satisfaction score (3/10) increased churn risk,Short subscription history (1 months) increased churn risk,High engagement rate (7/10) decreased churn risk
+C00102,0.3049166146796738,Low engagement rate (1/10) increased churn risk,High satisfaction score (8/10) decreased churn risk,Long subscription history (24 months) decreased churn risk
+C00103,0.0675517611471297,High engagement rate (10/10) decreased churn risk,High satisfaction score (8/10) decreased churn risk,Few promotional offers used (0) increased churn risk
+C00104,0.668178280540327,High satisfaction score (10/10) decreased churn risk,Few promotional offers used (0) increased churn risk,Frequent support queries (8) increased churn risk
+C00105,0.5225644075135216,Frequent support queries (9) increased churn risk,Few promotional offers used (0) increased churn risk,High satisfaction score (7/10) decreased churn risk
+C00106,0.8751740902957386,Low engagement rate (2/10) increased churn risk,Many promotional offers used (4) decreased churn risk,Short subscription history (3 months) increased churn risk
+C00107,0.6878829633839983,Short subscription history (3 months) increased churn risk,Frequent support queries (7) increased churn risk,Delayed payment history increased churn risk
+C00108,0.5378036787104519,Low satisfaction score (2/10) increased churn risk,High engagement rate (9/10) decreased churn risk,High daily watch time (4.4 hours) decreased churn risk
+C00109,0.045345526282093096,Long subscription history (24 months) decreased churn risk,Low daily watch time (1.3 hours) increased churn risk,Many promotional offers used (4) decreased churn risk
+C00110,0.950095195497845,Low satisfaction score (2/10) increased churn risk,Low engagement rate (2/10) increased churn risk,Short subscription history (3 months) increased churn risk
+C00111,0.2858377828408841,Frequent support queries (10) increased churn risk,Long subscription history (24 months) decreased churn risk,High engagement rate (9/10) decreased churn risk
+C00112,0.09154061562158572,High satisfaction score (8/10) decreased churn risk,High engagement rate (8/10) decreased churn risk,Short subscription history (3 months) increased churn risk
+C00113,0.9977908458535365,Low satisfaction score (1/10) increased churn risk,Low engagement rate (1/10) increased churn risk,Frequent support queries (10) increased churn risk
+C00114,0.48563820885055087,High satisfaction score (8/10) decreased churn risk,Low engagement rate (3/10) increased churn risk,Many promotional offers used (4) decreased churn risk
+C00115,0.7665412525197876,Low satisfaction score (1/10) increased churn risk,Many promotional offers used (5) decreased churn risk,Low engagement rate (4/10) increased churn risk
+C00116,0.9083166271779081,Frequent support queries (10) increased churn risk,High satisfaction score (7/10) decreased churn risk,Short subscription history (1 months) increased churn risk
+C00117,0.11984431680080598,High satisfaction score (9/10) decreased churn risk,High engagement rate (9/10) decreased churn risk,Frequent support queries (8) increased churn risk
+C00118,0.5851020718273524,Frequent support queries (9) increased churn risk,High engagement rate (9/10) decreased churn risk,Low satisfaction score (3/10) increased churn risk
+C00119,0.05380466243061054,Few support queries (2) decreased churn risk,High engagement rate (7/10) decreased churn risk,Low satisfaction score (4/10) increased churn risk
+C00120,0.27869757151208874,Few support queries (2) decreased churn risk,Low satisfaction score (4/10) increased churn risk,On-Time payment history decreased churn risk
+C00121,0.18719287778640875,Low satisfaction score (3/10) increased churn risk,High engagement rate (8/10) decreased churn risk,Many promotional offers used (4) decreased churn risk
+C00122,0.17051509813012167,High satisfaction score (8/10) decreased churn risk,Few promotional offers used (1) increased churn risk,On-Time payment history decreased churn risk
+C00123,0.7404343885460913,Frequent support queries (9) increased churn risk,High engagement rate (8/10) decreased churn risk,Few promotional offers used (1) increased churn risk
+C00124,0.056842611948332934,Long subscription history (24 months) decreased churn risk,Few support queries (2) decreased churn risk,Daily watch time (1.6 hours) increased churn risk
+C00125,0.9955549247535269,Low satisfaction score (2/10) increased churn risk,Frequent support queries (9) increased churn risk,Low daily watch time (0.9 hours) increased churn risk
+C00126,0.8284235828253177,Low engagement rate (2/10) increased churn risk,Short subscription history (1 months) increased churn risk,Delayed payment history increased churn risk
+C00127,0.01584676575458174,Long subscription history (24 months) decreased churn risk,High engagement rate (9/10) decreased churn risk,Many promotional offers used (4) decreased churn risk
+C00128,0.07714101320454986,High satisfaction score (8/10) decreased churn risk,Long subscription history (24 months) decreased churn risk,Many promotional offers used (5) decreased churn risk
+C00129,0.37469150111215255,Long subscription history (24 months) decreased churn risk,Many promotional offers used (5) decreased churn risk,Low satisfaction score (3/10) increased churn risk
+C00130,0.40601330475565334,High engagement rate (7/10) decreased churn risk,Low satisfaction score (4/10) increased churn risk,On-Time payment history decreased churn risk
+C00131,0.7644104651865146,Low satisfaction score (1/10) increased churn risk,Short subscription history (1 months) increased churn risk,Many promotional offers used (4) decreased churn risk
+C00132,0.4512290404596356,Few support queries (0) decreased churn risk,High engagement rate (9/10) decreased churn risk,Few promotional offers used (0) increased churn risk
+C00133,0.4843857968819352,Low satisfaction score (1/10) increased churn risk,High engagement rate (9/10) decreased churn risk,Low daily watch time (1.1 hours) increased churn risk
+C00134,0.46437705914387983,Low engagement rate (3/10) increased churn risk,Short subscription history (1 months) increased churn risk,On-Time payment history decreased churn risk
+C00135,0.010100046875079286,High satisfaction score (10/10) decreased churn risk,High daily watch time (4.4 hours) decreased churn risk,Many promotional offers used (4) decreased churn risk
+C00136,0.6639989062169971,High satisfaction score (8/10) decreased churn risk,Frequent support queries (9) increased churn risk,Short subscription history (3 months) increased churn risk
+C00137,0.20930559971620694,High satisfaction score (10/10) decreased churn risk,Low daily watch time (0.7 hours) increased churn risk,High engagement rate (8/10) decreased churn risk
+C00138,0.9669648834627733,Frequent support queries (9) increased churn risk,Low satisfaction score (3/10) increased churn risk,Low daily watch time (1.3 hours) increased churn risk
+C00139,0.6030492784960043,Low satisfaction score (2/10) increased churn risk,Few support queries (2) decreased churn risk,High engagement rate (8/10) decreased churn risk
+C00140,0.26264238428811143,High engagement rate (10/10) decreased churn risk,Few promotional offers used (0) increased churn risk,Delayed payment history increased churn risk
+C00141,0.7280689894981967,Low engagement rate (1/10) increased churn risk,Low satisfaction score (2/10) increased churn risk,Few support queries (2) decreased churn risk
+C00142,0.8294343628250467,Low engagement rate (1/10) increased churn risk,Short subscription history (1 months) increased churn risk,Low daily watch time (1.5 hours) increased churn risk
+C00143,0.3056372619903876,High satisfaction score (9/10) decreased churn risk,Support queries logged (3) decreased churn risk,Low engagement rate (4/10) increased churn risk
+C00144,0.02212026571610572,High satisfaction score (10/10) decreased churn risk,High engagement rate (10/10) decreased churn risk,Long subscription history (24 months) decreased churn risk
+C00145,0.25638457845656587,Low engagement rate (2/10) increased churn risk,High satisfaction score (7/10) decreased churn risk,Support queries logged (3) decreased churn risk
+C00146,0.547231558162992,High satisfaction score (10/10) decreased churn risk,Frequent support queries (10) increased churn risk,Low engagement rate (2/10) increased churn risk
+C00147,0.27644412289674913,High satisfaction score (9/10) decreased churn risk,Long subscription history (24 months) decreased churn risk,Low daily watch time (0.7 hours) increased churn risk
+C00148,0.9900301004993263,Low engagement rate (1/10) increased churn risk,Low satisfaction score (3/10) increased churn risk,Few promotional offers used (1) increased churn risk
+C00149,0.4094774542432817,Frequent support queries (9) increased churn risk,Short subscription history (1 months) increased churn risk,Many promotional offers used (4) decreased churn risk
+C00150,0.06381670401865369,High satisfaction score (10/10) decreased churn risk,Few promotional offers used (0) increased churn risk,High daily watch time (4.6 hours) decreased churn risk
+C00151,0.9499168445120628,Low satisfaction score (2/10) increased churn risk,Few promotional offers used (0) increased churn risk,Low daily watch time (1.2 hours) increased churn risk
+C00152,0.10105964883382185,Long subscription history (24 months) decreased churn risk,Few support queries (1) decreased churn risk,High daily watch time (4.9 hours) decreased churn risk
+C00153,0.06025845188508743,High satisfaction score (9/10) decreased churn risk,Frequent support queries (9) increased churn risk,High engagement rate (9/10) decreased churn risk
+C00154,0.008921919158644594,High satisfaction score (10/10) decreased churn risk,Few support queries (1) decreased churn risk,Many promotional offers used (5) decreased churn risk
+C00155,0.43825985920429195,Low engagement rate (2/10) increased churn risk,High satisfaction score (8/10) decreased churn risk,High daily watch time (4.6 hours) decreased churn risk
+C00156,0.7084800836077569,Low satisfaction score (2/10) increased churn risk,Short subscription history (3 months) increased churn risk,Support queries logged (3) decreased churn risk
+C00157,0.04323330827051692,Long subscription history (24 months) decreased churn risk,Few support queries (1) decreased churn risk,Many promotional offers used (5) decreased churn risk
+C00158,0.13625775024510853,Low engagement rate (1/10) increased churn risk,Long subscription history (24 months) decreased churn risk,High satisfaction score (7/10) decreased churn risk
+C00159,0.36907199602543356,Low engagement rate (2/10) increased churn risk,Many promotional offers used (4) decreased churn risk,On-Time payment history decreased churn risk
+C00160,0.08821446062710359,High satisfaction score (8/10) decreased churn risk,Long subscription history (24 months) decreased churn risk,Few promotional offers used (0) increased churn risk
+C00161,0.8474724543833692,Low satisfaction score (2/10) increased churn risk,Frequent support queries (9) increased churn risk,Low engagement rate (3/10) increased churn risk
+C00162,0.4876031698983177,High daily watch time (4.6 hours) decreased churn risk,Support queries logged (3) decreased churn risk,Low engagement rate (4/10) increased churn risk
+C00163,0.6100232110391337,Low engagement rate (1/10) increased churn risk,High satisfaction score (8/10) decreased churn risk,Few support queries (1) decreased churn risk
+C00164,0.17934513636370927,Few support queries (0) decreased churn risk,Few promotional offers used (0) increased churn risk,High engagement rate (8/10) decreased churn risk
+C00165,0.8822823193562624,Low engagement rate (2/10) increased churn risk,Frequent support queries (9) increased churn risk,High daily watch time (4.0 hours) decreased churn risk
+C00166,0.3824678360850688,Low engagement rate (1/10) increased churn risk,Few support queries (0) decreased churn risk,High satisfaction score (7/10) decreased churn risk
+C00167,0.9273606734230775,High engagement rate (10/10) decreased churn risk,Frequent support queries (9) increased churn risk,Few promotional offers used (0) increased churn risk
+C00168,0.3151128992209254,Low engagement rate (1/10) increased churn risk,Few support queries (0) decreased churn risk,Many promotional offers used (5) decreased churn risk
+C00169,0.6681127186034993,Low satisfaction score (2/10) increased churn risk,High engagement rate (9/10) decreased churn risk,Frequent support queries (8) increased churn risk
+C00170,0.21177100404452093,Low engagement rate (2/10) increased churn risk,Long subscription history (24 months) decreased churn risk,Many promotional offers used (5) decreased churn risk
+C00171,0.9310382716395813,Few promotional offers used (0) increased churn risk,Low daily watch time (1.0 hours) increased churn risk,Short subscription history (1 months) increased churn risk
+C00172,0.15896193033501363,High satisfaction score (7/10) decreased churn risk,Short subscription history (1 months) increased churn risk,High daily watch time (4.3 hours) decreased churn risk
+C00173,0.09459400584791716,High satisfaction score (8/10) decreased churn risk,Many promotional offers used (4) decreased churn risk,On-Time payment history decreased churn risk
+C00174,0.1909571011157256,High satisfaction score (9/10) decreased churn risk,Short subscription history (3 months) increased churn risk,High daily watch time (4.1 hours) decreased churn risk
+C00175,0.7965703912736416,Many promotional offers used (5) decreased churn risk,Low engagement rate (3/10) increased churn risk,Low satisfaction score (3/10) increased churn risk
+C00176,0.14956058741705755,High satisfaction score (8/10) decreased churn risk,Few support queries (2) decreased churn risk,Short subscription history (1 months) increased churn risk
+C00177,0.1794157926360689,High satisfaction score (10/10) decreased churn risk,High engagement rate (8/10) decreased churn risk,Low daily watch time (1.3 hours) increased churn risk
+C00178,0.3304572666057681,High engagement rate (8/10) decreased churn risk,Low daily watch time (1.4 hours) increased churn risk,Short subscription history (3 months) increased churn risk
+C00179,0.03200012566849273,High satisfaction score (8/10) decreased churn risk,High engagement rate (8/10) decreased churn risk,High daily watch time (4.4 hours) decreased churn risk
+C00180,0.9636559341645048,Low satisfaction score (2/10) increased churn risk,Few promotional offers used (0) increased churn risk,Few support queries (2) decreased churn risk
+C00181,0.3214990946532982,Long subscription history (24 months) decreased churn risk,Low engagement rate (3/10) increased churn risk,Low satisfaction score (3/10) increased churn risk
+C00182,0.7092290449917737,Low engagement rate (2/10) increased churn risk,High daily watch time (4.3 hours) decreased churn risk,Few promotional offers used (1) increased churn risk
+C00183,0.18108400195463864,Low engagement rate (2/10) increased churn risk,Few support queries (2) decreased churn risk,High satisfaction score (7/10) decreased churn risk
+C00184,0.23713934826200542,High engagement rate (10/10) decreased churn risk,Frequent support queries (10) increased churn risk,High satisfaction score (8/10) decreased churn risk
+C00185,0.444291358338104,Long subscription history (24 months) decreased churn risk,Few support queries (1) decreased churn risk,Few promotional offers used (0) increased churn risk
+C00186,0.7358442396721102,Low satisfaction score (2/10) increased churn risk,Few promotional offers used (0) increased churn risk,High daily watch time (4.6 hours) decreased churn risk
+C00187,0.9670081816915113,Low engagement rate (1/10) increased churn risk,Frequent support queries (10) increased churn risk,Long subscription history (24 months) decreased churn risk
+C00188,0.036998924060089866,High satisfaction score (10/10) decreased churn risk,Long subscription history (24 months) decreased churn risk,Many promotional offers used (5) decreased churn risk
+C00189,0.17990519315733378,High satisfaction score (10/10) decreased churn risk,Low engagement rate (1/10) increased churn risk,Long subscription history (24 months) decreased churn risk
+C00190,0.07936930184653494,Few support queries (0) decreased churn risk,Many promotional offers used (5) decreased churn risk,Delayed payment history increased churn risk
+C00191,0.987033062716701,Low satisfaction score (1/10) increased churn risk,Few promotional offers used (0) increased churn risk,Low engagement rate (3/10) increased churn risk
+C00192,0.03866737123634119,Long subscription history (24 months) decreased churn risk,High engagement rate (9/10) decreased churn risk,Low satisfaction score (3/10) increased churn risk
+C00193,0.9817010650985508,Low satisfaction score (1/10) increased churn risk,Low engagement rate (2/10) increased churn risk,Frequent support queries (9) increased churn risk
+C00194,0.38813154527049987,Low engagement rate (1/10) increased churn risk,Few support queries (0) decreased churn risk,On-Time payment history decreased churn risk
+C00195,0.570679133356595,Low satisfaction score (1/10) increased churn risk,Many promotional offers used (5) decreased churn risk,Low daily watch time (0.7 hours) increased churn risk
+C00196,0.5599063293161467,Low engagement rate (3/10) increased churn risk,Low satisfaction score (3/10) increased churn risk,High daily watch time (4.5 hours) decreased churn risk
+C00197,0.19254610102123926,High satisfaction score (10/10) decreased churn risk,Low engagement rate (1/10) increased churn risk,Long subscription history (24 months) decreased churn risk
+C00198,0.8283537637776113,Low satisfaction score (1/10) increased churn risk,Few support queries (1) decreased churn risk,Low engagement rate (3/10) increased churn risk
+C00199,0.08969694610364647,High engagement rate (10/10) decreased churn risk,Long subscription history (24 months) decreased churn risk,Few promotional offers used (1) increased churn risk
+C00200,0.6377183886194858,High engagement rate (9/10) decreased churn risk,Few promotional offers used (0) increased churn risk,Short subscription history (3 months) increased churn risk
+C00201,0.17203876072964513,High satisfaction score (9/10) decreased churn risk,Delayed payment history increased churn risk,High engagement rate (7/10) decreased churn risk
+C00202,0.3457516972531607,Few support queries (0) decreased churn risk,Low satisfaction score (2/10) increased churn risk,High engagement rate (9/10) decreased churn risk
+C00203,0.17026492596626636,Many promotional offers used (5) decreased churn risk,High daily watch time (4.8 hours) decreased churn risk,Low satisfaction score (3/10) increased churn risk
+C00204,0.4463372678162973,Few support queries (2) decreased churn risk,High engagement rate (8/10) decreased churn risk,Short subscription history (1 months) increased churn risk
+C00205,0.007920555091099811,High satisfaction score (10/10) decreased churn risk,Low engagement rate (2/10) increased churn risk,Long subscription history (24 months) decreased churn risk
+C00206,0.9390839225172476,Few promotional offers used (0) increased churn risk,Low satisfaction score (3/10) increased churn risk,Short subscription history (3 months) increased churn risk
+C00207,0.508817010892798,Low engagement rate (1/10) increased churn risk,Long subscription history (24 months) decreased churn risk,Few promotional offers used (1) increased churn risk
+C00208,0.1908921995958775,Few support queries (0) decreased churn risk,Many promotional offers used (5) decreased churn risk,Delayed payment history increased churn risk
+C00209,0.6011958549094734,Low engagement rate (1/10) increased churn risk,Low satisfaction score (2/10) increased churn risk,Long subscription history (24 months) decreased churn risk
+C00210,0.5694001683285376,Low engagement rate (3/10) increased churn risk,Many promotional offers used (4) decreased churn risk,Short subscription history (3 months) increased churn risk
+C00211,0.4058076379908965,High engagement rate (10/10) decreased churn risk,Low satisfaction score (2/10) increased churn risk,Many promotional offers used (5) decreased churn risk
+C00212,0.6583699918694014,Low satisfaction score (2/10) increased churn risk,Low engagement rate (2/10) increased churn risk,Few support queries (1) decreased churn risk
+C00213,0.0017309893284852683,High satisfaction score (10/10) decreased churn risk,Few support queries (0) decreased churn risk,Many promotional offers used (5) decreased churn risk
+C00214,0.5940737744465161,Low satisfaction score (2/10) increased churn risk,Long subscription history (24 months) decreased churn risk,Frequent support queries (9) increased churn risk
+C00215,0.2610804162135062,Low engagement rate (2/10) increased churn risk,Many promotional offers used (5) decreased churn risk,Frequent support queries (8) increased churn risk
+C00216,0.03034574477898224,Long subscription history (24 months) decreased churn risk,High engagement rate (8/10) decreased churn risk,High daily watch time (4.3 hours) decreased churn risk
+C00217,0.6200558236780546,High daily watch time (4.6 hours) decreased churn risk,Short subscription history (1 months) increased churn risk,Frequent support queries (7) increased churn risk
+C00218,0.7989065089753037,Low satisfaction score (2/10) increased churn risk,Long subscription history (24 months) decreased churn risk,Frequent support queries (8) increased churn risk
+C00219,0.002095675245675609,High satisfaction score (10/10) decreased churn risk,Long subscription history (24 months) decreased churn risk,Few support queries (1) decreased churn risk
+C00220,0.010462206363555736,High satisfaction score (9/10) decreased churn risk,Few support queries (1) decreased churn risk,High engagement rate (8/10) decreased churn risk
+C00221,0.1954178689540134,High engagement rate (10/10) decreased churn risk,Low satisfaction score (2/10) increased churn risk,Long subscription history (24 months) decreased churn risk
+C00222,0.6274452069651595,Low engagement rate (2/10) increased churn risk,High satisfaction score (8/10) decreased churn risk,Short subscription history (3 months) increased churn risk
+C00223,0.966023133967716,Few promotional offers used (0) increased churn risk,Low satisfaction score (3/10) increased churn risk,High engagement rate (8/10) decreased churn risk
+C00224,0.016137358412315093,High satisfaction score (10/10) decreased churn risk,Long subscription history (24 months) decreased churn risk,Few support queries (1) decreased churn risk
+C00225,0.0662686199705947,High engagement rate (9/10) decreased churn risk,Few support queries (2) decreased churn risk,Short subscription history (1 months) increased churn risk
+C00226,0.009631409544308418,High satisfaction score (10/10) decreased churn risk,Long subscription history (24 months) decreased churn risk,High engagement rate (8/10) decreased churn risk
+C00227,0.15416082590578856,High engagement rate (8/10) decreased churn risk,Support queries logged (3) decreased churn risk,On-Time payment history decreased churn risk
+C00228,0.3025800308471186,Frequent support queries (10) increased churn risk,High daily watch time (4.8 hours) decreased churn risk,On-Time payment history decreased churn risk
+C00229,0.8753280714654428,Frequent support queries (10) increased churn risk,Few promotional offers used (0) increased churn risk,High satisfaction score (7/10) decreased churn risk
+C00230,0.38043361835448114,High satisfaction score (7/10) decreased churn risk,High engagement rate (8/10) decreased churn risk,Delayed payment history increased churn risk
+C00231,0.11894428695953789,High satisfaction score (10/10) decreased churn risk,Low engagement rate (2/10) increased churn risk,High daily watch time (4.2 hours) decreased churn risk
+C00232,0.12030087927096147,High satisfaction score (8/10) decreased churn risk,Many promotional offers used (5) decreased churn risk,Low engagement rate (4/10) increased churn risk
+C00233,0.6458361349822551,Low satisfaction score (2/10) increased churn risk,Long subscription history (24 months) decreased churn risk,High daily watch time (4.4 hours) decreased churn risk
+C00234,0.1583261551683495,High satisfaction score (10/10) decreased churn risk,Few promotional offers used (0) increased churn risk,Low daily watch time (0.7 hours) increased churn risk
+C00235,0.8517931355973308,High satisfaction score (10/10) decreased churn risk,Low engagement rate (1/10) increased churn risk,Low daily watch time (0.6 hours) increased churn risk
+C00236,0.9601982711525177,Low engagement rate (2/10) increased churn risk,Few promotional offers used (0) increased churn risk,High satisfaction score (7/10) decreased churn risk
+C00237,0.9420510758706541,Low satisfaction score (2/10) increased churn risk,Many promotional offers used (5) decreased churn risk,Short subscription history (1 months) increased churn risk
+C00238,0.06962040566209755,Few support queries (0) decreased churn risk,Short subscription history (3 months) increased churn risk,High daily watch time (4.1 hours) decreased churn risk
+C00239,0.6641711738656815,Low satisfaction score (3/10) increased churn risk,High daily watch time (4.6 hours) decreased churn risk,Short subscription history (1 months) increased churn risk
+C00240,0.31448885819343964,High satisfaction score (9/10) decreased churn risk,Many promotional offers used (5) decreased churn risk,Frequent support queries (7) increased churn risk
+C00241,0.9731439134924638,Low satisfaction score (1/10) increased churn risk,Frequent support queries (8) increased churn risk,Low daily watch time (0.9 hours) increased churn risk
+C00242,0.06318250525723873,Few support queries (1) decreased churn risk,Many promotional offers used (4) decreased churn risk,Delayed payment history increased churn risk
+C00243,0.9285107449392177,Frequent support queries (10) increased churn risk,High engagement rate (9/10) decreased churn risk,Few promotional offers used (0) increased churn risk
+C00244,0.12285611965164682,Few support queries (0) decreased churn risk,Low daily watch time (1.1 hours) increased churn risk,Many promotional offers used (4) decreased churn risk
+C00245,0.34142962283682665,High satisfaction score (10/10) decreased churn risk,Frequent support queries (10) increased churn risk,High daily watch time (4.6 hours) decreased churn risk
+C00246,0.1353132405695763,High satisfaction score (10/10) decreased churn risk,Low engagement rate (2/10) increased churn risk,Many promotional offers used (4) decreased churn risk
+C00247,0.17299428560289104,High engagement rate (10/10) decreased churn risk,Short subscription history (1 months) increased churn risk,Low daily watch time (1.3 hours) increased churn risk
+C00248,0.0026713062516628984,High satisfaction score (10/10) decreased churn risk,Few support queries (0) decreased churn risk,Long subscription history (24 months) decreased churn risk
+C00249,0.576886948574954,Many promotional offers used (5) decreased churn risk,Low satisfaction score (3/10) increased churn risk,Short subscription history (3 months) increased churn risk
+C00250,0.8938631966430112,Short subscription history (1 months) increased churn risk,Many promotional offers used (4) decreased churn risk,Low daily watch time (1.4 hours) increased churn risk
+C00251,0.9900913611068428,Low satisfaction score (1/10) increased churn risk,Low engagement rate (1/10) increased churn risk,Frequent support queries (10) increased churn risk
+C00252,0.9168014868535931,Many promotional offers used (5) decreased churn risk,Low daily watch time (0.5 hours) increased churn risk,Frequent support queries (8) increased churn risk
+C00253,0.31962765246036023,High satisfaction score (8/10) decreased churn risk,Frequent support queries (9) increased churn risk,Many promotional offers used (4) decreased churn risk
+C00254,0.6535112027592754,Low satisfaction score (2/10) increased churn risk,High engagement rate (9/10) decreased churn risk,Few promotional offers used (1) increased churn risk
+C00255,0.02490844701119755,High satisfaction score (10/10) decreased churn risk,Few support queries (1) decreased churn risk,Many promotional offers used (5) decreased churn risk
+C00256,0.19531210441308686,Few support queries (1) decreased churn risk,High daily watch time (4.6 hours) decreased churn risk,Many promotional offers used (4) decreased churn risk
+C00257,0.037007038722007224,Long subscription history (24 months) decreased churn risk,High satisfaction score (7/10) decreased churn risk,High engagement rate (8/10) decreased churn risk
+C00258,0.9278197983352834,Low satisfaction score (3/10) increased churn risk,Few promotional offers used (1) increased churn risk,Daily watch time (1.6 hours) increased churn risk
+C00259,0.578040299323085,Low satisfaction score (3/10) increased churn risk,Low daily watch time (1.2 hours) increased churn risk,Support queries logged (3) decreased churn risk
+C00260,0.7725660844509474,Frequent support queries (10) increased churn risk,Low satisfaction score (2/10) increased churn risk,Long subscription history (24 months) decreased churn risk
+C00261,0.9573474496406408,Short subscription history (1 months) increased churn risk,Low daily watch time (1.3 hours) increased churn risk,Support queries logged (3) decreased churn risk
+C00262,0.6926455681494091,Low engagement rate (1/10) increased churn risk,High satisfaction score (8/10) decreased churn risk,Frequent support queries (9) increased churn risk
+C00263,0.8881182838133728,Low engagement rate (3/10) increased churn risk,Few support queries (2) decreased churn risk,Low satisfaction score (3/10) increased churn risk
+C00264,0.6624757673325415,Low engagement rate (1/10) increased churn risk,Short subscription history (1 months) increased churn risk,High daily watch time (4.5 hours) decreased churn risk
+C00265,0.6052461446152797,Low engagement rate (2/10) increased churn risk,Long subscription history (24 months) decreased churn risk,High daily watch time (4.8 hours) decreased churn risk
+C00266,0.4992127117245463,Many promotional offers used (5) decreased churn risk,Short subscription history (3 months) increased churn risk,Support queries logged (3) decreased churn risk
+C00267,0.9156163127032118,Low satisfaction score (1/10) increased churn risk,High engagement rate (8/10) decreased churn risk,Few promotional offers used (1) increased churn risk
+C00268,0.38528433389909833,Low engagement rate (2/10) increased churn risk,Long subscription history (24 months) decreased churn risk,Few promotional offers used (0) increased churn risk
+C00269,0.05164359642605752,High satisfaction score (8/10) decreased churn risk,High engagement rate (9/10) decreased churn risk,Few promotional offers used (1) increased churn risk
+C00270,0.9173032272146101,Low satisfaction score (1/10) increased churn risk,High daily watch time (4.5 hours) decreased churn risk,Short subscription history (1 months) increased churn risk
+C00271,0.7660172764797232,High satisfaction score (10/10) decreased churn risk,Low engagement rate (2/10) increased churn risk,Few promotional offers used (0) increased churn risk
+C00272,0.5169884859715276,Low engagement rate (2/10) increased churn risk,Long subscription history (24 months) decreased churn risk,Support queries logged (3) decreased churn risk
+C00273,0.1087283929270357,High engagement rate (9/10) decreased churn risk,Support queries logged (3) decreased churn risk,Low daily watch time (1.4 hours) increased churn risk
+C00274,0.4702178700403463,Low engagement rate (3/10) increased churn risk,High satisfaction score (7/10) decreased churn risk,High daily watch time (4.6 hours) decreased churn risk
+C00275,0.4261726991768936,Long subscription history (24 months) decreased churn risk,Few promotional offers used (0) increased churn risk,Delayed payment history increased churn risk
+C00276,0.40698858293927354,Low satisfaction score (1/10) increased churn risk,Long subscription history (24 months) decreased churn risk,High engagement rate (9/10) decreased churn risk
+C00277,0.26965610177178284,Low engagement rate (2/10) increased churn risk,High satisfaction score (8/10) decreased churn risk,Short subscription history (3 months) increased churn risk
+C00278,0.25154917369848334,Many promotional offers used (5) decreased churn risk,High satisfaction score (7/10) decreased churn risk,Short subscription history (1 months) increased churn risk
+C00279,0.9794293214545214,Low satisfaction score (1/10) increased churn risk,Frequent support queries (10) increased churn risk,Short subscription history (1 months) increased churn risk
+C00280,0.40405579855749657,Low engagement rate (2/10) increased churn risk,High satisfaction score (8/10) decreased churn risk,Long subscription history (24 months) decreased churn risk
+C00281,0.8684010198343396,Low engagement rate (1/10) increased churn risk,Short subscription history (1 months) increased churn risk,On-Time payment history decreased churn risk
+C00282,0.47985909647415703,High satisfaction score (8/10) decreased churn risk,Frequent support queries (9) increased churn risk,High engagement rate (9/10) decreased churn risk
+C00283,0.43447359123775775,Low satisfaction score (1/10) increased churn risk,Few support queries (2) decreased churn risk,Many promotional offers used (4) decreased churn risk
+C00284,0.8615148921319682,Low engagement rate (3/10) increased churn risk,Delayed payment history increased churn risk,Short subscription history (6 months) increased churn risk
+C00285,0.05272676474156799,High satisfaction score (8/10) decreased churn risk,Few support queries (2) decreased churn risk,High engagement rate (8/10) decreased churn risk
+C00286,0.33707698414452175,Low engagement rate (1/10) increased churn risk,Long subscription history (24 months) decreased churn risk,Few support queries (2) decreased churn risk
+C00287,0.7250527824383018,Frequent support queries (10) increased churn risk,High engagement rate (9/10) decreased churn risk,Few promotional offers used (0) increased churn risk
+C00288,0.6532734482602203,High satisfaction score (9/10) decreased churn risk,Low engagement rate (2/10) increased churn risk,Frequent support queries (8) increased churn risk
+C00289,0.7052593146430072,Low satisfaction score (1/10) increased churn risk,Frequent support queries (9) increased churn risk,High engagement rate (9/10) decreased churn risk
+C00290,0.8141398535296094,High engagement rate (10/10) decreased churn risk,Low daily watch time (0.5 hours) increased churn risk,Few promotional offers used (0) increased churn risk
+C00291,0.2602408437886329,High satisfaction score (8/10) decreased churn risk,Low daily watch time (0.7 hours) increased churn risk,Support queries logged (3) decreased churn risk
+C00292,0.25496052656896045,Few support queries (0) decreased churn risk,Low engagement rate (2/10) increased churn risk,Long subscription history (24 months) decreased churn risk
+C00293,0.9061896608381255,Low satisfaction score (1/10) increased churn risk,Low engagement rate (2/10) increased churn risk,Few support queries (2) decreased churn risk
+C00294,0.5529342660345172,High engagement rate (10/10) decreased churn risk,Low satisfaction score (2/10) increased churn risk,Long subscription history (24 months) decreased churn risk
+C00295,0.7730925482347343,Low satisfaction score (1/10) increased churn risk,Few support queries (1) decreased churn risk,Delayed payment history increased churn risk
+C00296,0.5685278834328285,High engagement rate (9/10) decreased churn risk,Few promotional offers used (0) increased churn risk,Low satisfaction score (3/10) increased churn risk
+C00297,0.9449756824195055,High satisfaction score (9/10) decreased churn risk,Low engagement rate (1/10) increased churn risk,Frequent support queries (10) increased churn risk
+C00298,0.9641667409030601,Low engagement rate (1/10) increased churn risk,Low daily watch time (0.8 hours) increased churn risk,Low satisfaction score (3/10) increased churn risk
+C00299,0.7259378031720841,Frequent support queries (9) increased churn risk,Short subscription history (3 months) increased churn risk,Low satisfaction score (4/10) increased churn risk
+C00300,0.047939200131164345,High satisfaction score (10/10) decreased churn risk,High engagement rate (9/10) decreased churn risk,Short subscription history (3 months) increased churn risk
+C00301,0.2460352543913459,High satisfaction score (10/10) decreased churn risk,Low engagement rate (2/10) increased churn risk,Short subscription history (1 months) increased churn risk
+C00302,0.6970232488205548,Low satisfaction score (1/10) increased churn risk,High engagement rate (7/10) decreased churn risk,On-Time payment history decreased churn risk
+C00303,0.11332408814838528,High satisfaction score (8/10) decreased churn risk,High engagement rate (9/10) decreased churn risk,Frequent support queries (8) increased churn risk
+C00304,0.8512424363426245,High satisfaction score (8/10) decreased churn risk,Frequent support queries (9) increased churn risk,Low engagement rate (4/10) increased churn risk
+C00305,0.727980567623606,Low engagement rate (1/10) increased churn risk,Long subscription history (24 months) decreased churn risk,Few promotional offers used (0) increased churn risk
+C00306,0.38785721912277876,Many promotional offers used (5) decreased churn risk,Few support queries (2) decreased churn risk,Low satisfaction score (3/10) increased churn risk
+C00307,0.42045580154404255,Low engagement rate (1/10) increased churn risk,High satisfaction score (8/10) decreased churn risk,Many promotional offers used (4) decreased churn risk
+C00308,0.3813435903367032,High satisfaction score (9/10) decreased churn risk,Frequent support queries (9) increased churn risk,Low daily watch time (1.2 hours) increased churn risk
+C00309,0.6758374266901088,High satisfaction score (8/10) decreased churn risk,Few promotional offers used (0) increased churn risk,Short subscription history (1 months) increased churn risk
+C00310,0.024796789379852205,High satisfaction score (9/10) decreased churn risk,High engagement rate (9/10) decreased churn risk,Few support queries (2) decreased churn risk
+C00311,0.8053645315977905,Few support queries (0) decreased churn risk,Low satisfaction score (2/10) increased churn risk,Few promotional offers used (0) increased churn risk
+C00312,0.6174558661474225,Frequent support queries (8) increased churn risk,Low daily watch time (1.4 hours) increased churn risk,On-Time payment history decreased churn risk
+C00313,0.20537426458704117,Few support queries (1) decreased churn risk,High engagement rate (9/10) decreased churn risk,Many promotional offers used (4) decreased churn risk
+C00314,0.752529616946064,Low engagement rate (3/10) increased churn risk,Low daily watch time (1.2 hours) increased churn risk,Many promotional offers used (4) decreased churn risk
+C00315,0.13295444447224508,Long subscription history (24 months) decreased churn risk,Many promotional offers used (5) decreased churn risk,Low satisfaction score (3/10) increased churn risk
+C00316,0.04829579650698543,High satisfaction score (10/10) decreased churn risk,Low engagement rate (2/10) increased churn risk,Long subscription history (24 months) decreased churn risk
+C00317,0.012979512914723696,High engagement rate (10/10) decreased churn risk,Many promotional offers used (5) decreased churn risk,High satisfaction score (7/10) decreased churn risk
+C00318,0.17600180700627116,Few support queries (0) decreased churn risk,Low satisfaction score (2/10) increased churn risk,Long subscription history (24 months) decreased churn risk
+C00319,0.9913513298372572,Low satisfaction score (1/10) increased churn risk,Low engagement rate (1/10) increased churn risk,Low daily watch time (1.3 hours) increased churn risk
+C00320,0.0865965853796021,Few support queries (0) decreased churn risk,Low engagement rate (2/10) increased churn risk,Long subscription history (24 months) decreased churn risk
+C00321,0.2510637723647076,Long subscription history (24 months) decreased churn risk,Frequent support queries (9) increased churn risk,Low daily watch time (1.3 hours) increased churn risk
+C00322,0.11450687391279377,Long subscription history (24 months) decreased churn risk,Low engagement rate (3/10) increased churn risk,Low daily watch time (0.8 hours) increased churn risk
+C00323,0.9740686701957224,Low satisfaction score (2/10) increased churn risk,Low engagement rate (2/10) increased churn risk,Short subscription history (1 months) increased churn risk
+C00324,0.8370126771175271,Frequent support queries (10) increased churn risk,High satisfaction score (8/10) decreased churn risk,Low engagement rate (3/10) increased churn risk
+C00325,0.04916291993609155,High engagement rate (10/10) decreased churn risk,Few support queries (1) decreased churn risk,Many promotional offers used (5) decreased churn risk
+C00326,0.036921347900523045,Long subscription history (24 months) decreased churn risk,High engagement rate (9/10) decreased churn risk,High daily watch time (4.6 hours) decreased churn risk
+C00327,0.6394590408553011,Low satisfaction score (2/10) increased churn risk,Low engagement rate (3/10) increased churn risk,Support queries logged (3) decreased churn risk
+C00328,0.39988945930012515,Few support queries (0) decreased churn risk,Low engagement rate (2/10) increased churn risk,High daily watch time (5.0 hours) decreased churn risk
+C00329,0.6842691238729293,Low satisfaction score (2/10) increased churn risk,Short subscription history (1 months) increased churn risk,High engagement rate (7/10) decreased churn risk
+C00330,0.31292631714579955,High satisfaction score (9/10) decreased churn risk,Short subscription history (1 months) increased churn risk,Delayed payment history increased churn risk
+C00331,0.8083851020222569,Low satisfaction score (2/10) increased churn risk,High engagement rate (8/10) decreased churn risk,Short subscription history (1 months) increased churn risk
+C00332,0.17797372541251016,High engagement rate (9/10) decreased churn risk,High daily watch time (4.4 hours) decreased churn risk,Few promotional offers used (1) increased churn risk
+C00333,0.05215471709053936,High satisfaction score (10/10) decreased churn risk,Frequent support queries (10) increased churn risk,Long subscription history (24 months) decreased churn risk
+C00334,0.9132721301560925,High daily watch time (5.0 hours) decreased churn risk,Low engagement rate (3/10) increased churn risk,Frequent support queries (8) increased churn risk
+C00335,0.02631869288608856,High satisfaction score (10/10) decreased churn risk,Long subscription history (24 months) decreased churn risk,Frequent support queries (9) increased churn risk
+C00336,0.8354571629000217,Low satisfaction score (2/10) increased churn risk,Few support queries (1) decreased churn risk,Few promotional offers used (0) increased churn risk
+C00337,0.018927787284300467,High satisfaction score (10/10) decreased churn risk,Few support queries (0) decreased churn risk,Low daily watch time (0.9 hours) increased churn risk
+C00338,0.23181866720813094,High satisfaction score (9/10) decreased churn risk,Few support queries (1) decreased churn risk,Few promotional offers used (0) increased churn risk
+C00339,0.06711427585726847,High satisfaction score (9/10) decreased churn risk,Long subscription history (24 months) decreased churn risk,Low engagement rate (4/10) increased churn risk
+C00340,0.019174133932041384,Many promotional offers used (5) decreased churn risk,High daily watch time (4.7 hours) decreased churn risk,High engagement rate (8/10) decreased churn risk
+C00341,0.8305850278219501,Short subscription history (1 months) increased churn risk,Many promotional offers used (4) decreased churn risk,Low engagement rate (4/10) increased churn risk
+C00342,0.09748621946000749,High satisfaction score (8/10) decreased churn risk,Many promotional offers used (5) decreased churn risk,Frequent support queries (8) increased churn risk
+C00343,0.3999042706160415,High satisfaction score (9/10) decreased churn risk,Low engagement rate (3/10) increased churn risk,Short subscription history (1 months) increased churn risk
+C00344,0.7036378890643813,Low satisfaction score (1/10) increased churn risk,Long subscription history (24 months) decreased churn risk,Low engagement rate (4/10) increased churn risk
+C00345,0.5365702530583252,Frequent support queries (10) increased churn risk,High satisfaction score (8/10) decreased churn risk,High engagement rate (9/10) decreased churn risk
+C00346,0.5369785772186734,High satisfaction score (9/10) decreased churn risk,Low engagement rate (2/10) increased churn risk,Short subscription history (1 months) increased churn risk
+C00347,0.4387912596563946,Frequent support queries (10) increased churn risk,High satisfaction score (8/10) decreased churn risk,Few promotional offers used (0) increased churn risk
+C00348,0.011335144965969324,High satisfaction score (10/10) decreased churn risk,Many promotional offers used (5) decreased churn risk,Low engagement rate (3/10) increased churn risk
+C00349,0.8225145465264946,Low engagement rate (2/10) increased churn risk,Long subscription history (24 months) decreased churn risk,Frequent support queries (8) increased churn risk
+C00350,0.9582713272510379,Low satisfaction score (2/10) increased churn risk,Few promotional offers used (0) increased churn risk,Low engagement rate (3/10) increased churn risk
+C00351,0.11307793080060152,Few support queries (0) decreased churn risk,High engagement rate (9/10) decreased churn risk,Many promotional offers used (5) decreased churn risk
+C00352,0.8104136194256485,Low engagement rate (2/10) increased churn risk,Few promotional offers used (0) increased churn risk,Daily watch time (1.7 hours) increased churn risk
+C00353,0.4550453661645456,High satisfaction score (10/10) decreased churn risk,Frequent support queries (8) increased churn risk,Low engagement rate (4/10) increased churn risk
+C00354,0.015705069705264484,High satisfaction score (10/10) decreased churn risk,High engagement rate (10/10) decreased churn risk,Long subscription history (24 months) decreased churn risk
+C00355,0.8531472702644207,Low engagement rate (2/10) increased churn risk,Many promotional offers used (4) decreased churn risk,Frequent support queries (7) increased churn risk
+C00356,0.09383198770128988,High satisfaction score (9/10) decreased churn risk,Long subscription history (24 months) decreased churn risk,Frequent support queries (9) increased churn risk
+C00357,0.009783494944557896,Few support queries (0) decreased churn risk,Many promotional offers used (5) decreased churn risk,High daily watch time (4.2 hours) decreased churn risk
+C00358,0.015114713727799137,Long subscription history (24 months) decreased churn risk,Few support queries (1) decreased churn risk,High satisfaction score (7/10) decreased churn risk
+C00359,0.02407281580948525,Many promotional offers used (5) decreased churn risk,Few support queries (2) decreased churn risk,High engagement rate (8/10) decreased churn risk
+C00360,0.6159520535517108,High engagement rate (8/10) decreased churn risk,Low daily watch time (1.1 hours) increased churn risk,Few promotional offers used (1) increased churn risk
+C00361,0.6753496360783194,High satisfaction score (10/10) decreased churn risk,Frequent support queries (10) increased churn risk,Low engagement rate (2/10) increased churn risk
+C00362,0.6580697926130682,Low satisfaction score (1/10) increased churn risk,High engagement rate (10/10) decreased churn risk,Support queries logged (3) decreased churn risk
+C00363,0.06627838107725736,High satisfaction score (9/10) decreased churn risk,High daily watch time (4.5 hours) decreased churn risk,Delayed payment history increased churn risk
+C00364,0.8302338114327306,Frequent support queries (8) increased churn risk,Low satisfaction score (3/10) increased churn risk,Many promotional offers used (4) decreased churn risk
+C00365,0.031668301076666024,High engagement rate (9/10) decreased churn risk,High daily watch time (4.9 hours) decreased churn risk,Support queries logged (3) decreased churn risk
+C00366,0.008385252768584288,High satisfaction score (10/10) decreased churn risk,Few support queries (0) decreased churn risk,Short subscription history (1 months) increased churn risk
+C00367,0.14214543552277986,High engagement rate (9/10) decreased churn risk,Few promotional offers used (0) increased churn risk,High daily watch time (4.5 hours) decreased churn risk
+C00368,0.6638290452321838,Few promotional offers used (0) increased churn risk,High daily watch time (4.8 hours) decreased churn risk,Few support queries (2) decreased churn risk
+C00369,0.6941104280790588,Low engagement rate (1/10) increased churn risk,Few promotional offers used (0) increased churn risk,Few support queries (2) decreased churn risk
+C00370,0.6901878997724347,Low satisfaction score (2/10) increased churn risk,High engagement rate (9/10) decreased churn risk,Frequent support queries (8) increased churn risk
+C00371,0.010894998593485918,Low satisfaction score (2/10) increased churn risk,Long subscription history (24 months) decreased churn risk,High engagement rate (9/10) decreased churn risk
+C00372,0.4375531421653673,Long subscription history (24 months) decreased churn risk,Few promotional offers used (0) increased churn risk,Low satisfaction score (3/10) increased churn risk
+C00373,0.9167178057897319,Low engagement rate (1/10) increased churn risk,Short subscription history (1 months) increased churn risk,Delayed payment history increased churn risk
+C00374,0.8959007913313173,Low engagement rate (1/10) increased churn risk,Few support queries (1) decreased churn risk,Few promotional offers used (0) increased churn risk
+C00375,0.5316187151761995,Low satisfaction score (1/10) increased churn risk,Long subscription history (24 months) decreased churn risk,On-Time payment history decreased churn risk
+C00376,0.1641104291311874,High satisfaction score (9/10) decreased churn risk,Long subscription history (24 months) decreased churn risk,Few promotional offers used (0) increased churn risk
+C00377,0.9183639776847591,Frequent support queries (8) increased churn risk,High engagement rate (8/10) decreased churn risk,Low daily watch time (1.2 hours) increased churn risk
+C00378,0.1295923031826477,Long subscription history (24 months) decreased churn risk,Many promotional offers used (4) decreased churn risk,Frequent support queries (7) increased churn risk
+C00379,0.45690428909065917,Low satisfaction score (3/10) increased churn risk,Short subscription history (1 months) increased churn risk,Many promotional offers used (4) decreased churn risk
+C00380,0.4797784400797861,Low engagement rate (2/10) increased churn risk,Few promotional offers used (0) increased churn risk,Few support queries (2) decreased churn risk
+C00381,0.7405333216928769,High satisfaction score (10/10) decreased churn risk,Low engagement rate (1/10) increased churn risk,Frequent support queries (10) increased churn risk
+C00382,0.9217790783750581,Low satisfaction score (1/10) increased churn risk,Frequent support queries (9) increased churn risk,High engagement rate (8/10) decreased churn risk
+C00383,0.5622163795766839,Low engagement rate (3/10) increased churn risk,High daily watch time (4.8 hours) decreased churn risk,Few support queries (2) decreased churn risk
+C00384,0.028141145217628602,High satisfaction score (10/10) decreased churn risk,Many promotional offers used (5) decreased churn risk,Low engagement rate (4/10) increased churn risk
+C00385,0.7821319012438048,Frequent support queries (10) increased churn risk,High engagement rate (9/10) decreased churn risk,Many promotional offers used (5) decreased churn risk
+C00386,0.3527678951706043,High satisfaction score (9/10) decreased churn risk,Low engagement rate (2/10) increased churn risk,Few support queries (1) decreased churn risk
+C00387,0.9852952571037844,Low satisfaction score (1/10) increased churn risk,Frequent support queries (8) increased churn risk,Short subscription history (1 months) increased churn risk
+C00388,0.6814329294718076,Long subscription history (24 months) decreased churn risk,Few promotional offers used (0) increased churn risk,Low engagement rate (3/10) increased churn risk
+C00389,0.9836254558051923,Low engagement rate (1/10) increased churn risk,Low satisfaction score (2/10) increased churn risk,Frequent support queries (8) increased churn risk
+C00390,0.4004511047993625,Many promotional offers used (5) decreased churn risk,Short subscription history (1 months) increased churn risk,Low satisfaction score (4/10) increased churn risk
+C00391,0.12511133692924575,Long subscription history (24 months) decreased churn risk,Few support queries (1) decreased churn risk,Low satisfaction score (3/10) increased churn risk
+C00392,0.6057004105062064,Frequent support queries (10) increased churn risk,Low engagement rate (2/10) increased churn risk,Long subscription history (24 months) decreased churn risk
+C00393,0.7160507423775562,Low satisfaction score (2/10) increased churn risk,Long subscription history (24 months) decreased churn risk,Few promotional offers used (0) increased churn risk
+C00394,0.5174225543356501,Short subscription history (3 months) increased churn risk,On-Time payment history decreased churn risk,Daily watch time (1.8 hours) increased churn risk
+C00395,0.8555037745593074,Low daily watch time (1.0 hours) increased churn risk,Short subscription history (3 months) increased churn risk,Frequent support queries (7) increased churn risk
+C00396,0.9683252201454137,Low satisfaction score (1/10) increased churn risk,Low engagement rate (2/10) increased churn risk,Few promotional offers used (0) increased churn risk
+C00397,0.11235195761477845,Long subscription history (24 months) decreased churn risk,Few support queries (1) decreased churn risk,Low daily watch time (1.3 hours) increased churn risk
+C00398,0.6528561220315268,Few promotional offers used (0) increased churn risk,Low engagement rate (3/10) increased churn risk,Few support queries (2) decreased churn risk
+C00399,0.2716865633853308,High satisfaction score (9/10) decreased churn risk,Frequent support queries (8) increased churn risk,High engagement rate (8/10) decreased churn risk
+C00400,0.7037931765102889,Frequent support queries (8) increased churn risk,High daily watch time (4.7 hours) decreased churn risk,Low engagement rate (4/10) increased churn risk
+C00401,0.0024486821606168594,High satisfaction score (9/10) decreased churn risk,Few support queries (0) decreased churn risk,Many promotional offers used (5) decreased churn risk
+C00402,0.5321559295353948,Low satisfaction score (1/10) increased churn risk,Frequent support queries (10) increased churn risk,Long subscription history (24 months) decreased churn risk
+C00403,0.8853087923472367,Short subscription history (1 months) increased churn risk,Low daily watch time (1.0 hours) increased churn risk,Delayed payment history increased churn risk
+C00404,0.007640637128707877,Few support queries (0) decreased churn risk,Many promotional offers used (5) decreased churn risk,High satisfaction score (7/10) decreased churn risk
+C00405,0.013490201921993347,Few support queries (0) decreased churn risk,High satisfaction score (7/10) decreased churn risk,High engagement rate (7/10) decreased churn risk
+C00406,0.5141921828188488,High satisfaction score (10/10) decreased churn risk,Few promotional offers used (0) increased churn risk,Low engagement rate (4/10) increased churn risk
+C00407,0.6517511185726075,Low engagement rate (3/10) increased churn risk,Low satisfaction score (3/10) increased churn risk,Many promotional offers used (4) decreased churn risk
+C00408,0.7764762392913593,Low engagement rate (2/10) increased churn risk,Long subscription history (24 months) decreased churn risk,Few support queries (1) decreased churn risk
+C00409,0.43680178086051924,High satisfaction score (9/10) decreased churn risk,Few support queries (1) decreased churn risk,Low engagement rate (3/10) increased churn risk
+C00410,0.7794892282610026,Low satisfaction score (1/10) increased churn risk,Few support queries (0) decreased churn risk,Long subscription history (24 months) decreased churn risk
+C00411,0.05384035016780875,Low satisfaction score (2/10) increased churn risk,Long subscription history (24 months) decreased churn risk,Few support queries (1) decreased churn risk
+C00412,0.03157002459143733,Few support queries (0) decreased churn risk,High daily watch time (4.1 hours) decreased churn risk,On-Time payment history decreased churn risk
+C00413,0.8373287242343942,Frequent support queries (10) increased churn risk,High engagement rate (8/10) decreased churn risk,Few promotional offers used (1) increased churn risk
+C00414,0.4070668516903346,Few support queries (0) decreased churn risk,Short subscription history (1 months) increased churn risk,Delayed payment history increased churn risk
+C00415,0.06713280491632864,High engagement rate (10/10) decreased churn risk,Low satisfaction score (3/10) increased churn risk,High daily watch time (4.5 hours) decreased churn risk
+C00416,0.36324928884138474,High engagement rate (9/10) decreased churn risk,Few promotional offers used (0) increased churn risk,Few support queries (2) decreased churn risk
+C00417,0.9913723266165855,Low satisfaction score (1/10) increased churn risk,Low engagement rate (1/10) increased churn risk,Few promotional offers used (0) increased churn risk
+C00418,0.508169777851122,Low satisfaction score (2/10) increased churn risk,High engagement rate (8/10) decreased churn risk,Short subscription history (1 months) increased churn risk
+C00419,0.020872582592176905,High satisfaction score (9/10) decreased churn risk,High engagement rate (10/10) decreased churn risk,Many promotional offers used (5) decreased churn risk
+C00420,0.9833500813777685,Low engagement rate (1/10) increased churn risk,Few promotional offers used (0) increased churn risk,Low satisfaction score (3/10) increased churn risk
+C00421,0.5986653020712455,High satisfaction score (10/10) decreased churn risk,Frequent support queries (10) increased churn risk,Low engagement rate (3/10) increased churn risk
+C00422,0.9157874346978702,High satisfaction score (10/10) decreased churn risk,Low engagement rate (1/10) increased churn risk,Frequent support queries (9) increased churn risk
+C00423,0.853164884842267,Low engagement rate (1/10) increased churn risk,Few support queries (1) decreased churn risk,Low satisfaction score (3/10) increased churn risk
+C00424,0.049497366609205985,Few support queries (1) decreased churn risk,High engagement rate (9/10) decreased churn risk,High satisfaction score (7/10) decreased churn risk
+C00425,0.7440035402073707,High satisfaction score (9/10) decreased churn risk,Frequent support queries (10) increased churn risk,Short subscription history (1 months) increased churn risk
+C00426,0.908748048014716,Frequent support queries (10) increased churn risk,Few promotional offers used (0) increased churn risk,High daily watch time (4.6 hours) decreased churn risk
+C00427,0.43705128949983185,Long subscription history (24 months) decreased churn risk,Few promotional offers used (0) increased churn risk,Low engagement rate (3/10) increased churn risk
+C00428,0.014491566623948876,High satisfaction score (10/10) decreased churn risk,High engagement rate (10/10) decreased churn risk,Many promotional offers used (5) decreased churn risk
+C00429,0.2930164320985108,High engagement rate (9/10) decreased churn risk,Low satisfaction score (3/10) increased churn risk,High daily watch time (4.6 hours) decreased churn risk
+C00430,0.9916723303761076,Low satisfaction score (1/10) increased churn risk,Low engagement rate (3/10) increased churn risk,Frequent support queries (8) increased churn risk
+C00431,0.9450310806247267,Frequent support queries (10) increased churn risk,Low satisfaction score (2/10) increased churn risk,Many promotional offers used (5) decreased churn risk
+C00432,0.6385011302086083,Low satisfaction score (2/10) increased churn risk,Few support queries (1) decreased churn risk,Short subscription history (1 months) increased churn risk
+C00433,0.09249397099179102,High engagement rate (9/10) decreased churn risk,High satisfaction score (7/10) decreased churn risk,Many promotional offers used (4) decreased churn risk
+C00434,0.765564525395694,Low satisfaction score (1/10) increased churn risk,Few support queries (2) decreased churn risk,High daily watch time (4.6 hours) decreased churn risk
+C00435,0.2797676728934912,Long subscription history (24 months) decreased churn risk,High engagement rate (9/10) decreased churn risk,Low satisfaction score (3/10) increased churn risk
+C00436,0.03367765341732333,Few support queries (0) decreased churn risk,Long subscription history (24 months) decreased churn risk,Many promotional offers used (4) decreased churn risk
+C00437,0.007754779854589397,High satisfaction score (8/10) decreased churn risk,Few support queries (2) decreased churn risk,High engagement rate (8/10) decreased churn risk
+C00438,0.013558262995362605,High satisfaction score (9/10) decreased churn risk,High engagement rate (9/10) decreased churn risk,Many promotional offers used (5) decreased churn risk
+C00439,0.03105074934466551,High satisfaction score (9/10) decreased churn risk,Low engagement rate (2/10) increased churn risk,Few support queries (1) decreased churn risk
+C00440,0.440255524699675,Few support queries (1) decreased churn risk,Low engagement rate (3/10) increased churn risk,High daily watch time (4.5 hours) decreased churn risk
+C00441,0.4713453328286689,High satisfaction score (7/10) decreased churn risk,Short subscription history (1 months) increased churn risk,Low engagement rate (4/10) increased churn risk
+C00442,0.36655936415184004,Few support queries (0) decreased churn risk,Low engagement rate (2/10) increased churn risk,Short subscription history (1 months) increased churn risk
+C00443,0.8911315881822194,Low satisfaction score (1/10) increased churn risk,Low engagement rate (1/10) increased churn risk,Few support queries (2) decreased churn risk
+C00444,0.0067618019111134785,Few support queries (0) decreased churn risk,High satisfaction score (8/10) decreased churn risk,Long subscription history (24 months) decreased churn risk
+C00445,0.16618631171753023,High satisfaction score (9/10) decreased churn risk,Low engagement rate (1/10) increased churn risk,Few support queries (1) decreased churn risk
+C00446,0.19201604634530156,Long subscription history (24 months) decreased churn risk,Few promotional offers used (0) increased churn risk,High daily watch time (4.5 hours) decreased churn risk
+C00447,0.739538682735047,Low engagement rate (1/10) increased churn risk,Few support queries (1) decreased churn risk,Short subscription history (1 months) increased churn risk
+C00448,0.6343619798937463,Frequent support queries (8) increased churn risk,High daily watch time (4.6 hours) decreased churn risk,Short subscription history (1 months) increased churn risk
+C00449,0.8683823447549086,Low satisfaction score (1/10) increased churn risk,Many promotional offers used (5) decreased churn risk,Low engagement rate (3/10) increased churn risk
+C00450,0.8459230618814075,Low engagement rate (1/10) increased churn risk,Few promotional offers used (0) increased churn risk,High daily watch time (4.7 hours) decreased churn risk
+C00451,0.02418908811345506,High satisfaction score (10/10) decreased churn risk,High engagement rate (10/10) decreased churn risk,High daily watch time (4.5 hours) decreased churn risk
+C00452,0.55389971468825,High satisfaction score (8/10) decreased churn risk,Frequent support queries (9) increased churn risk,Low engagement rate (4/10) increased churn risk
+C00453,0.42727041570540075,Few promotional offers used (0) increased churn risk,High daily watch time (4.3 hours) decreased churn risk,Frequent support queries (7) increased churn risk
+C00454,0.9468100439304119,Low satisfaction score (1/10) increased churn risk,Low daily watch time (0.6 hours) increased churn risk,Few support queries (2) decreased churn risk
+C00455,0.0995332215917184,High satisfaction score (8/10) decreased churn risk,Few promotional offers used (0) increased churn risk,High engagement rate (8/10) decreased churn risk
+C00456,0.06048810456645771,Long subscription history (24 months) decreased churn risk,Few support queries (1) decreased churn risk,Many promotional offers used (4) decreased churn risk
+C00457,0.4370972361109803,Low satisfaction score (3/10) increased churn risk,Short subscription history (1 months) increased churn risk,High daily watch time (4.4 hours) decreased churn risk
+C00458,0.5369339800595039,High satisfaction score (10/10) decreased churn risk,Frequent support queries (9) increased churn risk,High engagement rate (8/10) decreased churn risk
+C00459,0.9682677007558423,Low daily watch time (0.5 hours) increased churn risk,Few promotional offers used (0) increased churn risk,Delayed payment history increased churn risk
+C00460,0.9772056986943584,Low engagement rate (1/10) increased churn risk,Few promotional offers used (0) increased churn risk,Short subscription history (3 months) increased churn risk
+C00461,0.12040571997340178,Long subscription history (24 months) decreased churn risk,Few support queries (2) decreased churn risk,Low daily watch time (1.0 hours) increased churn risk
+C00462,0.29779070087005827,High satisfaction score (8/10) decreased churn risk,Low daily watch time (0.8 hours) increased churn risk,Delayed payment history increased churn risk
+C00463,0.06564259251157586,High satisfaction score (10/10) decreased churn risk,Few promotional offers used (0) increased churn risk,Few support queries (2) decreased churn risk
+C00464,0.40629636026155247,Short subscription history (3 months) increased churn risk,Support queries logged (3) decreased churn risk,Few promotional offers used (1) increased churn risk
+C00465,0.01166571892704994,High satisfaction score (10/10) decreased churn risk,Few support queries (0) decreased churn risk,Long subscription history (24 months) decreased churn risk
+C00466,0.7831620857658338,Low satisfaction score (2/10) increased churn risk,Daily watch time (1.7 hours) increased churn risk,On-Time payment history decreased churn risk
+C00467,0.9048689558481862,Low satisfaction score (1/10) increased churn risk,Low engagement rate (2/10) increased churn risk,Long subscription history (24 months) decreased churn risk
+C00468,0.9027083885542543,Low engagement rate (2/10) increased churn risk,Long subscription history (24 months) decreased churn risk,Few promotional offers used (0) increased churn risk
+C00469,0.13106058375979618,High satisfaction score (9/10) decreased churn risk,Few promotional offers used (0) increased churn risk,High engagement rate (8/10) decreased churn risk
+C00470,0.010276617368380947,Few support queries (0) decreased churn risk,High satisfaction score (8/10) decreased churn risk,Long subscription history (24 months) decreased churn risk
+C00471,0.7778445417895138,Frequent support queries (10) increased churn risk,Short subscription history (3 months) increased churn risk,High daily watch time (3.9 hours) decreased churn risk
+C00472,0.3458504387207604,Low satisfaction score (2/10) increased churn risk,High daily watch time (4.5 hours) decreased churn risk,Many promotional offers used (4) decreased churn risk
+C00473,0.028029187109803153,High engagement rate (9/10) decreased churn risk,Few support queries (2) decreased churn risk,High satisfaction score (7/10) decreased churn risk
+C00474,0.5771352227950477,High satisfaction score (10/10) decreased churn risk,Frequent support queries (10) increased churn risk,Short subscription history (3 months) increased churn risk
+C00475,0.2610993378395716,Low satisfaction score (1/10) increased churn risk,High engagement rate (9/10) decreased churn risk,Few support queries (2) decreased churn risk
+C00476,0.4735434457603706,High engagement rate (10/10) decreased churn risk,Few support queries (0) decreased churn risk,Low satisfaction score (2/10) increased churn risk
+C00477,0.05135772157765775,Long subscription history (24 months) decreased churn risk,High engagement rate (9/10) decreased churn risk,Few promotional offers used (0) increased churn risk
+C00478,0.044110175447000306,Few support queries (0) decreased churn risk,Many promotional offers used (4) decreased churn risk,Delayed payment history increased churn risk
+C00479,0.15485005664012153,Few support queries (0) decreased churn risk,Many promotional offers used (5) decreased churn risk,Low engagement rate (3/10) increased churn risk
+C00480,0.2258303520009993,Few support queries (1) decreased churn risk,Many promotional offers used (5) decreased churn risk,Delayed payment history increased churn risk
+C00481,0.9420197151225594,Low satisfaction score (2/10) increased churn risk,Short subscription history (3 months) increased churn risk,Few promotional offers used (1) increased churn risk
+C00482,0.9248858532812617,Low satisfaction score (1/10) increased churn risk,Frequent support queries (8) increased churn risk,High daily watch time (4.4 hours) decreased churn risk
+C00483,0.2740374613476853,High satisfaction score (8/10) decreased churn risk,Low engagement rate (3/10) increased churn risk,Frequent support queries (8) increased churn risk
+C00484,0.3088290573239143,Many promotional offers used (4) decreased churn risk,Delayed payment history increased churn risk,High engagement rate (7/10) decreased churn risk
+C00485,0.505329516082847,High satisfaction score (9/10) decreased churn risk,Low engagement rate (1/10) increased churn risk,Short subscription history (3 months) increased churn risk
+C00486,0.03134339008656324,High satisfaction score (10/10) decreased churn risk,High engagement rate (10/10) decreased churn risk,Few promotional offers used (1) increased churn risk
+C00487,0.8851697996854333,Low engagement rate (3/10) increased churn risk,Few support queries (2) decreased churn risk,Low satisfaction score (3/10) increased churn risk
+C00488,0.3273195276323774,High satisfaction score (9/10) decreased churn risk,Frequent support queries (10) increased churn risk,Low engagement rate (2/10) increased churn risk
+C00489,0.49568568521433015,High satisfaction score (9/10) decreased churn risk,Few promotional offers used (0) increased churn risk,Short subscription history (1 months) increased churn risk
+C00490,0.4956092216642296,Low satisfaction score (2/10) increased churn risk,High engagement rate (9/10) decreased churn risk,Few support queries (2) decreased churn risk
+C00491,0.763996379342831,High satisfaction score (8/10) decreased churn risk,Frequent support queries (9) increased churn risk,Short subscription history (1 months) increased churn risk
+C00492,0.3113533081036205,High engagement rate (10/10) decreased churn risk,Low satisfaction score (2/10) increased churn risk,Few promotional offers used (0) increased churn risk
+C00493,0.022353209016986095,High satisfaction score (10/10) decreased churn risk,Few support queries (2) decreased churn risk,High engagement rate (8/10) decreased churn risk
+C00494,0.7537105476561204,Low satisfaction score (1/10) increased churn risk,Few support queries (0) decreased churn risk,Few promotional offers used (0) increased churn risk
+C00495,0.17962243883091009,High engagement rate (8/10) decreased churn risk,Support queries logged (3) decreased churn risk,Low daily watch time (1.4 hours) increased churn risk
+C00496,0.9745140616434862,Frequent support queries (10) increased churn risk,Few promotional offers used (0) increased churn risk,Low satisfaction score (3/10) increased churn risk
+C00497,0.6244857777135793,High engagement rate (10/10) decreased churn risk,Low satisfaction score (2/10) increased churn risk,Few promotional offers used (0) increased churn risk
+C00498,0.04268057320870336,High satisfaction score (9/10) decreased churn risk,High engagement rate (9/10) decreased churn risk,Few support queries (2) decreased churn risk
+C00499,0.9507384049044297,Low satisfaction score (1/10) increased churn risk,Few promotional offers used (0) increased churn risk,Few support queries (2) decreased churn risk
+C00500,0.6727132296938297,Frequent support queries (9) increased churn risk,High satisfaction score (7/10) decreased churn risk,Short subscription history (1 months) increased churn risk
+C00501,0.7791820498588294,Low engagement rate (3/10) increased churn risk,High satisfaction score (7/10) decreased churn risk,Short subscription history (3 months) increased churn risk
+C00502,0.01124757413927543,High satisfaction score (9/10) decreased churn risk,Long subscription history (24 months) decreased churn risk,Few support queries (2) decreased churn risk
+C00503,0.108448620496427,Few support queries (0) decreased churn risk,High satisfaction score (8/10) decreased churn risk,Many promotional offers used (4) decreased churn risk
+C00504,0.09499224470685495,Few promotional offers used (0) increased churn risk,High daily watch time (4.8 hours) decreased churn risk,High engagement rate (8/10) decreased churn risk
+C00505,0.1879792359665287,High engagement rate (10/10) decreased churn risk,Few support queries (0) decreased churn risk,Low satisfaction score (3/10) increased churn risk
+C00506,0.02887090815263864,High daily watch time (4.9 hours) decreased churn risk,Few support queries (2) decreased churn risk,High satisfaction score (7/10) decreased churn risk
+C00507,0.04547815759437606,High satisfaction score (7/10) decreased churn risk,High engagement rate (8/10) decreased churn risk,Many promotional offers used (4) decreased churn risk
+C00508,0.9737356542622333,Low satisfaction score (2/10) increased churn risk,Low daily watch time (1.0 hours) increased churn risk,Short subscription history (1 months) increased churn risk
+C00509,0.9361022341239391,Few promotional offers used (0) increased churn risk,Frequent support queries (8) increased churn risk,Short subscription history (1 months) increased churn risk
+C00510,0.16847746594878232,Few support queries (0) decreased churn risk,Low satisfaction score (2/10) increased churn risk,High engagement rate (9/10) decreased churn risk
+C00511,0.22688500857242794,High satisfaction score (9/10) decreased churn risk,High engagement rate (9/10) decreased churn risk,Frequent support queries (8) increased churn risk
+C00512,0.6553844392111674,Frequent support queries (9) increased churn risk,High engagement rate (9/10) decreased churn risk,Low daily watch time (1.1 hours) increased churn risk
+C00513,0.27167219176922147,High engagement rate (10/10) decreased churn risk,High satisfaction score (8/10) decreased churn risk,Short subscription history (1 months) increased churn risk
+C00514,0.09617146979427071,High engagement rate (10/10) decreased churn risk,High satisfaction score (8/10) decreased churn risk,Delayed payment history increased churn risk
+C00515,0.12029345707536308,High engagement rate (9/10) decreased churn risk,High daily watch time (4.8 hours) decreased churn risk,Frequent support queries (8) increased churn risk
+C00516,0.07662438378109467,Low engagement rate (1/10) increased churn risk,Few support queries (0) decreased churn risk,Long subscription history (24 months) decreased churn risk
+C00517,0.174843577574884,High satisfaction score (8/10) decreased churn risk,Long subscription history (24 months) decreased churn risk,Low engagement rate (4/10) increased churn risk
+C00518,0.3716388830550602,High engagement rate (8/10) decreased churn risk,Low daily watch time (1.2 hours) increased churn risk,Delayed payment history increased churn risk
+C00519,0.523833974951035,High engagement rate (10/10) decreased churn risk,Frequent support queries (10) increased churn risk,Long subscription history (24 months) decreased churn risk
+C00520,0.5086289037149271,Short subscription history (3 months) increased churn risk,Frequent support queries (7) increased churn risk,High engagement rate (7/10) decreased churn risk
+C00521,0.6400642430656546,High satisfaction score (9/10) decreased churn risk,Frequent support queries (9) increased churn risk,Few promotional offers used (0) increased churn risk
+C00522,0.9534865806067204,Frequent support queries (9) increased churn risk,Low daily watch time (0.6 hours) increased churn risk,Low engagement rate (3/10) increased churn risk
+C00523,0.930012255398492,High satisfaction score (10/10) decreased churn risk,Low engagement rate (1/10) increased churn risk,Frequent support queries (10) increased churn risk
+C00524,0.539703256318997,Frequent support queries (9) increased churn risk,High engagement rate (9/10) decreased churn risk,Few promotional offers used (1) increased churn risk
+C00525,0.6323955228761412,Frequent support queries (9) increased churn risk,Delayed payment history increased churn risk,High daily watch time (3.8 hours) decreased churn risk
+C00526,0.2420576805900886,Few support queries (1) decreased churn risk,Few promotional offers used (0) increased churn risk,High engagement rate (7/10) decreased churn risk
+C00527,0.7327358661213363,Low satisfaction score (1/10) increased churn risk,High engagement rate (10/10) decreased churn risk,Many promotional offers used (5) decreased churn risk
+C00528,0.1285710442276686,Low satisfaction score (2/10) increased churn risk,High engagement rate (9/10) decreased churn risk,Few support queries (2) decreased churn risk
+C00529,0.5433203707137166,Frequent support queries (10) increased churn risk,Short subscription history (1 months) increased churn risk,High daily watch time (4.3 hours) decreased churn risk
+C00530,0.2421620487081628,High daily watch time (4.7 hours) decreased churn risk,High satisfaction score (7/10) decreased churn risk,Short subscription history (3 months) increased churn risk
+C00531,0.5499657316696106,Long subscription history (24 months) decreased churn risk,Few support queries (1) decreased churn risk,Few promotional offers used (0) increased churn risk
+C00532,0.7507082875481951,Low engagement rate (2/10) increased churn risk,Frequent support queries (8) increased churn risk,High satisfaction score (7/10) decreased churn risk
+C00533,0.9007341437390802,Low satisfaction score (2/10) increased churn risk,Low daily watch time (0.6 hours) increased churn risk,Few support queries (2) decreased churn risk
+C00534,0.1370274834705976,High satisfaction score (9/10) decreased churn risk,Few support queries (0) decreased churn risk,Low engagement rate (4/10) increased churn risk
+C00535,0.7172290052763625,Low satisfaction score (2/10) increased churn risk,Few promotional offers used (0) increased churn risk,Few support queries (2) decreased churn risk
+C00536,0.7608669149384581,Low satisfaction score (2/10) increased churn risk,Low engagement rate (2/10) increased churn risk,Few support queries (2) decreased churn risk
+C00537,0.8736038059120386,Low daily watch time (1.1 hours) increased churn risk,Frequent support queries (7) increased churn risk,Low satisfaction score (4/10) increased churn risk
+C00538,0.9812747366708695,Low satisfaction score (2/10) increased churn risk,Low daily watch time (0.5 hours) increased churn risk,Low engagement rate (3/10) increased churn risk
+C00539,0.20048506204362457,High satisfaction score (8/10) decreased churn risk,Long subscription history (24 months) decreased churn risk,Low daily watch time (0.9 hours) increased churn risk
+C00540,0.006993101526243733,High satisfaction score (10/10) decreased churn risk,Long subscription history (24 months) decreased churn risk,Many promotional offers used (5) decreased churn risk
+C00541,0.571358711758564,Low engagement rate (1/10) increased churn risk,High satisfaction score (7/10) decreased churn risk,Many promotional offers used (4) decreased churn risk
+C00542,0.17923239006432132,Long subscription history (24 months) decreased churn risk,High engagement rate (9/10) decreased churn risk,Many promotional offers used (5) decreased churn risk
+C00543,0.8667808684296356,Low satisfaction score (3/10) increased churn risk,Short subscription history (1 months) increased churn risk,Low engagement rate (4/10) increased churn risk
+C00544,0.164805985575764,High satisfaction score (10/10) decreased churn risk,Few support queries (0) decreased churn risk,Few promotional offers used (0) increased churn risk
+C00545,0.6413744515386887,Many promotional offers used (5) decreased churn risk,Frequent support queries (7) increased churn risk,Delayed payment history increased churn risk
+C00546,0.7627962036796503,Few promotional offers used (0) increased churn risk,Short subscription history (1 months) increased churn risk,Frequent support queries (7) increased churn risk
+C00547,0.19220768241810327,Low satisfaction score (1/10) increased churn risk,Long subscription history (24 months) decreased churn risk,Few support queries (1) decreased churn risk
+C00548,0.5829533144809261,Low engagement rate (3/10) increased churn risk,High daily watch time (4.6 hours) decreased churn risk,Short subscription history (3 months) increased churn risk
+C00549,0.9642097959692175,Low engagement rate (2/10) increased churn risk,Low satisfaction score (3/10) increased churn risk,Low daily watch time (0.9 hours) increased churn risk
+C00550,0.5244004185721969,Few support queries (0) decreased churn risk,Low daily watch time (0.9 hours) increased churn risk,High engagement rate (8/10) decreased churn risk
+C00551,0.04296773970495087,High satisfaction score (10/10) decreased churn risk,Few support queries (1) decreased churn risk,High engagement rate (9/10) decreased churn risk
+C00552,0.8404238531541154,Few promotional offers used (0) increased churn risk,High satisfaction score (7/10) decreased churn risk,Low daily watch time (0.9 hours) increased churn risk
+C00553,0.06253519434560524,High satisfaction score (10/10) decreased churn risk,Long subscription history (24 months) decreased churn risk,Low daily watch time (1.0 hours) increased churn risk
+C00554,0.014859970487369083,High satisfaction score (10/10) decreased churn risk,High engagement rate (10/10) decreased churn risk,Many promotional offers used (4) decreased churn risk
+C00555,0.8357958763190919,Low engagement rate (1/10) increased churn risk,Low satisfaction score (2/10) increased churn risk,Support queries logged (3) decreased churn risk
+C00556,0.968623322149248,Short subscription history (3 months) increased churn risk,Few promotional offers used (1) increased churn risk,Frequent support queries (7) increased churn risk
+C00557,0.6075261872533554,High satisfaction score (9/10) decreased churn risk,Frequent support queries (9) increased churn risk,Low daily watch time (1.1 hours) increased churn risk
+C00558,0.14573648614741966,Long subscription history (24 months) decreased churn risk,High daily watch time (3.9 hours) decreased churn risk,Delayed payment history increased churn risk
+C00559,0.8029841583586257,Frequent support queries (9) increased churn risk,Few promotional offers used (0) increased churn risk,High satisfaction score (7/10) decreased churn risk
+C00560,0.07070493592903655,High satisfaction score (8/10) decreased churn risk,High engagement rate (9/10) decreased churn risk,Short subscription history (3 months) increased churn risk
+C00561,0.11669041894489143,High engagement rate (9/10) decreased churn risk,Many promotional offers used (5) decreased churn risk,Short subscription history (3 months) increased churn risk
+C00562,0.446708392344003,Low satisfaction score (1/10) increased churn risk,Few support queries (1) decreased churn risk,High daily watch time (4.7 hours) decreased churn risk
+C00563,0.11489304253816235,High engagement rate (10/10) decreased churn risk,Long subscription history (24 months) decreased churn risk,Delayed payment history increased churn risk
+C00564,0.9701688352598105,Low satisfaction score (1/10) increased churn risk,High engagement rate (10/10) decreased churn risk,Frequent support queries (10) increased churn risk
+C00565,0.9867168517556749,Low engagement rate (1/10) increased churn risk,Low satisfaction score (3/10) increased churn risk,Low daily watch time (0.8 hours) increased churn risk
+C00566,0.04210125043104778,Few support queries (1) decreased churn risk,Many promotional offers used (5) decreased churn risk,Low engagement rate (3/10) increased churn risk
+C00567,0.6219041260446458,Long subscription history (24 months) decreased churn risk,Low engagement rate (3/10) increased churn risk,Frequent support queries (7) increased churn risk
+C00568,0.0437052978787567,High satisfaction score (9/10) decreased churn risk,Long subscription history (24 months) decreased churn risk,Frequent support queries (8) increased churn risk
+C00569,0.09069613914150552,Low engagement rate (2/10) increased churn risk,Long subscription history (24 months) decreased churn risk,High satisfaction score (7/10) decreased churn risk
+C00570,0.10738927996333013,Frequent support queries (10) increased churn risk,High satisfaction score (8/10) decreased churn risk,Long subscription history (24 months) decreased churn risk
+C00571,0.09009726744168059,High satisfaction score (9/10) decreased churn risk,High engagement rate (9/10) decreased churn risk,Many promotional offers used (5) decreased churn risk
+C00572,0.2172455384115854,Low engagement rate (1/10) increased churn risk,Few support queries (0) decreased churn risk,On-Time payment history decreased churn risk
+C00573,0.8922051993813892,Few promotional offers used (0) increased churn risk,Low engagement rate (3/10) increased churn risk,Delayed payment history increased churn risk
+C00574,0.16722630315467724,High satisfaction score (10/10) decreased churn risk,Low engagement rate (3/10) increased churn risk,Short subscription history (1 months) increased churn risk
+C00575,0.5100723618191314,High satisfaction score (10/10) decreased churn risk,Low engagement rate (2/10) increased churn risk,Few support queries (2) decreased churn risk
+C00576,0.8365684389747582,Frequent support queries (9) increased churn risk,Low engagement rate (3/10) increased churn risk,High daily watch time (4.7 hours) decreased churn risk
+C00577,0.24692424073599112,Frequent support queries (10) increased churn risk,Many promotional offers used (5) decreased churn risk,High daily watch time (4.7 hours) decreased churn risk
+C00578,0.13954794571273085,Few support queries (0) decreased churn risk,Low satisfaction score (2/10) increased churn risk,High engagement rate (9/10) decreased churn risk
+C00579,0.4636593732784591,Low engagement rate (2/10) increased churn risk,Few support queries (1) decreased churn risk,Short subscription history (3 months) increased churn risk
+C00580,0.013336184203205509,High satisfaction score (8/10) decreased churn risk,Many promotional offers used (5) decreased churn risk,High engagement rate (8/10) decreased churn risk
+C00581,0.597423501030744,High satisfaction score (7/10) decreased churn risk,Short subscription history (1 months) increased churn risk,Few promotional offers used (1) increased churn risk
+C00582,0.8249354483233178,Low engagement rate (2/10) increased churn risk,Short subscription history (1 months) increased churn risk,Support queries logged (3) decreased churn risk
+C00583,0.9739756912552994,Few promotional offers used (0) increased churn risk,Low satisfaction score (3/10) increased churn risk,High engagement rate (8/10) decreased churn risk
+C00584,0.7346694159175627,Few support queries (0) decreased churn risk,Low engagement rate (2/10) increased churn risk,Low satisfaction score (3/10) increased churn risk
+C00585,0.2602666286261898,High satisfaction score (9/10) decreased churn risk,Low engagement rate (2/10) increased churn risk,Short subscription history (3 months) increased churn risk
+C00586,0.007427340852265797,High engagement rate (10/10) decreased churn risk,Few support queries (0) decreased churn risk,Low satisfaction score (2/10) increased churn risk
+C00587,0.5362190904522688,Low satisfaction score (2/10) increased churn risk,Many promotional offers used (5) decreased churn risk,Short subscription history (3 months) increased churn risk
+C00588,0.007291400091769994,High satisfaction score (10/10) decreased churn risk,High engagement rate (10/10) decreased churn risk,Few support queries (1) decreased churn risk
+C00589,0.464923238197997,High satisfaction score (9/10) decreased churn risk,Low engagement rate (2/10) increased churn risk,Frequent support queries (8) increased churn risk
+C00590,0.04027370504279423,High satisfaction score (9/10) decreased churn risk,Few support queries (0) decreased churn risk,Short subscription history (1 months) increased churn risk
+C00591,0.9744431196646051,Low satisfaction score (2/10) increased churn risk,Frequent support queries (9) increased churn risk,Low engagement rate (4/10) increased churn risk
+C00592,0.0495161983572683,High engagement rate (10/10) decreased churn risk,Low satisfaction score (2/10) increased churn risk,Many promotional offers used (5) decreased churn risk
+C00593,0.39409526139093326,Low engagement rate (1/10) increased churn risk,Many promotional offers used (5) decreased churn risk,Support queries logged (3) decreased churn risk
+C00594,0.11280957635827177,High satisfaction score (9/10) decreased churn risk,High engagement rate (9/10) decreased churn risk,Few promotional offers used (0) increased churn risk
+C00595,0.16625105174926624,High engagement rate (10/10) decreased churn risk,Frequent support queries (9) increased churn risk,Many promotional offers used (5) decreased churn risk
+C00596,0.31707360477413166,Low engagement rate (2/10) increased churn risk,Long subscription history (24 months) decreased churn risk,Many promotional offers used (4) decreased churn risk
+C00597,0.20129864544801127,High engagement rate (9/10) decreased churn risk,Few promotional offers used (0) increased churn risk,High satisfaction score (7/10) decreased churn risk
+C00598,0.7083536364129036,Low engagement rate (2/10) increased churn risk,Many promotional offers used (5) decreased churn risk,Short subscription history (1 months) increased churn risk
+C00599,0.63784494831378,High engagement rate (9/10) decreased churn risk,Few promotional offers used (0) increased churn risk,Frequent support queries (8) increased churn risk
+C00600,0.14170556175468685,High satisfaction score (10/10) decreased churn risk,Low engagement rate (2/10) increased churn risk,Few support queries (1) decreased churn risk
+C00601,0.44873174601297366,Many promotional offers used (5) decreased churn risk,Low engagement rate (3/10) increased churn risk,Low satisfaction score (3/10) increased churn risk
+C00602,0.8617047032905191,Low engagement rate (1/10) increased churn risk,High satisfaction score (7/10) decreased churn risk,Low daily watch time (1.4 hours) increased churn risk
+C00603,0.6150686113616464,Low engagement rate (1/10) increased churn risk,Low satisfaction score (3/10) increased churn risk,Many promotional offers used (4) decreased churn risk
+C00604,0.11134769404220941,High satisfaction score (9/10) decreased churn risk,Frequent support queries (8) increased churn risk,Many promotional offers used (4) decreased churn risk
+C00605,0.1596477971623972,High engagement rate (10/10) decreased churn risk,High daily watch time (4.4 hours) decreased churn risk,Short subscription history (3 months) increased churn risk
+C00606,0.06986373758299619,Long subscription history (24 months) decreased churn risk,High engagement rate (9/10) decreased churn risk,Frequent support queries (8) increased churn risk
+C00607,0.6375169314857545,Many promotional offers used (4) decreased churn risk,Frequent support queries (7) increased churn risk,Delayed payment history increased churn risk
+C00608,0.8219582800103699,Low engagement rate (1/10) increased churn risk,Low satisfaction score (2/10) increased churn risk,Many promotional offers used (5) decreased churn risk
+C00609,0.9052255420988146,Low satisfaction score (1/10) increased churn risk,High engagement rate (10/10) decreased churn risk,Few promotional offers used (0) increased churn risk
+C00610,0.296141990735082,Low satisfaction score (1/10) increased churn risk,High engagement rate (10/10) decreased churn risk,Many promotional offers used (5) decreased churn risk
+C00611,0.010041155334741736,High satisfaction score (10/10) decreased churn risk,High engagement rate (9/10) decreased churn risk,Few support queries (2) decreased churn risk
+C00612,0.19363472655510816,Long subscription history (24 months) decreased churn risk,Frequent support queries (8) increased churn risk,Low satisfaction score (3/10) increased churn risk
+C00613,0.6642848048279149,Low engagement rate (1/10) increased churn risk,Frequent support queries (9) increased churn risk,Many promotional offers used (5) decreased churn risk
+C00614,0.8807722013452627,Long subscription history (24 months) decreased churn risk,Few promotional offers used (0) increased churn risk,Low engagement rate (3/10) increased churn risk
+C00615,0.17778135255163152,Low satisfaction score (1/10) increased churn risk,Long subscription history (24 months) decreased churn risk,Few support queries (1) decreased churn risk
+C00616,0.879694795611418,Low satisfaction score (1/10) increased churn risk,Frequent support queries (8) increased churn risk,Many promotional offers used (4) decreased churn risk
+C00617,0.18181281820798137,Short subscription history (1 months) increased churn risk,High daily watch time (4.5 hours) decreased churn risk,High engagement rate (7/10) decreased churn risk
+C00618,0.20954619323835488,High engagement rate (10/10) decreased churn risk,Few support queries (0) decreased churn risk,Low daily watch time (0.7 hours) increased churn risk
+C00619,0.022396965043024922,High satisfaction score (10/10) decreased churn risk,Few support queries (1) decreased churn risk,High daily watch time (4.7 hours) decreased churn risk
+C00620,0.009520997618926485,Few support queries (0) decreased churn risk,Long subscription history (24 months) decreased churn risk,High daily watch time (4.8 hours) decreased churn risk
+C00621,0.4738321189536585,High daily watch time (4.9 hours) decreased churn risk,Few support queries (2) decreased churn risk,Few promotional offers used (1) increased churn risk
+C00622,0.015534522713088668,High satisfaction score (10/10) decreased churn risk,Few support queries (1) decreased churn risk,High daily watch time (4.6 hours) decreased churn risk
+C00623,0.6543109057907438,High satisfaction score (8/10) decreased churn risk,Few promotional offers used (0) increased churn risk,Low daily watch time (1.1 hours) increased churn risk
+C00624,0.3830757737489065,High engagement rate (9/10) decreased churn risk,Short subscription history (1 months) increased churn risk,Delayed payment history increased churn risk
+C00625,0.5591088568801077,High engagement rate (9/10) decreased churn risk,Few promotional offers used (0) increased churn risk,Delayed payment history increased churn risk
+C00626,0.045517671309587414,Many promotional offers used (5) decreased churn risk,Few support queries (2) decreased churn risk,High engagement rate (8/10) decreased churn risk
+C00627,0.4103957248035147,Few support queries (1) decreased churn risk,Low satisfaction score (3/10) increased churn risk,Delayed payment history increased churn risk
+C00628,0.8142537509167945,Many promotional offers used (5) decreased churn risk,Frequent support queries (8) increased churn risk,Low daily watch time (0.9 hours) increased churn risk
+C00629,0.08969276486981755,High satisfaction score (9/10) decreased churn risk,Long subscription history (24 months) decreased churn risk,Frequent support queries (9) increased churn risk
+C00630,0.5524734061698079,High satisfaction score (9/10) decreased churn risk,Frequent support queries (10) increased churn risk,Low engagement rate (3/10) increased churn risk
+C00631,0.9204107468570899,Low satisfaction score (1/10) increased churn risk,Long subscription history (24 months) decreased churn risk,Low engagement rate (3/10) increased churn risk
+C00632,0.9693086375537907,Low satisfaction score (3/10) increased churn risk,Short subscription history (1 months) increased churn risk,Few promotional offers used (1) increased churn risk
+C00633,0.5287131187881835,Low satisfaction score (2/10) increased churn risk,High engagement rate (9/10) decreased churn risk,Short subscription history (1 months) increased churn risk
+C00634,0.03654861942671532,High engagement rate (10/10) decreased churn risk,High satisfaction score (7/10) decreased churn risk,Support queries logged (3) decreased churn risk
+C00635,0.2126095821892915,High engagement rate (10/10) decreased churn risk,Short subscription history (3 months) increased churn risk,Delayed payment history increased churn risk
+C00636,0.9869259209444595,Low engagement rate (1/10) increased churn risk,Frequent support queries (9) increased churn risk,Short subscription history (3 months) increased churn risk
+C00637,0.9482698041363224,Low engagement rate (2/10) increased churn risk,Few promotional offers used (1) increased churn risk,Frequent support queries (7) increased churn risk
+C00638,0.006083919229651743,High engagement rate (10/10) decreased churn risk,Few support queries (0) decreased churn risk,High satisfaction score (8/10) decreased churn risk
+C00639,0.5161198718235562,Low satisfaction score (1/10) increased churn risk,Long subscription history (24 months) decreased churn risk,High engagement rate (8/10) decreased churn risk
+C00640,0.9666197516517278,Low engagement rate (2/10) increased churn risk,Low satisfaction score (3/10) increased churn risk,Short subscription history (1 months) increased churn risk
+C00641,0.14588265830065109,Low satisfaction score (1/10) increased churn risk,Few support queries (0) decreased churn risk,Long subscription history (24 months) decreased churn risk
+C00642,0.9807302450074843,Frequent support queries (10) increased churn risk,Low satisfaction score (3/10) increased churn risk,Short subscription history (1 months) increased churn risk
+C00643,0.017604400504868847,High satisfaction score (10/10) decreased churn risk,Few support queries (2) decreased churn risk,Low engagement rate (4/10) increased churn risk
+C00644,0.29801086326116444,Long subscription history (24 months) decreased churn risk,Frequent support queries (9) increased churn risk,Many promotional offers used (5) decreased churn risk
+C00645,0.5430043528419845,Few support queries (2) decreased churn risk,Low daily watch time (0.9 hours) increased churn risk,Few promotional offers used (1) increased churn risk
+C00646,0.6052395406348051,High satisfaction score (10/10) decreased churn risk,Few promotional offers used (0) increased churn risk,Low daily watch time (0.7 hours) increased churn risk
+C00647,0.023895244106723543,High satisfaction score (10/10) decreased churn risk,Many promotional offers used (5) decreased churn risk,High daily watch time (4.6 hours) decreased churn risk
+C00648,0.02408653998493442,High satisfaction score (8/10) decreased churn risk,Long subscription history (24 months) decreased churn risk,Frequent support queries (8) increased churn risk
+C00649,0.5382294184419468,Long subscription history (24 months) decreased churn risk,High engagement rate (9/10) decreased churn risk,Low satisfaction score (3/10) increased churn risk
+C00650,0.43119372967679703,High satisfaction score (8/10) decreased churn risk,Low daily watch time (0.9 hours) increased churn risk,Low engagement rate (4/10) increased churn risk
+C00651,0.4172861421500462,Long subscription history (24 months) decreased churn risk,Few promotional offers used (0) increased churn risk,High satisfaction score (7/10) decreased churn risk
+C00652,0.8008778215939956,Frequent support queries (10) increased churn risk,Short subscription history (3 months) increased churn risk,Low engagement rate (4/10) increased churn risk
+C00653,0.9655596250505605,Low engagement rate (3/10) increased churn risk,Low daily watch time (1.2 hours) increased churn risk,Few promotional offers used (1) increased churn risk
+C00654,0.7163988808827381,Low engagement rate (2/10) increased churn risk,Few support queries (1) decreased churn risk,Few promotional offers used (1) increased churn risk
+C00655,0.9239099709476863,Low engagement rate (1/10) increased churn risk,Few promotional offers used (0) increased churn risk,Delayed payment history increased churn risk
+C00656,0.9145815060086322,Low engagement rate (2/10) increased churn risk,Short subscription history (3 months) increased churn risk,Delayed payment history increased churn risk
+C00657,0.17923978916996802,Low engagement rate (3/10) increased churn risk,Few support queries (2) decreased churn risk,Many promotional offers used (4) decreased churn risk
+C00658,0.03441385617179652,High satisfaction score (8/10) decreased churn risk,Long subscription history (24 months) decreased churn risk,Few promotional offers used (1) increased churn risk
+C00659,0.8882088392454914,Frequent support queries (9) increased churn risk,High daily watch time (4.7 hours) decreased churn risk,Short subscription history (1 months) increased churn risk
+C00660,0.9535459806713654,Frequent support queries (9) increased churn risk,Low daily watch time (0.7 hours) increased churn risk,Low engagement rate (4/10) increased churn risk
+C00661,0.19387849626279455,High satisfaction score (8/10) decreased churn risk,Low engagement rate (3/10) increased churn risk,High daily watch time (4.7 hours) decreased churn risk
+C00662,0.41807497005287986,High satisfaction score (10/10) decreased churn risk,Low engagement rate (2/10) increased churn risk,Support queries logged (3) decreased churn risk
+C00663,0.34138694928438496,Few promotional offers used (0) increased churn risk,High daily watch time (4.5 hours) decreased churn risk,Short subscription history (3 months) increased churn risk
+C00664,0.2521475594510446,Low satisfaction score (1/10) increased churn risk,Long subscription history (24 months) decreased churn risk,Low engagement rate (3/10) increased churn risk
+C00665,0.33137057410255855,Low satisfaction score (1/10) increased churn risk,High engagement rate (9/10) decreased churn risk,Many promotional offers used (5) decreased churn risk
+C00666,0.017447315271631812,High satisfaction score (10/10) decreased churn risk,Few support queries (0) decreased churn risk,High daily watch time (4.1 hours) decreased churn risk
+C00667,0.5909174438603371,High engagement rate (10/10) decreased churn risk,Frequent support queries (9) increased churn risk,Low satisfaction score (3/10) increased churn risk
+C00668,0.14238896679208177,Few support queries (0) decreased churn risk,Long subscription history (24 months) decreased churn risk,Low engagement rate (3/10) increased churn risk
+C00669,0.34458522882661974,High satisfaction score (8/10) decreased churn risk,Few support queries (2) decreased churn risk,Low daily watch time (0.8 hours) increased churn risk
+C00670,0.9652357328598065,Low satisfaction score (1/10) increased churn risk,Low engagement rate (2/10) increased churn risk,Frequent support queries (7) increased churn risk
+C00671,0.6046032924731046,Low engagement rate (1/10) increased churn risk,Few support queries (0) decreased churn risk,Few promotional offers used (0) increased churn risk
+C00672,0.3902260131580271,Few support queries (2) decreased churn risk,High satisfaction score (7/10) decreased churn risk,Short subscription history (1 months) increased churn risk
+C00673,0.30481748095356564,Few promotional offers used (0) increased churn risk,High daily watch time (4.9 hours) decreased churn risk,High engagement rate (8/10) decreased churn risk
+C00674,0.2720105744085582,Low satisfaction score (1/10) increased churn risk,Long subscription history (24 months) decreased churn risk,Frequent support queries (9) increased churn risk
+C00675,0.8508405496284148,Low satisfaction score (3/10) increased churn risk,Low daily watch time (1.3 hours) increased churn risk,Support queries logged (3) decreased churn risk
+C00676,0.018787247299453136,High engagement rate (9/10) decreased churn risk,Many promotional offers used (5) decreased churn risk,Low satisfaction score (3/10) increased churn risk
+C00677,0.3336467177865056,High daily watch time (4.4 hours) decreased churn risk,Frequent support queries (7) increased churn risk,On-Time payment history decreased churn risk
+C00678,0.6404924438672399,Low engagement rate (2/10) increased churn risk,Many promotional offers used (4) decreased churn risk,Short subscription history (3 months) increased churn risk
+C00679,0.776924294846508,Low engagement rate (3/10) increased churn risk,High daily watch time (4.2 hours) decreased churn risk,Short subscription history (3 months) increased churn risk
+C00680,0.8061521601271665,Long subscription history (24 months) decreased churn risk,Low engagement rate (3/10) increased churn risk,High daily watch time (4.2 hours) decreased churn risk
+C00681,0.058977941446922415,Low satisfaction score (2/10) increased churn risk,Long subscription history (24 months) decreased churn risk,Many promotional offers used (5) decreased churn risk
+C00682,0.9596201196773636,Low engagement rate (1/10) increased churn risk,Frequent support queries (9) increased churn risk,Low satisfaction score (3/10) increased churn risk
+C00683,0.8189693385983845,Low engagement rate (1/10) increased churn risk,Frequent support queries (10) increased churn risk,Many promotional offers used (5) decreased churn risk
+C00684,0.9885398543988176,Low satisfaction score (1/10) increased churn risk,Low engagement rate (2/10) increased churn risk,Frequent support queries (7) increased churn risk
+C00685,0.607424567052485,Frequent support queries (10) increased churn risk,Long subscription history (24 months) decreased churn risk,High satisfaction score (7/10) decreased churn risk
+C00686,0.17175876521087038,Few support queries (0) decreased churn risk,Low satisfaction score (2/10) increased churn risk,Many promotional offers used (5) decreased churn risk
+C00687,0.8403071033990569,Frequent support queries (8) increased churn risk,High engagement rate (8/10) decreased churn risk,Low daily watch time (1.1 hours) increased churn risk
+C00688,0.100019292333526,High satisfaction score (9/10) decreased churn risk,High engagement rate (9/10) decreased churn risk,Short subscription history (1 months) increased churn risk
+C00689,0.07683002323797655,High satisfaction score (9/10) decreased churn risk,Frequent support queries (10) increased churn risk,Long subscription history (24 months) decreased churn risk
+C00690,0.7643823481428077,Frequent support queries (9) increased churn risk,Delayed payment history increased churn risk,High daily watch time (3.9 hours) decreased churn risk
+C00691,0.188889905857567,High satisfaction score (9/10) decreased churn risk,Frequent support queries (10) increased churn risk,High engagement rate (9/10) decreased churn risk
+C00692,0.30964414062064416,High satisfaction score (8/10) decreased churn risk,Few promotional offers used (0) increased churn risk,Support queries logged (3) decreased churn risk
+C00693,0.22563157017699514,High satisfaction score (7/10) decreased churn risk,Low daily watch time (1.1 hours) increased churn risk,Support queries logged (3) decreased churn risk
+C00694,0.0023990707791545756,High satisfaction score (10/10) decreased churn risk,Few support queries (1) decreased churn risk,Many promotional offers used (5) decreased churn risk
+C00695,0.7027098293186547,Few support queries (0) decreased churn risk,Low satisfaction score (3/10) increased churn risk,Few promotional offers used (1) increased churn risk
+C00696,0.1736292058406779,High satisfaction score (7/10) decreased churn risk,Many promotional offers used (4) decreased churn risk,Delayed payment history increased churn risk
+C00697,0.8415780547649553,Frequent support queries (9) increased churn risk,Few promotional offers used (0) increased churn risk,High satisfaction score (7/10) decreased churn risk
+C00698,0.8994662190811454,Frequent support queries (9) increased churn risk,Low daily watch time (1.4 hours) increased churn risk,Few promotional offers used (1) increased churn risk
+C00699,0.07135591759408594,High satisfaction score (9/10) decreased churn risk,Few support queries (1) decreased churn risk,Delayed payment history increased churn risk
+C00700,0.974425766444927,Low satisfaction score (2/10) increased churn risk,Frequent support queries (9) increased churn risk,Low engagement rate (3/10) increased churn risk
+C00701,0.12685206526646436,High engagement rate (10/10) decreased churn risk,Low satisfaction score (2/10) increased churn risk,Long subscription history (24 months) decreased churn risk
+C00702,0.012861610261633526,Few support queries (0) decreased churn risk,Many promotional offers used (5) decreased churn risk,High engagement rate (8/10) decreased churn risk
+C00703,0.029081109608044935,High satisfaction score (9/10) decreased churn risk,High engagement rate (10/10) decreased churn risk,Few promotional offers used (0) increased churn risk
+C00704,0.119126772290196,Many promotional offers used (5) decreased churn risk,Low engagement rate (3/10) increased churn risk,Few support queries (2) decreased churn risk
+C00705,0.08707769371052791,High engagement rate (10/10) decreased churn risk,Long subscription history (24 months) decreased churn risk,Frequent support queries (9) increased churn risk
+C00706,0.06724439539901178,High satisfaction score (9/10) decreased churn risk,Few support queries (2) decreased churn risk,Many promotional offers used (4) decreased churn risk
+C00707,0.28247119691040007,Many promotional offers used (5) decreased churn risk,Low engagement rate (3/10) increased churn risk,Few support queries (2) decreased churn risk
+C00708,0.8344707304087838,Short subscription history (1 months) increased churn risk,Low engagement rate (4/10) increased churn risk,Frequent support queries (7) increased churn risk
+C00709,0.6177225258468866,High engagement rate (10/10) decreased churn risk,Frequent support queries (9) increased churn risk,Few promotional offers used (1) increased churn risk
+C00710,0.4697478519809565,Low satisfaction score (1/10) increased churn risk,Long subscription history (24 months) decreased churn risk,Frequent support queries (8) increased churn risk
+C00711,0.6948422623244755,High satisfaction score (10/10) decreased churn risk,Low engagement rate (3/10) increased churn risk,Few promotional offers used (1) increased churn risk
+C00712,0.4042268526325574,Short subscription history (1 months) increased churn risk,High daily watch time (4.3 hours) decreased churn risk,Many promotional offers used (4) decreased churn risk
+C00713,0.1656498459116582,High satisfaction score (9/10) decreased churn risk,Low engagement rate (1/10) increased churn risk,Few support queries (0) decreased churn risk
+C00714,0.7390183495672525,Low satisfaction score (1/10) increased churn risk,High engagement rate (10/10) decreased churn risk,High daily watch time (4.1 hours) decreased churn risk
+C00715,0.7138839744505087,Low engagement rate (3/10) increased churn risk,High satisfaction score (7/10) decreased churn risk,Low daily watch time (0.9 hours) increased churn risk
+C00716,0.9249928933553684,Frequent support queries (9) increased churn risk,Short subscription history (3 months) increased churn risk,Few promotional offers used (1) increased churn risk
+C00717,0.1064615233634793,High satisfaction score (8/10) decreased churn risk,Many promotional offers used (5) decreased churn risk,Short subscription history (3 months) increased churn risk
+C00718,0.8232382700519076,Low engagement rate (1/10) increased churn risk,Frequent support queries (10) increased churn risk,Many promotional offers used (5) decreased churn risk
+C00719,0.13352769993922595,High engagement rate (9/10) decreased churn risk,High satisfaction score (7/10) decreased churn risk,Low daily watch time (0.9 hours) increased churn risk
+C00720,0.0029557207632705178,High satisfaction score (9/10) decreased churn risk,Few support queries (1) decreased churn risk,High engagement rate (9/10) decreased churn risk
+C00721,0.9333220918597811,Low engagement rate (3/10) increased churn risk,High daily watch time (4.6 hours) decreased churn risk,Short subscription history (1 months) increased churn risk
+C00722,0.20829755645190143,Long subscription history (24 months) decreased churn risk,Daily watch time (1.5 hours) increased churn risk,On-Time payment history decreased churn risk
+C00723,0.013893712486632568,Few support queries (0) decreased churn risk,Long subscription history (24 months) decreased churn risk,Low engagement rate (4/10) increased churn risk
+C00724,0.396423759182259,High satisfaction score (9/10) decreased churn risk,Low engagement rate (1/10) increased churn risk,High daily watch time (4.3 hours) decreased churn risk
+C00725,0.122545975163982,Few support queries (0) decreased churn risk,High satisfaction score (7/10) decreased churn risk,Short subscription history (3 months) increased churn risk
+C00726,0.12270706715125788,High satisfaction score (9/10) decreased churn risk,High engagement rate (9/10) decreased churn risk,Few promotional offers used (1) increased churn risk
+C00727,0.8710527509624383,Low engagement rate (2/10) increased churn risk,High satisfaction score (8/10) decreased churn risk,Frequent support queries (9) increased churn risk
+C00728,0.25092476839593153,Frequent support queries (10) increased churn risk,High daily watch time (4.2 hours) decreased churn risk,Many promotional offers used (4) decreased churn risk
+C00729,0.27317699815875274,High satisfaction score (10/10) decreased churn risk,Low engagement rate (4/10) increased churn risk,Few promotional offers used (1) increased churn risk
+C00730,0.8501071437172889,Low satisfaction score (1/10) increased churn risk,Few promotional offers used (0) increased churn risk,Short subscription history (3 months) increased churn risk
+C00731,0.09188582669295998,Few support queries (0) decreased churn risk,Many promotional offers used (4) decreased churn risk,Short subscription history (3 months) increased churn risk
+C00732,0.8882374695959626,Frequent support queries (10) increased churn risk,Low satisfaction score (3/10) increased churn risk,Short subscription history (3 months) increased churn risk
+C00733,0.036192192379567396,High satisfaction score (9/10) decreased churn risk,Few support queries (0) decreased churn risk,Low engagement rate (2/10) increased churn risk
+C00734,0.07501945787087351,High satisfaction score (10/10) decreased churn risk,Low engagement rate (2/10) increased churn risk,Long subscription history (24 months) decreased churn risk
+C00735,0.3226979441133722,Low satisfaction score (1/10) increased churn risk,Few support queries (0) decreased churn risk,High engagement rate (9/10) decreased churn risk
+C00736,0.6557731370211536,Low engagement rate (1/10) increased churn risk,Frequent support queries (10) increased churn risk,Long subscription history (24 months) decreased churn risk
+C00737,0.964612778411293,Low satisfaction score (1/10) increased churn risk,Frequent support queries (8) increased churn risk,Daily watch time (1.5 hours) increased churn risk
+C00738,0.5969092047643066,Low satisfaction score (1/10) increased churn risk,Frequent support queries (9) increased churn risk,High engagement rate (9/10) decreased churn risk
+C00739,0.9558441032914462,Low engagement rate (3/10) increased churn risk,Low satisfaction score (3/10) increased churn risk,Short subscription history (1 months) increased churn risk
+C00740,0.6696853649094378,High engagement rate (10/10) decreased churn risk,Low satisfaction score (3/10) increased churn risk,Low daily watch time (0.9 hours) increased churn risk
+C00741,0.12528199592962902,High satisfaction score (9/10) decreased churn risk,Long subscription history (24 months) decreased churn risk,Frequent support queries (8) increased churn risk
+C00742,0.9165936021964632,Low engagement rate (3/10) increased churn risk,High satisfaction score (7/10) decreased churn risk,Few promotional offers used (1) increased churn risk
+C00743,0.7143719134808098,Low engagement rate (3/10) increased churn risk,Delayed payment history increased churn risk,Low satisfaction score (4/10) increased churn risk
+C00744,0.060741915211849094,High satisfaction score (8/10) decreased churn risk,Long subscription history (24 months) decreased churn risk,Delayed payment history increased churn risk
+C00745,0.021324378002418213,High satisfaction score (9/10) decreased churn risk,High engagement rate (10/10) decreased churn risk,Short subscription history (1 months) increased churn risk
+C00746,0.5762963200562534,Low satisfaction score (4/10) increased churn risk,On-Time payment history decreased churn risk,Short subscription history (6 months) increased churn risk
+C00747,0.002188392230087624,High satisfaction score (10/10) decreased churn risk,High engagement rate (10/10) decreased churn risk,Many promotional offers used (5) decreased churn risk
+C00748,0.3300390283294785,Low satisfaction score (2/10) increased churn risk,Few support queries (1) decreased churn risk,High engagement rate (9/10) decreased churn risk
+C00749,0.6974236848179447,High satisfaction score (10/10) decreased churn risk,Low daily watch time (0.8 hours) increased churn risk,Low engagement rate (4/10) increased churn risk
+C00750,0.7825076898716734,Low engagement rate (2/10) increased churn risk,High daily watch time (4.7 hours) decreased churn risk,Few promotional offers used (1) increased churn risk
+C00751,0.04366885598380586,Low engagement rate (2/10) increased churn risk,High satisfaction score (8/10) decreased churn risk,Many promotional offers used (5) decreased churn risk
+C00752,0.15672992597784638,High satisfaction score (9/10) decreased churn risk,Few promotional offers used (1) increased churn risk,On-Time payment history decreased churn risk
+C00753,0.8602152136221387,Short subscription history (1 months) increased churn risk,Low daily watch time (1.1 hours) increased churn risk,On-Time payment history decreased churn risk
+C00754,0.8714439348099812,Low satisfaction score (2/10) increased churn risk,Few support queries (2) decreased churn risk,Short subscription history (1 months) increased churn risk
+C00755,0.06051548659966526,Long subscription history (24 months) decreased churn risk,Many promotional offers used (5) decreased churn risk,Low engagement rate (4/10) increased churn risk
+C00756,0.9323208638311689,Few promotional offers used (0) increased churn risk,Short subscription history (1 months) increased churn risk,Frequent support queries (7) increased churn risk
+C00757,0.034235352600003564,High satisfaction score (8/10) decreased churn risk,Long subscription history (24 months) decreased churn risk,On-Time payment history decreased churn risk
+C00758,0.09180015123741736,High satisfaction score (10/10) decreased churn risk,Low engagement rate (2/10) increased churn risk,Long subscription history (24 months) decreased churn risk
+C00759,0.9955590805131126,Low engagement rate (1/10) increased churn risk,Frequent support queries (8) increased churn risk,Low satisfaction score (3/10) increased churn risk
+C00760,0.5703784470875375,Frequent support queries (9) increased churn risk,Many promotional offers used (4) decreased churn risk,Short subscription history (3 months) increased churn risk
+C00761,0.5741425221134345,High satisfaction score (10/10) decreased churn risk,Low daily watch time (0.5 hours) increased churn risk,Low engagement rate (4/10) increased churn risk
+C00762,0.986428981173762,Low satisfaction score (1/10) increased churn risk,Low engagement rate (2/10) increased churn risk,Low daily watch time (1.1 hours) increased churn risk
+C00763,0.916792796829287,Few promotional offers used (0) increased churn risk,Low satisfaction score (3/10) increased churn risk,Short subscription history (1 months) increased churn risk
+C00764,0.37368818154146266,Low satisfaction score (2/10) increased churn risk,Many promotional offers used (5) decreased churn risk,On-Time payment history decreased churn risk
+C00765,0.031804889485612976,High satisfaction score (9/10) decreased churn risk,Few support queries (1) decreased churn risk,Delayed payment history increased churn risk
+C00766,0.690464835117032,High satisfaction score (8/10) decreased churn risk,Low daily watch time (1.0 hours) increased churn risk,Few promotional offers used (1) increased churn risk
+C00767,0.9829570565118303,Low satisfaction score (1/10) increased churn risk,Low engagement rate (1/10) increased churn risk,Frequent support queries (8) increased churn risk
+C00768,0.9699419370238849,Low satisfaction score (1/10) increased churn risk,Low engagement rate (1/10) increased churn risk,Delayed payment history increased churn risk
+C00769,0.6066076762717231,Low engagement rate (3/10) increased churn risk,High satisfaction score (7/10) decreased churn risk,Short subscription history (1 months) increased churn risk
+C00770,0.6671412540625936,High satisfaction score (9/10) decreased churn risk,Frequent support queries (10) increased churn risk,Many promotional offers used (5) decreased churn risk
+C00771,0.9960546848996688,Low engagement rate (1/10) increased churn risk,Frequent support queries (9) increased churn risk,Low daily watch time (1.1 hours) increased churn risk
+C00772,0.15783648284900695,Few support queries (1) decreased churn risk,Short subscription history (3 months) increased churn risk,High engagement rate (7/10) decreased churn risk
+C00773,0.7045461481165992,Low daily watch time (0.6 hours) increased churn risk,Many promotional offers used (4) decreased churn risk,Short subscription history (3 months) increased churn risk
+C00774,0.007733272809409678,Few support queries (0) decreased churn risk,High satisfaction score (8/10) decreased churn risk,Long subscription history (24 months) decreased churn risk
+C00775,0.7750516275009355,Low satisfaction score (2/10) increased churn risk,Delayed payment history increased churn risk,High engagement rate (7/10) decreased churn risk
+C00776,0.9885313539407431,Frequent support queries (9) increased churn risk,Few promotional offers used (0) increased churn risk,Short subscription history (1 months) increased churn risk
+C00777,0.3917044374603165,Many promotional offers used (5) decreased churn risk,Short subscription history (1 months) increased churn risk,Support queries logged (3) decreased churn risk
+C00778,0.9109364373868842,Low satisfaction score (1/10) increased churn risk,High engagement rate (10/10) decreased churn risk,Frequent support queries (8) increased churn risk
+C00779,0.5003569798343657,Low daily watch time (0.7 hours) increased churn risk,High engagement rate (8/10) decreased churn risk,Short subscription history (1 months) increased churn risk
+C00780,0.9470785995403099,Low engagement rate (2/10) increased churn risk,Frequent support queries (9) increased churn risk,Low satisfaction score (3/10) increased churn risk
+C00781,0.28217226012083657,Low engagement rate (2/10) increased churn risk,Few support queries (1) decreased churn risk,Many promotional offers used (4) decreased churn risk
+C00782,0.8323304825694807,Low satisfaction score (2/10) increased churn risk,Frequent support queries (9) increased churn risk,Many promotional offers used (5) decreased churn risk
+C00783,0.2602571751101842,Long subscription history (24 months) decreased churn risk,Frequent support queries (8) increased churn risk,High engagement rate (8/10) decreased churn risk
+C00784,0.04347003509098819,High satisfaction score (10/10) decreased churn risk,High engagement rate (8/10) decreased churn risk,Short subscription history (3 months) increased churn risk
+C00785,0.6707916782988763,Few support queries (0) decreased churn risk,Low satisfaction score (2/10) increased churn risk,Many promotional offers used (4) decreased churn risk
+C00786,0.3494386201371925,High engagement rate (10/10) decreased churn risk,Few promotional offers used (0) increased churn risk,Low satisfaction score (4/10) increased churn risk
+C00787,0.8914809571813819,Low satisfaction score (3/10) increased churn risk,Delayed payment history increased churn risk,Short subscription history (6 months) increased churn risk
+C00788,0.0994580099425826,High engagement rate (10/10) decreased churn risk,High daily watch time (5.0 hours) decreased churn risk,Frequent support queries (7) increased churn risk
+C00789,0.26679461964182805,Low satisfaction score (1/10) increased churn risk,High engagement rate (9/10) decreased churn risk,Few support queries (2) decreased churn risk
+C00790,0.10289753253318103,High satisfaction score (10/10) decreased churn risk,Many promotional offers used (5) decreased churn risk,On-Time payment history decreased churn risk
+C00791,0.9838853417130183,Frequent support queries (10) increased churn risk,Low satisfaction score (2/10) increased churn risk,Low engagement rate (3/10) increased churn risk
+C00792,0.4088508059229184,High satisfaction score (10/10) decreased churn risk,Frequent support queries (8) increased churn risk,Low daily watch time (1.5 hours) increased churn risk
+C00793,0.9854838887896834,Frequent support queries (9) increased churn risk,Low engagement rate (3/10) increased churn risk,Low daily watch time (0.8 hours) increased churn risk
+C00794,0.9398964269608286,Low engagement rate (1/10) increased churn risk,High satisfaction score (8/10) decreased churn risk,Few promotional offers used (0) increased churn risk
+C00795,0.11854152348691016,High engagement rate (10/10) decreased churn risk,High satisfaction score (8/10) decreased churn risk,Frequent support queries (9) increased churn risk
+C00796,0.6970053284214662,Low engagement rate (2/10) increased churn risk,Support queries logged (3) decreased churn risk,Few promotional offers used (1) increased churn risk
+C00797,0.8525627185299847,Few promotional offers used (0) increased churn risk,Frequent support queries (8) increased churn risk,Delayed payment history increased churn risk
+C00798,0.8357245039999174,Low satisfaction score (1/10) increased churn risk,Frequent support queries (9) increased churn risk,Many promotional offers used (5) decreased churn risk
+C00799,0.794592548236965,Short subscription history (1 months) increased churn risk,Delayed payment history increased churn risk,Daily watch time (1.7 hours) increased churn risk
+C00800,0.021051185352162785,High satisfaction score (10/10) decreased churn risk,High engagement rate (10/10) decreased churn risk,Long subscription history (24 months) decreased churn risk
+C00801,0.16722574260344047,High engagement rate (10/10) decreased churn risk,Few promotional offers used (0) increased churn risk,High daily watch time (4.9 hours) decreased churn risk
+C00802,0.28621416168911135,Low engagement rate (1/10) increased churn risk,Few support queries (2) decreased churn risk,High daily watch time (4.2 hours) decreased churn risk
+C00803,0.8094206301175051,High satisfaction score (7/10) decreased churn risk,Short subscription history (1 months) increased churn risk,Low daily watch time (1.3 hours) increased churn risk
+C00804,0.938088651383965,High engagement rate (9/10) decreased churn risk,Few promotional offers used (0) increased churn risk,Low daily watch time (0.6 hours) increased churn risk
+C00805,0.6651504242518151,Low satisfaction score (1/10) increased churn risk,Low engagement rate (3/10) increased churn risk,Few support queries (2) decreased churn risk
+C00806,0.23786828062348575,High satisfaction score (10/10) decreased churn risk,Low engagement rate (2/10) increased churn risk,Low daily watch time (0.5 hours) increased churn risk
+C00807,0.35222721660951734,Frequent support queries (10) increased churn risk,Many promotional offers used (5) decreased churn risk,High satisfaction score (7/10) decreased churn risk
+C00808,0.5347902681847694,Low engagement rate (3/10) increased churn risk,Few support queries (2) decreased churn risk,Low satisfaction score (3/10) increased churn risk
+C00809,0.6484599866362744,Many promotional offers used (5) decreased churn risk,Frequent support queries (8) increased churn risk,High engagement rate (8/10) decreased churn risk
+C00810,0.8947982351318019,Low engagement rate (1/10) increased churn risk,Long subscription history (24 months) decreased churn risk,Many promotional offers used (5) decreased churn risk
+C00811,0.4142076664828716,Many promotional offers used (5) decreased churn risk,Low satisfaction score (3/10) increased churn risk,Short subscription history (3 months) increased churn risk
+C00812,0.8925446499231564,Low satisfaction score (2/10) increased churn risk,Few support queries (1) decreased churn risk,Short subscription history (3 months) increased churn risk
+C00813,0.6329542422192804,High daily watch time (4.6 hours) decreased churn risk,Short subscription history (3 months) increased churn risk,Few promotional offers used (1) increased churn risk
+C00814,0.30835232373293014,Low satisfaction score (2/10) increased churn risk,Few support queries (1) decreased churn risk,High engagement rate (8/10) decreased churn risk
+C00815,0.12874161277926244,High satisfaction score (8/10) decreased churn risk,Many promotional offers used (5) decreased churn risk,Short subscription history (3 months) increased churn risk
+C00816,0.7299726896775516,Low engagement rate (1/10) increased churn risk,High satisfaction score (8/10) decreased churn risk,Few promotional offers used (0) increased churn risk
+C00817,0.2722611674356692,Low satisfaction score (1/10) increased churn risk,High engagement rate (10/10) decreased churn risk,Long subscription history (24 months) decreased churn risk
+C00818,0.6430413871201918,Low satisfaction score (3/10) increased churn risk,High engagement rate (8/10) decreased churn risk,Short subscription history (1 months) increased churn risk
+C00819,0.8000480039078178,Frequent support queries (10) increased churn risk,High satisfaction score (7/10) decreased churn risk,Short subscription history (3 months) increased churn risk
+C00820,0.8998204831100673,Low satisfaction score (3/10) increased churn risk,Frequent support queries (7) increased churn risk,Delayed payment history increased churn risk
+C00821,0.050887949713638435,Few support queries (0) decreased churn risk,Long subscription history (24 months) decreased churn risk,High satisfaction score (7/10) decreased churn risk
+C00822,0.9615489735037023,Low satisfaction score (1/10) increased churn risk,Frequent support queries (10) increased churn risk,Low daily watch time (1.3 hours) increased churn risk
+C00823,0.03191495602117302,High engagement rate (10/10) decreased churn risk,High daily watch time (4.9 hours) decreased churn risk,Frequent support queries (8) increased churn risk
+C00824,0.9831939356806763,Frequent support queries (10) increased churn risk,Low satisfaction score (2/10) increased churn risk,Short subscription history (3 months) increased churn risk
+C00825,0.03256401885038869,High engagement rate (10/10) decreased churn risk,Few support queries (0) decreased churn risk,Many promotional offers used (5) decreased churn risk
+C00826,0.787214057581806,Low satisfaction score (1/10) increased churn risk,Few support queries (0) decreased churn risk,Few promotional offers used (1) increased churn risk
+C00827,0.8424874477389018,High satisfaction score (9/10) decreased churn risk,Low engagement rate (2/10) increased churn risk,Low daily watch time (0.7 hours) increased churn risk
+C00828,0.9453280314761535,Low satisfaction score (1/10) increased churn risk,High engagement rate (10/10) decreased churn risk,Few promotional offers used (0) increased churn risk
+C00829,0.9613740575785348,Frequent support queries (10) increased churn risk,Few promotional offers used (0) increased churn risk,High daily watch time (4.8 hours) decreased churn risk
+C00830,0.43873292255550445,Low satisfaction score (1/10) increased churn risk,High daily watch time (4.4 hours) decreased churn risk,Short subscription history (3 months) increased churn risk
+C00831,0.5806565514917563,Few promotional offers used (0) increased churn risk,Frequent support queries (8) increased churn risk,High satisfaction score (7/10) decreased churn risk
+C00832,0.03386006310793736,Few support queries (0) decreased churn risk,High satisfaction score (8/10) decreased churn risk,Long subscription history (24 months) decreased churn risk
+C00833,0.6709753722993829,Low satisfaction score (2/10) increased churn risk,Few support queries (1) decreased churn risk,High engagement rate (8/10) decreased churn risk
+C00834,0.08298479104251848,High satisfaction score (8/10) decreased churn risk,High daily watch time (5.0 hours) decreased churn risk,Frequent support queries (8) increased churn risk
+C00835,0.6335828665572587,Many promotional offers used (5) decreased churn risk,Short subscription history (1 months) increased churn risk,Low engagement rate (4/10) increased churn risk
+C00836,0.6822128735538254,Low engagement rate (1/10) increased churn risk,Low satisfaction score (2/10) increased churn risk,Long subscription history (24 months) decreased churn risk
+C00837,0.2574053200732659,High engagement rate (10/10) decreased churn risk,Few support queries (0) decreased churn risk,Low satisfaction score (3/10) increased churn risk
+C00838,0.37664004749769325,Low engagement rate (1/10) increased churn risk,Many promotional offers used (5) decreased churn risk,Support queries logged (3) decreased churn risk
+C00839,0.14274693881357936,High satisfaction score (9/10) decreased churn risk,Low engagement rate (2/10) increased churn risk,Many promotional offers used (4) decreased churn risk
+C00840,0.9291133264586108,Frequent support queries (10) increased churn risk,High engagement rate (9/10) decreased churn risk,Few promotional offers used (0) increased churn risk
+C00841,0.251065116861593,Many promotional offers used (5) decreased churn risk,Low satisfaction score (3/10) increased churn risk,High daily watch time (4.4 hours) decreased churn risk
+C00842,0.7363227385629436,Low satisfaction score (1/10) increased churn risk,High engagement rate (10/10) decreased churn risk,Frequent support queries (9) increased churn risk
+C00843,0.2756349682511232,Long subscription history (24 months) decreased churn risk,Low daily watch time (1.2 hours) increased churn risk,Few promotional offers used (1) increased churn risk
+C00844,0.2601004766216273,Many promotional offers used (5) decreased churn risk,Low daily watch time (0.9 hours) increased churn risk,High engagement rate (8/10) decreased churn risk
+C00845,0.023437955109135312,High engagement rate (9/10) decreased churn risk,Many promotional offers used (5) decreased churn risk,Daily watch time (1.6 hours) increased churn risk
+C00846,0.018416533373543764,Few support queries (0) decreased churn risk,High engagement rate (8/10) decreased churn risk,On-Time payment history decreased churn risk
+C00847,0.954029986022598,Low satisfaction score (2/10) increased churn risk,Few support queries (1) decreased churn risk,Few promotional offers used (0) increased churn risk
+C00848,0.4465915880188871,High satisfaction score (10/10) decreased churn risk,Low daily watch time (0.8 hours) increased churn risk,Short subscription history (3 months) increased churn risk
+C00849,0.9062566226371742,Low engagement rate (1/10) increased churn risk,Few support queries (2) decreased churn risk,Low satisfaction score (3/10) increased churn risk
+C00850,0.07254061832201036,Many promotional offers used (5) decreased churn risk,Few support queries (2) decreased churn risk,Low satisfaction score (3/10) increased churn risk
+C00851,0.9872149910400161,Low satisfaction score (1/10) increased churn risk,Short subscription history (1 months) increased churn risk,Low engagement rate (4/10) increased churn risk
+C00852,0.022230127503725012,High engagement rate (10/10) decreased churn risk,High satisfaction score (7/10) decreased churn risk,High daily watch time (4.4 hours) decreased churn risk
+C00853,0.1775353168519846,High satisfaction score (10/10) decreased churn risk,Low daily watch time (1.2 hours) increased churn risk,On-Time payment history decreased churn risk
+C00854,0.16021029791939856,High satisfaction score (9/10) decreased churn risk,Long subscription history (24 months) decreased churn risk,Frequent support queries (9) increased churn risk
+C00855,0.9909938013330014,Low engagement rate (2/10) increased churn risk,Few promotional offers used (0) increased churn risk,Low satisfaction score (3/10) increased churn risk
+C00856,0.6346750561096873,Frequent support queries (9) increased churn risk,High engagement rate (9/10) decreased churn risk,Delayed payment history increased churn risk
+C00857,0.12107591547737878,High satisfaction score (10/10) decreased churn risk,Low engagement rate (2/10) increased churn risk,Long subscription history (24 months) decreased churn risk
+C00858,0.9090333762058063,Low engagement rate (1/10) increased churn risk,Frequent support queries (10) increased churn risk,Long subscription history (24 months) decreased churn risk
+C00859,0.9497617886523176,Low satisfaction score (2/10) increased churn risk,Low engagement rate (2/10) increased churn risk,Short subscription history (3 months) increased churn risk
+C00860,0.18666914781217192,High satisfaction score (7/10) decreased churn risk,Few promotional offers used (1) increased churn risk,On-Time payment history decreased churn risk
+C00861,0.9692497095341467,Frequent support queries (10) increased churn risk,Few promotional offers used (0) increased churn risk,High engagement rate (8/10) decreased churn risk
+C00862,0.6036643502586382,Low satisfaction score (2/10) increased churn risk,High engagement rate (8/10) decreased churn risk,Short subscription history (3 months) increased churn risk
+C00863,0.17250218933107703,High engagement rate (9/10) decreased churn risk,Short subscription history (1 months) increased churn risk,On-Time payment history decreased churn risk
+C00864,0.026534471485282776,High satisfaction score (10/10) decreased churn risk,High engagement rate (8/10) decreased churn risk,Frequent support queries (7) increased churn risk
+C00865,0.46043475899786795,Many promotional offers used (5) decreased churn risk,Frequent support queries (8) increased churn risk,Delayed payment history increased churn risk
+C00866,0.29684596505575367,Few support queries (1) decreased churn risk,Low satisfaction score (3/10) increased churn risk,High engagement rate (8/10) decreased churn risk
+C00867,0.6314469088635085,High satisfaction score (10/10) decreased churn risk,Low engagement rate (1/10) increased churn risk,Frequent support queries (10) increased churn risk
+C00868,0.29384087708952433,High satisfaction score (10/10) decreased churn risk,Few support queries (0) decreased churn risk,Low engagement rate (2/10) increased churn risk
+C00869,0.90066358511347,Low satisfaction score (2/10) increased churn risk,Low daily watch time (0.8 hours) increased churn risk,Delayed payment history increased churn risk
+C00870,0.3799596462025619,Many promotional offers used (5) decreased churn risk,Frequent support queries (8) increased churn risk,Low satisfaction score (3/10) increased churn risk
+C00871,0.5023776627558945,High satisfaction score (9/10) decreased churn risk,Short subscription history (3 months) increased churn risk,Few promotional offers used (1) increased churn risk
+C00872,0.9626564403163472,Low engagement rate (2/10) increased churn risk,Few promotional offers used (0) increased churn risk,Delayed payment history increased churn risk
+C00873,0.38914748932265036,Low satisfaction score (1/10) increased churn risk,Long subscription history (24 months) decreased churn risk,High engagement rate (8/10) decreased churn risk
+C00874,0.1037143461494402,High satisfaction score (9/10) decreased churn risk,High engagement rate (10/10) decreased churn risk,Short subscription history (3 months) increased churn risk
+C00875,0.6708708794068302,Low satisfaction score (1/10) increased churn risk,High engagement rate (10/10) decreased churn risk,Few promotional offers used (0) increased churn risk
+C00876,0.8300576659523964,Low satisfaction score (2/10) increased churn risk,Low engagement rate (3/10) increased churn risk,Short subscription history (1 months) increased churn risk
+C00877,0.3034278404435478,High engagement rate (9/10) decreased churn risk,Few promotional offers used (0) increased churn risk,High daily watch time (3.9 hours) decreased churn risk
+C00878,0.49596583449011755,Frequent support queries (10) increased churn risk,Long subscription history (24 months) decreased churn risk,Few promotional offers used (1) increased churn risk
+C00879,0.6187979500683846,Low engagement rate (2/10) increased churn risk,On-Time payment history decreased churn risk,Satisfaction score (6/10) decreased churn risk
+C00880,0.8262204906733762,Low engagement rate (2/10) increased churn risk,High satisfaction score (8/10) decreased churn risk,Frequent support queries (8) increased churn risk
+C00881,0.29684206787403816,High satisfaction score (9/10) decreased churn risk,Low engagement rate (1/10) increased churn risk,Few support queries (1) decreased churn risk
+C00882,0.5594773347126252,Low satisfaction score (2/10) increased churn risk,Long subscription history (24 months) decreased churn risk,Many promotional offers used (4) decreased churn risk
+C00883,0.3305476772127969,High engagement rate (10/10) decreased churn risk,Frequent support queries (10) increased churn risk,High daily watch time (4.8 hours) decreased churn risk
+C00884,0.0924806354707948,High engagement rate (10/10) decreased churn risk,High satisfaction score (8/10) decreased churn risk,Delayed payment history increased churn risk
+C00885,0.8479350995666324,Frequent support queries (9) increased churn risk,Low daily watch time (0.5 hours) increased churn risk,Low engagement rate (4/10) increased churn risk
+C00886,0.832387876858626,Frequent support queries (10) increased churn risk,Low engagement rate (2/10) increased churn risk,High satisfaction score (8/10) decreased churn risk
+C00887,0.2078795332125259,Low engagement rate (1/10) increased churn risk,Long subscription history (24 months) decreased churn risk,High satisfaction score (7/10) decreased churn risk
+C00888,0.061323222922557104,High engagement rate (10/10) decreased churn risk,High daily watch time (4.1 hours) decreased churn risk,Frequent support queries (7) increased churn risk
+C00889,0.16628754483947097,High satisfaction score (9/10) decreased churn risk,Low engagement rate (2/10) increased churn risk,Long subscription history (24 months) decreased churn risk
+C00890,0.06682584329977907,High daily watch time (4.6 hours) decreased churn risk,Many promotional offers used (4) decreased churn risk,Support queries logged (3) decreased churn risk
+C00891,0.7885324776451551,Few promotional offers used (0) increased churn risk,Delayed payment history increased churn risk,Low satisfaction score (4/10) increased churn risk
+C00892,0.0896000240545226,High satisfaction score (10/10) decreased churn risk,High daily watch time (4.8 hours) decreased churn risk,Frequent support queries (8) increased churn risk
+C00893,0.9173241691741523,Low daily watch time (0.8 hours) increased churn risk,Low engagement rate (4/10) increased churn risk,Few promotional offers used (1) increased churn risk
+C00894,0.39126590777067927,Long subscription history (24 months) decreased churn risk,Low daily watch time (1.0 hours) increased churn risk,Support queries logged (3) decreased churn risk
+C00895,0.0066265560431756606,High satisfaction score (8/10) decreased churn risk,Long subscription history (24 months) decreased churn risk,High engagement rate (9/10) decreased churn risk
+C00896,0.4987410824347185,High satisfaction score (9/10) decreased churn risk,Frequent support queries (10) increased churn risk,Long subscription history (24 months) decreased churn risk
+C00897,0.7389341078471098,Frequent support queries (10) increased churn risk,High engagement rate (8/10) decreased churn risk,Short subscription history (3 months) increased churn risk
+C00898,0.4014874279001468,High engagement rate (9/10) decreased churn risk,Few support queries (2) decreased churn risk,Low satisfaction score (3/10) increased churn risk
+C00899,0.3884021453479935,Frequent support queries (10) increased churn risk,High engagement rate (9/10) decreased churn risk,Many promotional offers used (5) decreased churn risk
+C00900,0.6541547292766023,Low engagement rate (2/10) increased churn risk,Many promotional offers used (5) decreased churn risk,Few support queries (2) decreased churn risk
+C00901,0.570075609896388,High satisfaction score (9/10) decreased churn risk,Low daily watch time (0.6 hours) increased churn risk,Short subscription history (1 months) increased churn risk
+C00902,0.012307135390361722,High satisfaction score (10/10) decreased churn risk,Few support queries (1) decreased churn risk,High engagement rate (9/10) decreased churn risk
+C00903,0.010749750184656827,High satisfaction score (10/10) decreased churn risk,High engagement rate (10/10) decreased churn risk,Long subscription history (24 months) decreased churn risk
+C00904,0.783226494454145,Low engagement rate (2/10) increased churn risk,Frequent support queries (9) increased churn risk,High satisfaction score (7/10) decreased churn risk
+C00905,0.050736710965350235,High satisfaction score (8/10) decreased churn risk,Long subscription history (24 months) decreased churn risk,Few support queries (1) decreased churn risk
+C00906,0.1973646122517313,Few support queries (0) decreased churn risk,Low engagement rate (2/10) increased churn risk,High satisfaction score (8/10) decreased churn risk
+C00907,0.33601436276078034,Low engagement rate (2/10) increased churn risk,Many promotional offers used (5) decreased churn risk,High daily watch time (4.8 hours) decreased churn risk
+C00908,0.03146615905530846,High satisfaction score (10/10) decreased churn risk,Low engagement rate (1/10) increased churn risk,Few support queries (0) decreased churn risk
+C00909,0.13480634899272406,Long subscription history (24 months) decreased churn risk,Low engagement rate (3/10) increased churn risk,Few support queries (2) decreased churn risk
+C00910,0.13450777711753922,High engagement rate (8/10) decreased churn risk,High daily watch time (4.4 hours) decreased churn risk,Support queries logged (3) decreased churn risk
+C00911,0.6540127657015772,High satisfaction score (9/10) decreased churn risk,Frequent support queries (10) increased churn risk,Low engagement rate (3/10) increased churn risk
+C00912,0.23841609300009584,High satisfaction score (8/10) decreased churn risk,Frequent support queries (9) increased churn risk,High engagement rate (9/10) decreased churn risk
+C00913,0.9206281316051104,Long subscription history (24 months) decreased churn risk,Few promotional offers used (0) increased churn risk,Low satisfaction score (3/10) increased churn risk
+C00914,0.3156803366359387,High satisfaction score (9/10) decreased churn risk,Frequent support queries (9) increased churn risk,High engagement rate (9/10) decreased churn risk
+C00915,0.16092360095251085,High satisfaction score (8/10) decreased churn risk,Support queries logged (3) decreased churn risk,Delayed payment history increased churn risk
+C00916,0.7413629760240829,Low satisfaction score (2/10) increased churn risk,Low engagement rate (2/10) increased churn risk,Few support queries (1) decreased churn risk
+C00917,0.18654574814639116,Long subscription history (24 months) decreased churn risk,Few support queries (1) decreased churn risk,High engagement rate (9/10) decreased churn risk
+C00918,0.5148544486166654,Few promotional offers used (0) increased churn risk,Low engagement rate (3/10) increased churn risk,High satisfaction score (7/10) decreased churn risk
+C00919,0.5020909813740518,Long subscription history (24 months) decreased churn risk,Few promotional offers used (1) increased churn risk,Delayed payment history increased churn risk
+C00920,0.8042057651594502,Low satisfaction score (2/10) increased churn risk,Low engagement rate (2/10) increased churn risk,Few support queries (2) decreased churn risk
+C00921,0.8666661294732197,Low satisfaction score (1/10) increased churn risk,Low engagement rate (1/10) increased churn risk,Few support queries (2) decreased churn risk
+C00922,0.2687292699231323,High engagement rate (10/10) decreased churn risk,Low satisfaction score (2/10) increased churn risk,Few promotional offers used (0) increased churn risk
+C00923,0.04562483015275166,High satisfaction score (9/10) decreased churn risk,High engagement rate (10/10) decreased churn risk,Low daily watch time (1.0 hours) increased churn risk
+C00924,0.24267773406426252,Low satisfaction score (1/10) increased churn risk,Few support queries (1) decreased churn risk,High engagement rate (9/10) decreased churn risk
+C00925,0.9547013241896272,Low engagement rate (1/10) increased churn risk,Few promotional offers used (0) increased churn risk,Few support queries (2) decreased churn risk
+C00926,0.016739827402898925,High engagement rate (10/10) decreased churn risk,Long subscription history (24 months) decreased churn risk,Few support queries (1) decreased churn risk
+C00927,0.7118589831741136,Low satisfaction score (1/10) increased churn risk,Few support queries (0) decreased churn risk,Few promotional offers used (0) increased churn risk
+C00928,0.6954781202251457,High satisfaction score (8/10) decreased churn risk,Low engagement rate (3/10) increased churn risk,Few promotional offers used (1) increased churn risk
+C00929,0.021409209208561226,High engagement rate (10/10) decreased churn risk,High satisfaction score (8/10) decreased churn risk,Long subscription history (24 months) decreased churn risk
+C00930,0.6677376995009593,High engagement rate (10/10) decreased churn risk,Few support queries (0) decreased churn risk,Low satisfaction score (2/10) increased churn risk
+C00931,0.8380491559089545,Low engagement rate (2/10) increased churn risk,Frequent support queries (8) increased churn risk,Short subscription history (1 months) increased churn risk
+C00932,0.12960282420253916,Few support queries (0) decreased churn risk,High engagement rate (9/10) decreased churn risk,Low satisfaction score (3/10) increased churn risk
+C00933,0.944733888251031,Low satisfaction score (2/10) increased churn risk,Low engagement rate (2/10) increased churn risk,Few support queries (1) decreased churn risk
+C00934,0.5316943768734878,Low engagement rate (1/10) increased churn risk,High satisfaction score (7/10) decreased churn risk,Short subscription history (3 months) increased churn risk
+C00935,0.8586491133012835,Low engagement rate (1/10) increased churn risk,High satisfaction score (8/10) decreased churn risk,Frequent support queries (9) increased churn risk
+C00936,0.9715536244263905,Low satisfaction score (2/10) increased churn risk,Frequent support queries (9) increased churn risk,Few promotional offers used (1) increased churn risk
+C00937,0.6632127126967493,Frequent support queries (9) increased churn risk,Many promotional offers used (5) decreased churn risk,Low daily watch time (1.2 hours) increased churn risk
+C00938,0.9890242670279165,Frequent support queries (10) increased churn risk,Low satisfaction score (2/10) increased churn risk,Low engagement rate (3/10) increased churn risk
+C00939,0.02285963721362217,High satisfaction score (9/10) decreased churn risk,High engagement rate (10/10) decreased churn risk,Long subscription history (24 months) decreased churn risk
+C00940,0.40594376420656364,Low engagement rate (2/10) increased churn risk,Short subscription history (3 months) increased churn risk,Support queries logged (3) decreased churn risk
+C00941,0.2695967396582608,Frequent support queries (9) increased churn risk,Many promotional offers used (5) decreased churn risk,High engagement rate (7/10) decreased churn risk
+C00942,0.19518894724448846,High engagement rate (9/10) decreased churn risk,Frequent support queries (8) increased churn risk,High daily watch time (4.7 hours) decreased churn risk
+C00943,0.3135961181984925,Few support queries (2) decreased churn risk,High engagement rate (8/10) decreased churn risk,Few promotional offers used (1) increased churn risk
+C00944,0.6742624174515819,High satisfaction score (10/10) decreased churn risk,Frequent support queries (9) increased churn risk,Short subscription history (1 months) increased churn risk
+C00945,0.9600880083413657,Low satisfaction score (1/10) increased churn risk,Few promotional offers used (0) increased churn risk,Low daily watch time (1.4 hours) increased churn risk
+C00946,0.40863247158639,Many promotional offers used (5) decreased churn risk,Short subscription history (3 months) increased churn risk,Delayed payment history increased churn risk
+C00947,0.36035179636070974,Long subscription history (24 months) decreased churn risk,Low engagement rate (3/10) increased churn risk,High daily watch time (4.6 hours) decreased churn risk
+C00948,0.9324011044622934,Frequent support queries (9) increased churn risk,Short subscription history (1 months) increased churn risk,Low daily watch time (1.3 hours) increased churn risk
+C00949,0.01973817349826674,High satisfaction score (9/10) decreased churn risk,High engagement rate (10/10) decreased churn risk,Few support queries (1) decreased churn risk
+C00950,0.28453479682682603,Few promotional offers used (0) increased churn risk,Support queries logged (3) decreased churn risk,On-Time payment history decreased churn risk
+C00951,0.27228585064155375,High engagement rate (10/10) decreased churn risk,Frequent support queries (10) increased churn risk,High daily watch time (4.3 hours) decreased churn risk
+C00952,0.33371788286840715,High satisfaction score (10/10) decreased churn risk,Low daily watch time (0.6 hours) increased churn risk,Short subscription history (3 months) increased churn risk
+C00953,0.11678344900457065,High satisfaction score (8/10) decreased churn risk,Few promotional offers used (0) increased churn risk,High daily watch time (4.9 hours) decreased churn risk
+C00954,0.3921876654558087,High satisfaction score (8/10) decreased churn risk,Few promotional offers used (0) increased churn risk,Short subscription history (3 months) increased churn risk
+C00955,0.38989415530429594,Frequent support queries (10) increased churn risk,High satisfaction score (8/10) decreased churn risk,High engagement rate (7/10) decreased churn risk
+C00956,0.46886311579384093,Low satisfaction score (1/10) increased churn risk,Long subscription history (24 months) decreased churn risk,Many promotional offers used (5) decreased churn risk
+C00957,0.03636878060435415,High engagement rate (9/10) decreased churn risk,Many promotional offers used (5) decreased churn risk,High daily watch time (4.5 hours) decreased churn risk
+C00958,0.6148305744322716,Few support queries (0) decreased churn risk,Low satisfaction score (2/10) increased churn risk,Short subscription history (1 months) increased churn risk
+C00959,0.054931548062120146,High satisfaction score (10/10) decreased churn risk,Low engagement rate (1/10) increased churn risk,Many promotional offers used (5) decreased churn risk
+C00960,0.9754177688068799,Low satisfaction score (1/10) increased churn risk,Few promotional offers used (0) increased churn risk,Frequent support queries (8) increased churn risk
+C00961,0.4804823878218096,Low satisfaction score (2/10) increased churn risk,High daily watch time (4.7 hours) decreased churn risk,High engagement rate (8/10) decreased churn risk
+C00962,0.6621213668023297,Few support queries (0) decreased churn risk,Few promotional offers used (0) increased churn risk,Short subscription history (3 months) increased churn risk
+C00963,0.42085258205738063,High engagement rate (10/10) decreased churn risk,Low satisfaction score (3/10) increased churn risk,Low daily watch time (1.0 hours) increased churn risk
+C00964,0.11606726996312865,Long subscription history (24 months) decreased churn risk,On-Time payment history decreased churn risk,Satisfaction score (6/10) decreased churn risk
+C00965,0.8453852341592469,Frequent support queries (10) increased churn risk,Low satisfaction score (2/10) increased churn risk,High engagement rate (8/10) decreased churn risk
+C00966,0.9544809878736422,Low satisfaction score (1/10) increased churn risk,Low engagement rate (1/10) increased churn risk,Frequent support queries (10) increased churn risk
+C00967,0.6085008628179577,Low engagement rate (4/10) increased churn risk,On-Time payment history decreased churn risk,Short subscription history (6 months) increased churn risk
+C00968,0.24408420670730083,High satisfaction score (8/10) decreased churn risk,Long subscription history (24 months) decreased churn risk,Few promotional offers used (0) increased churn risk
+C00969,0.7348165240545461,Low engagement rate (1/10) increased churn risk,Frequent support queries (9) increased churn risk,Many promotional offers used (5) decreased churn risk
+C00970,0.5003621277436922,Low engagement rate (1/10) increased churn risk,Long subscription history (24 months) decreased churn risk,High daily watch time (4.8 hours) decreased churn risk
+C00971,0.16483984635863622,High satisfaction score (9/10) decreased churn risk,Low engagement rate (2/10) increased churn risk,Short subscription history (3 months) increased churn risk
+C00972,0.4584412759692689,High satisfaction score (8/10) decreased churn risk,Few promotional offers used (1) increased churn risk,Frequent support queries (7) increased churn risk
+C00973,0.8380329406389445,Frequent support queries (10) increased churn risk,Low daily watch time (0.8 hours) increased churn risk,Many promotional offers used (4) decreased churn risk
+C00974,0.9224392689452322,Low engagement rate (1/10) increased churn risk,Frequent support queries (8) increased churn risk,Many promotional offers used (4) decreased churn risk
+C00975,0.19309324437167746,High engagement rate (10/10) decreased churn risk,Low satisfaction score (2/10) increased churn risk,High daily watch time (4.9 hours) decreased churn risk
+C00976,0.652291548841097,Low engagement rate (2/10) increased churn risk,Long subscription history (24 months) decreased churn risk,Delayed payment history increased churn risk
+C00977,0.9521782546367079,Low satisfaction score (2/10) increased churn risk,Low daily watch time (1.4 hours) increased churn risk,Short subscription history (3 months) increased churn risk
+C00978,0.34715269723677095,Low engagement rate (2/10) increased churn risk,High satisfaction score (8/10) decreased churn risk,On-Time payment history decreased churn risk
+C00979,0.8081554978699496,Few promotional offers used (0) increased churn risk,Frequent support queries (8) increased churn risk,High engagement rate (8/10) decreased churn risk
+C00980,0.9903639142234516,Low satisfaction score (1/10) increased churn risk,Frequent support queries (9) increased churn risk,Low daily watch time (0.5 hours) increased churn risk
+C00981,0.015521206502193907,High engagement rate (10/10) decreased churn risk,Few support queries (0) decreased churn risk,On-Time payment history decreased churn risk
+C00982,0.05543156117408141,Few support queries (0) decreased churn risk,High satisfaction score (8/10) decreased churn risk,High daily watch time (4.9 hours) decreased churn risk
+C00983,0.14237133676648878,High engagement rate (10/10) decreased churn risk,Low satisfaction score (2/10) increased churn risk,On-Time payment history decreased churn risk
+C00984,0.6123300466399622,Short subscription history (1 months) increased churn risk,High daily watch time (4.5 hours) decreased churn risk,Delayed payment history increased churn risk
+C00985,0.40830337360606883,Frequent support queries (10) increased churn risk,Long subscription history (24 months) decreased churn risk,High engagement rate (8/10) decreased churn risk
+C00986,0.3868101470785169,High satisfaction score (9/10) decreased churn risk,Frequent support queries (9) increased churn risk,Few promotional offers used (0) increased churn risk
+C00987,0.00981858436693897,High engagement rate (10/10) decreased churn risk,High satisfaction score (8/10) decreased churn risk,Long subscription history (24 months) decreased churn risk
+C00988,0.36909455177998396,Many promotional offers used (4) decreased churn risk,Low engagement rate (4/10) increased churn risk,On-Time payment history decreased churn risk
+C00989,0.15856611651914068,Few support queries (1) decreased churn risk,Few promotional offers used (0) increased churn risk,Short subscription history (1 months) increased churn risk
+C00990,0.11222003262011775,Few support queries (1) decreased churn risk,Low daily watch time (1.4 hours) increased churn risk,High engagement rate (7/10) decreased churn risk
+C00991,0.728182873328057,Frequent support queries (10) increased churn risk,Many promotional offers used (5) decreased churn risk,High daily watch time (4.7 hours) decreased churn risk
+C00992,0.5298519746963477,High daily watch time (4.8 hours) decreased churn risk,Short subscription history (1 months) increased churn risk,Few promotional offers used (1) increased churn risk
+C00993,0.8111315647989624,Low satisfaction score (3/10) increased churn risk,Many promotional offers used (4) decreased churn risk,Low engagement rate (4/10) increased churn risk
+C00994,0.026659791418379257,High satisfaction score (10/10) decreased churn risk,Long subscription history (24 months) decreased churn risk,Frequent support queries (9) increased churn risk
+C00995,0.020205367694172777,Few support queries (0) decreased churn risk,Many promotional offers used (5) decreased churn risk,High engagement rate (8/10) decreased churn risk
+C00996,0.7588938328381848,High engagement rate (10/10) decreased churn risk,Low daily watch time (0.8 hours) increased churn risk,Short subscription history (1 months) increased churn risk
+C00997,0.9534405632028702,Low satisfaction score (2/10) increased churn risk,Low engagement rate (2/10) increased churn risk,Short subscription history (1 months) increased churn risk
+C00998,0.40504209217191917,High engagement rate (10/10) decreased churn risk,Low satisfaction score (2/10) increased churn risk,Many promotional offers used (4) decreased churn risk
+C00999,0.7330951897596902,Few support queries (1) decreased churn risk,Few promotional offers used (0) increased churn risk,Low engagement rate (3/10) increased churn risk
+C01000,0.8033632355234029,Frequent support queries (8) increased churn risk,Short subscription history (1 months) increased churn risk,Low engagement rate (4/10) increased churn risk

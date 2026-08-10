@@ -1,0 +1,1001 @@
+Customer ID,Subscription Length (Months),Customer Satisfaction Score (1-10),Daily Watch Time (Hours),Engagement Rate (1-10),Device Used Most Often,Genre Preference,Region,Payment History (On-Time/Delayed),Subscription Plan,Churn Status (Yes/No),Support Queries Logged,Age,Monthly Income ($),Promotional Offers Used,Number of Profiles Created
+C00001,12,10,4.85,4,Tablet,Action,Europe,On-Time,Basic,No,10,33,6250,5,2
+C00002,12,8,1.75,9,Laptop,Thriller,Europe,On-Time,Basic,No,9,28,7018,1,5
+C00003,3,4,2.75,9,Smart TV,Comedy,Asia,On-Time,Premium,No,3,18,1055,1,5
+C00004,3,7,3.0,9,Smart TV,Drama,Europe,Delayed,Premium,No,5,32,6707,5,4
+C00005,24,2,1.37,5,Mobile,Drama,North America,On-Time,Standard,No,2,59,1506,3,5
+C00006,3,4,4.95,3,Tablet,Romance,Africa,Delayed,Basic,Yes,7,69,5581,4,3
+C00007,12,4,0.71,3,Tablet,Thriller,Africa,Delayed,Standard,Yes,3,25,2238,2,3
+C00008,6,5,3.54,2,Laptop,Romance,South America,On-Time,Standard,No,4,49,3630,5,3
+C00009,6,9,3.79,1,Laptop,Drama,Africa,On-Time,Basic,No,6,27,4535,1,4
+C00010,3,6,3.61,6,Laptop,Action,North America,On-Time,Premium,Yes,0,56,7395,2,1
+C00011,1,9,2.88,9,Laptop,Sci-Fi,North America,Delayed,Basic,No,3,27,1660,0,2
+C00012,6,7,0.78,6,Desktop,Thriller,Europe,On-Time,Basic,Yes,3,44,9436,0,5
+C00013,3,3,1.17,9,Laptop,Romance,Asia,Delayed,Premium,Yes,8,70,4582,0,3
+C00014,1,2,2.7,3,Tablet,Comedy,South America,Delayed,Standard,Yes,5,62,3258,2,1
+C00015,6,3,2.01,6,Smart TV,Romance,Asia,Delayed,Premium,Yes,7,36,7283,2,1
+C00016,3,1,0.77,10,Tablet,Sci-Fi,Africa,On-Time,Premium,No,5,27,4807,4,5
+C00017,6,2,0.78,2,Laptop,Drama,Asia,Delayed,Basic,Yes,10,43,9913,3,1
+C00018,3,3,4.82,2,Laptop,Action,Africa,On-Time,Standard,No,3,60,7265,5,3
+C00019,1,9,1.08,7,Smart TV,Sci-Fi,Asia,Delayed,Basic,Yes,9,56,1229,0,4
+C00020,6,2,4.27,9,Desktop,Romance,Europe,Delayed,Basic,Yes,6,48,6091,4,2
+C00021,6,3,4.91,3,Tablet,Action,Asia,On-Time,Premium,No,3,70,5614,0,4
+C00022,12,4,3.56,6,Tablet,Drama,Africa,On-Time,Basic,No,6,44,8947,3,4
+C00023,24,7,0.81,1,Desktop,Documentary,North America,On-Time,Premium,Yes,7,67,6720,3,5
+C00024,24,5,3.36,8,Tablet,Sci-Fi,Asia,On-Time,Standard,No,0,43,6368,1,5
+C00025,6,2,3.11,5,Laptop,Romance,Africa,Delayed,Premium,Yes,4,55,7359,0,5
+C00026,1,6,0.77,10,Smart TV,Thriller,North America,Delayed,Basic,No,5,64,3295,5,1
+C00027,24,9,4.4,3,Desktop,Drama,Europe,Delayed,Standard,No,9,36,8345,2,1
+C00028,3,2,2.11,10,Smart TV,Thriller,North America,Delayed,Standard,No,0,23,8582,5,3
+C00029,12,10,0.92,9,Laptop,Drama,Africa,Delayed,Basic,No,6,26,7472,2,1
+C00030,1,7,2.07,9,Laptop,Drama,Asia,Delayed,Basic,Yes,10,43,6153,0,5
+C00031,12,8,1.41,1,Desktop,Action,Africa,On-Time,Premium,No,7,20,6097,1,5
+C00032,12,6,3.77,2,Tablet,Sci-Fi,Africa,Delayed,Premium,Yes,8,56,3059,1,2
+C00033,3,9,3.48,6,Desktop,Documentary,Europe,On-Time,Premium,No,8,25,9767,1,2
+C00034,12,4,4.97,6,Laptop,Romance,Asia,Delayed,Premium,Yes,6,70,2928,0,3
+C00035,3,10,1.68,1,Desktop,Sci-Fi,Europe,Delayed,Standard,Yes,3,37,7751,0,1
+C00036,6,1,3.03,5,Desktop,Sci-Fi,South America,On-Time,Basic,No,6,48,4277,4,5
+C00037,3,2,1.93,6,Mobile,Thriller,North America,On-Time,Basic,Yes,9,25,6098,1,4
+C00038,6,1,1.61,3,Desktop,Documentary,Africa,Delayed,Basic,Yes,6,69,6014,5,3
+C00039,6,6,4.93,9,Laptop,Romance,Africa,On-Time,Premium,No,4,42,8933,5,2
+C00040,1,6,5.0,5,Mobile,Drama,South America,On-Time,Basic,No,1,30,1645,1,2
+C00041,1,5,1.04,4,Tablet,Romance,North America,Delayed,Standard,Yes,1,57,1689,1,5
+C00042,24,4,4.7,8,Tablet,Drama,Asia,Delayed,Standard,No,3,37,2406,4,5
+C00043,6,3,2.68,10,Laptop,Comedy,South America,Delayed,Premium,No,5,27,5419,4,2
+C00044,12,3,2.6,9,Laptop,Documentary,Asia,Delayed,Premium,No,3,53,3696,0,4
+C00045,3,8,3.01,6,Smart TV,Comedy,South America,Delayed,Premium,Yes,9,34,3487,2,2
+C00046,6,10,0.71,9,Laptop,Thriller,South America,On-Time,Standard,No,10,44,4510,5,1
+C00047,24,4,3.5,3,Desktop,Documentary,Africa,On-Time,Premium,No,10,56,6064,0,4
+C00048,6,7,0.58,2,Smart TV,Drama,Asia,On-Time,Premium,No,0,62,7178,1,3
+C00049,3,1,1.48,9,Tablet,Action,Africa,Delayed,Basic,Yes,6,34,9583,0,1
+C00050,24,1,4.83,2,Tablet,Drama,Africa,On-Time,Basic,No,5,19,7295,1,5
+C00051,6,5,3.85,4,Desktop,Thriller,Europe,On-Time,Premium,No,3,63,6180,0,4
+C00052,24,6,2.95,2,Smart TV,Romance,South America,On-Time,Standard,No,2,68,8261,0,2
+C00053,24,8,1.23,3,Tablet,Comedy,North America,Delayed,Basic,No,0,56,5247,2,3
+C00054,1,5,3.14,9,Laptop,Sci-Fi,Europe,Delayed,Basic,No,0,29,7004,5,3
+C00055,3,5,1.36,4,Mobile,Romance,South America,On-Time,Standard,Yes,5,20,4544,1,1
+C00056,1,9,2.33,5,Desktop,Action,Africa,On-Time,Premium,Yes,10,38,3267,1,1
+C00057,1,10,3.17,9,Desktop,Action,North America,Delayed,Standard,No,6,58,8364,3,4
+C00058,24,4,2.46,5,Smart TV,Documentary,Asia,On-Time,Basic,Yes,3,48,3936,1,5
+C00059,24,2,3.95,2,Smart TV,Sci-Fi,South America,On-Time,Premium,Yes,10,64,8518,4,3
+C00060,24,4,2.83,1,Mobile,Romance,North America,On-Time,Premium,No,5,18,1893,3,1
+C00061,3,6,3.36,7,Smart TV,Sci-Fi,Europe,Delayed,Premium,No,2,41,2540,1,5
+C00062,3,5,2.26,6,Desktop,Thriller,Asia,On-Time,Premium,No,0,56,6313,4,3
+C00063,6,8,4.83,8,Smart TV,Comedy,Asia,On-Time,Standard,No,4,44,1037,0,1
+C00064,6,5,3.14,1,Smart TV,Sci-Fi,South America,Delayed,Premium,No,5,49,8562,5,5
+C00065,6,2,1.93,10,Mobile,Drama,Europe,On-Time,Standard,Yes,5,27,7201,4,4
+C00066,1,5,2.28,8,Desktop,Sci-Fi,Africa,Delayed,Premium,Yes,3,70,7085,3,5
+C00067,24,5,3.18,8,Mobile,Action,Asia,On-Time,Basic,No,0,61,4698,2,5
+C00068,12,1,4.32,6,Mobile,Drama,North America,Delayed,Premium,No,3,37,3188,2,2
+C00069,1,1,1.68,3,Laptop,Documentary,Asia,Delayed,Standard,Yes,1,67,8818,1,5
+C00070,6,10,1.72,10,Desktop,Comedy,South America,On-Time,Standard,No,9,23,1533,2,5
+C00071,12,1,2.74,9,Tablet,Drama,Africa,On-Time,Basic,No,3,49,649,3,2
+C00072,24,2,3.12,3,Mobile,Thriller,Africa,On-Time,Standard,No,3,31,9897,5,4
+C00073,12,10,2.68,7,Smart TV,Thriller,North America,Delayed,Premium,No,2,26,7357,1,3
+C00074,12,6,4.59,7,Mobile,Action,South America,Delayed,Standard,No,10,48,6488,2,2
+C00075,6,2,1.97,7,Mobile,Thriller,South America,Delayed,Basic,Yes,8,57,2702,0,1
+C00076,1,6,4.03,10,Tablet,Drama,North America,On-Time,Standard,No,1,41,3085,3,4
+C00077,12,4,4.84,8,Desktop,Action,South America,Delayed,Premium,No,6,36,8691,2,3
+C00078,12,6,3.01,5,Laptop,Thriller,North America,Delayed,Basic,Yes,9,38,8645,3,3
+C00079,6,6,0.87,3,Smart TV,Drama,Europe,Delayed,Premium,No,1,44,2082,1,3
+C00080,12,2,4.42,8,Laptop,Action,North America,Delayed,Basic,No,6,54,3866,4,1
+C00081,1,3,1.06,7,Smart TV,Action,North America,On-Time,Standard,Yes,9,44,1717,4,4
+C00082,24,9,2.82,6,Desktop,Thriller,South America,On-Time,Premium,No,7,35,3577,0,4
+C00083,24,5,0.83,8,Laptop,Action,Europe,On-Time,Standard,No,6,70,2676,2,3
+C00084,6,8,1.68,8,Tablet,Romance,Africa,Delayed,Basic,Yes,5,19,3394,0,3
+C00085,6,5,4.98,5,Mobile,Romance,South America,On-Time,Basic,No,1,43,8991,3,1
+C00086,1,7,1.87,8,Mobile,Thriller,Africa,On-Time,Basic,No,5,60,6731,5,1
+C00087,6,2,1.21,3,Smart TV,Action,Asia,Delayed,Basic,Yes,1,20,5244,4,1
+C00088,3,3,1.0,9,Tablet,Documentary,Africa,Delayed,Basic,No,0,21,7865,0,4
+C00089,1,5,0.96,7,Mobile,Sci-Fi,South America,Delayed,Standard,Yes,8,31,6014,5,2
+C00090,24,6,2.9,4,Laptop,Action,South America,Delayed,Standard,No,6,40,6615,5,1
+C00091,6,9,1.84,1,Desktop,Thriller,Africa,On-Time,Standard,No,7,47,3897,5,5
+C00092,12,2,4.57,9,Laptop,Thriller,South America,Delayed,Basic,No,5,36,8823,4,2
+C00093,6,9,1.52,8,Smart TV,Documentary,North America,Delayed,Premium,No,6,18,6381,5,5
+C00094,24,5,3.25,7,Tablet,Drama,Africa,On-Time,Standard,No,1,55,1487,2,5
+C00095,6,7,3.75,4,Laptop,Drama,Asia,On-Time,Premium,No,4,20,7816,1,2
+C00096,6,2,1.15,2,Mobile,Drama,North America,Delayed,Basic,No,2,49,8135,4,1
+C00097,24,2,3.67,7,Desktop,Documentary,Asia,On-Time,Basic,No,7,33,4332,4,2
+C00098,1,1,3.04,3,Desktop,Action,Asia,On-Time,Standard,Yes,7,32,9414,3,1
+C00099,12,1,3.72,8,Laptop,Romance,South America,On-Time,Premium,No,1,48,8800,3,4
+C00100,6,8,3.12,1,Tablet,Thriller,Africa,On-Time,Standard,No,9,54,899,0,1
+C00101,1,3,2.02,7,Laptop,Action,Europe,On-Time,Basic,Yes,4,38,8587,3,2
+C00102,24,8,1.66,1,Smart TV,Documentary,Europe,On-Time,Standard,No,2,49,4434,0,1
+C00103,3,8,3.56,10,Tablet,Thriller,Europe,Delayed,Premium,No,2,37,9734,0,1
+C00104,12,10,2.16,4,Mobile,Sci-Fi,South America,Delayed,Standard,Yes,8,68,8804,0,4
+C00105,1,7,4.3,7,Laptop,Thriller,Asia,On-Time,Standard,No,9,33,1549,0,2
+C00106,3,6,1.48,2,Tablet,Documentary,Asia,Delayed,Premium,Yes,6,52,2472,4,4
+C00107,3,5,3.13,5,Smart TV,Thriller,South America,Delayed,Standard,No,7,27,8359,3,3
+C00108,6,2,4.37,9,Laptop,Romance,North America,On-Time,Standard,No,6,21,778,1,2
+C00109,24,6,1.29,6,Laptop,Drama,South America,On-Time,Premium,No,3,47,1102,4,1
+C00110,3,2,2.71,2,Desktop,Action,Africa,On-Time,Standard,Yes,5,52,3665,2,1
+C00111,24,3,0.73,9,Smart TV,Drama,North America,On-Time,Premium,No,10,24,5934,4,5
+C00112,3,8,3.77,8,Smart TV,Documentary,Asia,On-Time,Premium,No,5,42,5603,1,2
+C00113,1,1,3.61,1,Tablet,Sci-Fi,South America,Delayed,Standard,Yes,10,30,9852,1,1
+C00114,3,8,3.27,3,Mobile,Sci-Fi,Africa,Delayed,Premium,No,7,47,1396,4,5
+C00115,12,1,4.06,4,Desktop,Documentary,South America,Delayed,Standard,No,6,28,2274,5,2
+C00116,1,7,1.48,4,Desktop,Drama,Africa,On-Time,Standard,Yes,10,55,6990,2,5
+C00117,1,9,2.82,9,Laptop,Drama,South America,On-Time,Standard,No,8,61,3728,3,3
+C00118,1,3,3.92,9,Tablet,Romance,North America,On-Time,Standard,Yes,9,31,4954,3,5
+C00119,12,4,2.66,7,Mobile,Thriller,North America,On-Time,Premium,Yes,2,29,4886,3,4
+C00120,6,4,2.58,6,Laptop,Action,South America,On-Time,Basic,No,2,54,9951,3,4
+C00121,6,3,3.86,8,Tablet,Sci-Fi,North America,Delayed,Standard,Yes,3,36,8857,4,2
+C00122,12,8,3.33,6,Tablet,Romance,Europe,On-Time,Standard,Yes,4,66,8145,1,5
+C00123,6,5,3.48,8,Tablet,Comedy,North America,Delayed,Standard,Yes,9,70,9654,1,2
+C00124,24,5,1.55,6,Desktop,Sci-Fi,Africa,On-Time,Premium,No,2,31,2896,3,5
+C00125,3,2,0.92,5,Desktop,Documentary,South America,Delayed,Basic,Yes,9,52,8463,1,3
+C00126,1,5,3.04,2,Laptop,Thriller,Africa,Delayed,Basic,Yes,5,27,6089,3,2
+C00127,24,5,3.8,9,Smart TV,Action,Africa,On-Time,Premium,No,7,26,4761,4,2
+C00128,24,8,1.73,6,Laptop,Action,Africa,Delayed,Standard,No,7,58,3597,5,5
+C00129,24,3,3.59,4,Laptop,Drama,Asia,Delayed,Basic,Yes,5,67,7761,5,4
+C00130,6,4,2.71,7,Desktop,Sci-Fi,South America,On-Time,Premium,Yes,4,49,6118,2,2
+C00131,1,1,2.46,5,Mobile,Thriller,Africa,Delayed,Premium,No,3,21,2380,4,2
+C00132,3,4,3.73,9,Tablet,Romance,Asia,Delayed,Standard,No,0,59,3509,0,5
+C00133,12,1,1.1,9,Smart TV,Drama,North America,On-Time,Standard,No,3,54,3271,2,4
+C00134,1,6,3.66,3,Laptop,Action,Africa,On-Time,Premium,No,4,57,6940,2,4
+C00135,12,10,4.41,7,Tablet,Documentary,Asia,Delayed,Premium,No,4,29,4775,4,5
+C00136,3,8,1.65,4,Mobile,Sci-Fi,South America,On-Time,Basic,Yes,9,34,7400,3,1
+C00137,12,10,0.7,8,Mobile,Sci-Fi,Africa,Delayed,Standard,No,6,40,2956,1,2
+C00138,6,3,1.26,6,Tablet,Action,Asia,Delayed,Basic,Yes,9,67,9331,3,1
+C00139,3,2,0.98,8,Laptop,Drama,South America,On-Time,Basic,No,2,59,5318,3,2
+C00140,12,6,2.91,10,Smart TV,Thriller,Asia,Delayed,Premium,No,6,58,6894,0,5
+C00141,6,2,3.65,1,Tablet,Sci-Fi,Africa,On-Time,Basic,No,2,20,1430,3,1
+C00142,1,6,1.46,1,Tablet,Sci-Fi,Africa,On-Time,Premium,Yes,4,67,7170,2,1
+C00143,12,9,1.85,4,Smart TV,Thriller,Asia,Delayed,Basic,No,3,38,3265,1,3
+C00144,24,10,2.8,10,Tablet,Drama,Asia,Delayed,Basic,No,5,60,5854,1,1
+C00145,12,7,3.27,2,Laptop,Thriller,South America,On-Time,Premium,No,3,53,3724,1,3
+C00146,6,10,3.36,2,Mobile,Action,Europe,Delayed,Basic,No,10,34,5939,5,1
+C00147,24,9,0.65,5,Mobile,Drama,North America,Delayed,Premium,Yes,7,65,5687,2,2
+C00148,6,3,1.85,1,Laptop,Romance,North America,Delayed,Standard,Yes,6,21,8330,1,2
+C00149,1,4,3.95,7,Smart TV,Documentary,North America,On-Time,Premium,Yes,9,57,5845,4,4
+C00150,3,10,4.57,6,Mobile,Action,South America,On-Time,Standard,No,4,23,5480,0,2
+C00151,12,2,1.22,6,Mobile,Documentary,Africa,Delayed,Standard,Yes,6,21,2719,0,5
+C00152,24,3,4.93,6,Laptop,Sci-Fi,Europe,Delayed,Basic,No,1,49,2069,3,4
+C00153,1,9,4.67,9,Smart TV,Thriller,Africa,On-Time,Premium,No,9,18,3192,1,4
+C00154,1,10,1.56,8,Mobile,Documentary,Asia,On-Time,Standard,No,1,54,5121,5,3
+C00155,3,8,4.64,2,Mobile,Sci-Fi,Asia,Delayed,Premium,No,4,29,3993,2,4
+C00156,3,2,3.99,6,Laptop,Drama,South America,Delayed,Basic,Yes,3,26,2417,3,5
+C00157,24,3,4.22,6,Laptop,Drama,South America,Delayed,Standard,No,1,56,9607,5,3
+C00158,24,7,1.76,1,Smart TV,Documentary,North America,On-Time,Premium,No,5,36,1383,4,3
+C00159,12,6,1.98,2,Desktop,Documentary,Africa,On-Time,Premium,No,5,42,7028,4,5
+C00160,24,8,2.34,6,Smart TV,Comedy,North America,On-Time,Standard,No,6,22,5000,0,4
+C00161,6,2,4.13,3,Tablet,Thriller,Asia,On-Time,Premium,Yes,9,69,1043,4,1
+C00162,6,5,4.59,4,Desktop,Drama,Europe,On-Time,Premium,Yes,3,62,5021,1,5
+C00163,6,8,2.3,1,Laptop,Sci-Fi,South America,Delayed,Premium,Yes,1,46,6755,1,1
+C00164,1,5,2.53,8,Mobile,Documentary,North America,On-Time,Basic,No,0,25,8774,0,1
+C00165,6,6,4.01,2,Desktop,Action,Africa,Delayed,Basic,Yes,9,21,3764,3,5
+C00166,1,7,3.88,1,Tablet,Sci-Fi,South America,On-Time,Standard,No,0,50,1154,1,5
+C00167,1,3,1.06,10,Desktop,Sci-Fi,South America,On-Time,Premium,Yes,9,29,1172,0,2
+C00168,3,7,3.11,1,Mobile,Romance,South America,Delayed,Standard,No,0,34,5523,5,1
+C00169,12,2,2.89,9,Tablet,Comedy,Europe,On-Time,Premium,No,8,22,911,1,4
+C00170,24,7,4.04,2,Smart TV,Romance,Europe,Delayed,Basic,Yes,5,67,3677,5,4
+C00171,1,5,0.99,5,Mobile,Sci-Fi,Africa,Delayed,Premium,Yes,4,67,5577,0,5
+C00172,1,7,4.26,6,Laptop,Drama,Asia,Delayed,Premium,No,3,56,1358,4,1
+C00173,12,8,3.13,5,Tablet,Action,Asia,On-Time,Basic,No,6,43,4870,4,1
+C00174,3,9,4.06,5,Mobile,Documentary,North America,Delayed,Basic,No,6,50,8641,3,5
+C00175,3,3,3.54,3,Tablet,Romance,Africa,On-Time,Basic,Yes,7,60,6922,5,3
+C00176,1,8,2.65,6,Laptop,Sci-Fi,Europe,On-Time,Basic,No,2,21,4925,2,2
+C00177,6,10,1.27,8,Smart TV,Action,South America,Delayed,Basic,No,5,45,7289,2,5
+C00178,3,5,1.35,8,Tablet,Sci-Fi,South America,On-Time,Standard,No,5,18,6584,3,1
+C00179,12,8,4.4,8,Mobile,Thriller,South America,On-Time,Premium,No,6,53,6478,1,3
+C00180,3,2,2.13,5,Tablet,Comedy,Europe,Delayed,Basic,Yes,2,49,1091,0,4
+C00181,24,3,3.77,3,Tablet,Thriller,South America,Delayed,Standard,No,3,55,3989,3,4
+C00182,6,6,4.33,2,Desktop,Romance,Europe,On-Time,Standard,Yes,4,29,8577,1,2
+C00183,12,7,3.82,2,Mobile,Sci-Fi,South America,Delayed,Premium,No,2,22,9202,3,2
+C00184,6,8,2.25,10,Mobile,Action,South America,On-Time,Basic,No,10,58,8169,2,2
+C00185,24,3,1.72,4,Laptop,Comedy,South America,On-Time,Standard,Yes,1,47,7084,0,2
+C00186,6,2,4.59,8,Smart TV,Documentary,South America,Delayed,Basic,Yes,4,46,4460,0,1
+C00187,24,5,2.66,1,Laptop,Comedy,Asia,Delayed,Premium,Yes,10,70,6745,0,3
+C00188,24,10,0.76,3,Laptop,Thriller,Europe,Delayed,Basic,No,2,58,9454,5,3
+C00189,24,10,2.18,1,Desktop,Action,Asia,Delayed,Premium,No,7,39,3847,5,2
+C00190,12,5,2.32,6,Tablet,Action,South America,Delayed,Standard,No,0,55,8022,5,1
+C00191,3,1,2.95,3,Laptop,Comedy,Africa,On-Time,Premium,Yes,8,64,4309,0,1
+C00192,24,3,4.61,9,Laptop,Sci-Fi,South America,On-Time,Premium,No,7,60,5322,4,5
+C00193,3,1,3.0,2,Tablet,Documentary,Asia,On-Time,Basic,Yes,9,50,9944,3,5
+C00194,12,6,3.25,1,Desktop,Romance,Europe,On-Time,Premium,No,0,27,705,2,3
+C00195,3,1,0.65,7,Mobile,Documentary,Africa,On-Time,Basic,Yes,3,28,1795,5,2
+C00196,6,3,4.47,3,Mobile,Sci-Fi,Europe,On-Time,Premium,Yes,3,34,8461,2,5
+C00197,24,10,4.03,1,Smart TV,Sci-Fi,Asia,Delayed,Standard,No,9,66,9071,4,2
+C00198,12,1,2.24,3,Smart TV,Sci-Fi,South America,On-Time,Standard,Yes,1,68,4242,1,4
+C00199,24,5,2.56,10,Mobile,Drama,Africa,Delayed,Basic,No,4,18,6086,1,4
+C00200,3,5,1.58,9,Tablet,Action,South America,On-Time,Premium,Yes,6,56,2634,0,2
+C00201,6,9,3.3,7,Desktop,Documentary,North America,Delayed,Standard,Yes,6,33,7239,2,1
+C00202,12,2,3.88,9,Tablet,Action,Europe,Delayed,Standard,Yes,0,35,7363,0,3
+C00203,6,3,4.79,6,Mobile,Documentary,Africa,On-Time,Premium,No,6,59,777,5,2
+C00204,1,4,3.14,8,Smart TV,Romance,Asia,Delayed,Standard,Yes,2,33,3898,3,4
+C00205,24,10,4.22,2,Desktop,Sci-Fi,Europe,On-Time,Premium,No,2,34,5092,4,4
+C00206,3,3,3.31,5,Desktop,Drama,Africa,Delayed,Basic,Yes,4,39,6417,0,4
+C00207,24,6,4.0,1,Tablet,Action,South America,Delayed,Premium,No,5,29,6290,1,4
+C00208,6,4,3.75,5,Laptop,Action,Asia,Delayed,Standard,No,0,65,1879,5,5
+C00209,24,2,4.94,1,Desktop,Romance,Europe,Delayed,Basic,Yes,3,60,8275,5,4
+C00210,3,5,4.01,3,Tablet,Drama,Asia,Delayed,Premium,Yes,4,20,1690,4,4
+C00211,6,2,0.92,10,Smart TV,Romance,Asia,Delayed,Standard,Yes,2,19,2715,5,4
+C00212,12,2,3.17,2,Desktop,Sci-Fi,South America,On-Time,Standard,No,1,19,4424,2,1
+C00213,12,10,4.65,7,Smart TV,Sci-Fi,Africa,Delayed,Standard,No,0,55,8963,5,4
+C00214,24,2,1.77,9,Desktop,Thriller,Asia,Delayed,Basic,No,9,67,7468,4,4
+C00215,6,7,4.15,2,Laptop,Thriller,Asia,On-Time,Standard,No,8,25,6628,5,1
+C00216,24,6,4.28,8,Smart TV,Comedy,North America,Delayed,Standard,No,5,58,4426,3,4
+C00217,1,4,4.63,6,Mobile,Thriller,North America,Delayed,Premium,Yes,7,36,7842,2,4
+C00218,24,2,2.13,4,Smart TV,Thriller,Asia,On-Time,Basic,Yes,8,58,857,2,5
+C00219,24,10,3.25,8,Desktop,Action,Europe,On-Time,Standard,No,1,62,7171,3,5
+C00220,6,9,1.05,8,Smart TV,Comedy,North America,On-Time,Premium,No,1,47,6465,4,2
+C00221,24,2,4.13,10,Laptop,Comedy,Europe,On-Time,Basic,No,8,28,3319,2,5
+C00222,3,8,2.56,2,Desktop,Sci-Fi,Africa,On-Time,Premium,No,6,70,7370,2,2
+C00223,1,3,1.71,8,Laptop,Romance,Africa,Delayed,Basic,Yes,6,34,3437,0,1
+C00224,24,10,4.87,3,Desktop,Romance,South America,On-Time,Premium,No,1,64,1137,1,2
+C00225,1,5,3.46,9,Smart TV,Comedy,Africa,On-Time,Premium,No,2,37,6476,2,3
+C00226,24,10,1.46,8,Laptop,Sci-Fi,North America,Delayed,Premium,No,4,60,2791,4,2
+C00227,6,5,3.49,8,Smart TV,Drama,Europe,On-Time,Standard,No,3,28,2691,2,4
+C00228,12,6,4.81,6,Tablet,Documentary,South America,On-Time,Basic,Yes,10,21,7870,2,3
+C00229,3,7,3.23,6,Smart TV,Thriller,Asia,Delayed,Standard,No,10,35,2621,0,3
+C00230,12,7,1.67,8,Tablet,Romance,North America,Delayed,Premium,No,6,51,632,2,1
+C00231,3,10,4.18,2,Desktop,Thriller,Asia,On-Time,Standard,No,3,59,6134,2,5
+C00232,6,8,4.04,4,Desktop,Action,South America,On-Time,Basic,No,6,61,5999,5,2
+C00233,24,2,4.43,6,Tablet,Action,Europe,Delayed,Basic,No,7,41,7092,2,1
+C00234,12,10,0.7,4,Desktop,Thriller,Asia,On-Time,Premium,No,2,30,5791,0,3
+C00235,1,10,0.62,1,Smart TV,Romance,South America,Delayed,Premium,Yes,6,46,9994,3,2
+C00236,3,7,2.59,2,Desktop,Action,North America,Delayed,Standard,No,7,57,3655,0,2
+C00237,1,2,1.62,4,Desktop,Documentary,Asia,Delayed,Basic,Yes,5,47,8462,5,4
+C00238,3,4,4.1,7,Mobile,Documentary,Africa,On-Time,Basic,No,0,56,4175,3,1
+C00239,1,3,4.59,5,Laptop,Comedy,South America,On-Time,Basic,No,4,25,5627,1,4
+C00240,12,9,1.65,5,Desktop,Sci-Fi,Europe,Delayed,Standard,No,7,64,2368,5,3
+C00241,3,1,0.94,8,Laptop,Sci-Fi,Asia,Delayed,Premium,Yes,8,18,7700,2,3
+C00242,12,6,2.84,6,Mobile,Sci-Fi,North America,Delayed,Standard,No,1,47,6375,4,5
+C00243,3,3,1.91,9,Laptop,Comedy,Europe,On-Time,Premium,Yes,10,32,6779,0,3
+C00244,6,5,1.15,5,Mobile,Thriller,Africa,On-Time,Basic,No,0,49,5217,4,3
+C00245,6,10,4.61,5,Tablet,Drama,Asia,On-Time,Basic,No,10,44,1033,1,5
+C00246,3,10,4.11,2,Mobile,Action,South America,On-Time,Basic,No,6,41,4206,4,2
+C00247,1,5,1.28,10,Tablet,Drama,Africa,On-Time,Standard,No,5,55,9442,4,2
+C00248,24,10,4.92,6,Smart TV,Romance,Europe,Delayed,Standard,No,0,28,1177,4,4
+C00249,3,3,3.4,4,Desktop,Thriller,Africa,Delayed,Standard,Yes,4,40,9548,5,3
+C00250,1,4,1.36,4,Mobile,Action,Africa,Delayed,Standard,No,6,44,9301,4,2
+C00251,12,1,1.26,1,Desktop,Thriller,Asia,Delayed,Standard,Yes,10,43,9693,5,4
+C00252,12,3,0.51,5,Tablet,Comedy,Europe,Delayed,Standard,Yes,8,62,2036,5,5
+C00253,6,8,2.96,7,Desktop,Drama,North America,Delayed,Premium,Yes,9,51,7448,4,2
+C00254,6,2,2.67,9,Laptop,Comedy,South America,On-Time,Standard,Yes,6,34,6050,1,4
+C00255,6,10,2.78,3,Desktop,Documentary,South America,On-Time,Basic,No,1,29,642,5,2
+C00256,3,6,4.58,4,Mobile,Documentary,Europe,Delayed,Standard,No,1,63,2034,4,5
+C00257,24,7,4.39,8,Mobile,Comedy,South America,Delayed,Standard,No,7,39,6037,3,3
+C00258,12,3,1.59,6,Smart TV,Romance,South America,Delayed,Standard,Yes,6,25,6141,1,5
+C00259,12,3,1.24,4,Mobile,Drama,Africa,On-Time,Standard,Yes,3,38,4050,3,3
+C00260,24,2,4.72,5,Mobile,Drama,Asia,On-Time,Basic,Yes,10,66,8018,1,5
+C00261,1,4,1.28,4,Mobile,Sci-Fi,Europe,Delayed,Basic,Yes,3,43,5973,1,5
+C00262,3,8,3.52,1,Desktop,Sci-Fi,North America,On-Time,Premium,Yes,9,62,9055,3,3
+C00263,12,3,1.05,3,Mobile,Action,Europe,Delayed,Basic,Yes,2,60,2094,3,3
+C00264,1,6,4.46,1,Smart TV,Romance,North America,On-Time,Basic,No,7,24,6014,4,4
+C00265,24,4,4.85,2,Laptop,Action,North America,Delayed,Standard,Yes,8,53,1835,3,5
+C00266,3,4,2.4,4,Smart TV,Documentary,Africa,Delayed,Standard,Yes,3,28,5120,5,3
+C00267,6,1,1.76,8,Mobile,Documentary,Asia,Delayed,Premium,Yes,5,20,2497,1,2
+C00268,24,6,4.82,2,Laptop,Drama,Africa,Delayed,Basic,No,3,51,2649,0,4
+C00269,6,8,3.44,9,Desktop,Sci-Fi,North America,On-Time,Standard,No,4,31,2546,1,1
+C00270,1,1,4.54,4,Laptop,Sci-Fi,Europe,On-Time,Basic,Yes,5,57,1560,2,4
+C00271,1,10,3.24,2,Mobile,Thriller,Africa,Delayed,Standard,No,7,65,2437,0,5
+C00272,24,5,2.27,2,Laptop,Documentary,Europe,Delayed,Basic,No,3,43,2759,3,5
+C00273,12,6,1.42,9,Desktop,Comedy,Africa,On-Time,Premium,No,3,47,8883,1,1
+C00274,6,7,4.57,3,Desktop,Thriller,Africa,Delayed,Basic,Yes,5,42,5359,2,4
+C00275,24,5,3.8,6,Tablet,Romance,Africa,Delayed,Standard,No,5,60,8810,0,2
+C00276,24,1,3.9,9,Desktop,Sci-Fi,South America,Delayed,Premium,No,7,57,3969,3,1
+C00277,3,8,3.25,2,Laptop,Comedy,Europe,On-Time,Basic,No,3,20,8158,3,5
+C00278,1,7,4.17,4,Desktop,Thriller,Africa,Delayed,Premium,No,6,26,910,5,1
+C00279,1,1,3.39,4,Laptop,Documentary,Asia,Delayed,Premium,Yes,10,26,4699,4,2
+C00280,24,8,4.18,2,Tablet,Sci-Fi,Europe,Delayed,Basic,Yes,4,68,2460,0,5
+C00281,1,6,2.83,1,Mobile,Romance,Europe,On-Time,Standard,Yes,4,68,9479,2,2
+C00282,3,8,0.84,9,Tablet,Comedy,South America,Delayed,Basic,No,9,68,8505,4,2
+C00283,6,1,3.83,6,Smart TV,Drama,North America,Delayed,Premium,Yes,2,23,7386,4,4
+C00284,6,5,2.29,3,Desktop,Action,North America,Delayed,Standard,Yes,6,45,9967,3,1
+C00285,1,8,1.92,8,Smart TV,Documentary,South America,On-Time,Basic,No,2,51,8262,3,5
+C00286,24,5,3.93,1,Laptop,Comedy,Africa,Delayed,Basic,No,2,48,8197,2,4
+C00287,1,4,3.89,9,Smart TV,Documentary,North America,On-Time,Premium,Yes,10,60,5650,0,3
+C00288,6,9,2.58,2,Laptop,Comedy,North America,On-Time,Basic,Yes,8,33,5372,1,3
+C00289,12,1,4.77,9,Laptop,Romance,North America,On-Time,Basic,No,9,34,8657,1,1
+C00290,12,3,0.52,10,Laptop,Documentary,Africa,Delayed,Standard,Yes,6,28,4473,0,1
+C00291,12,8,0.67,7,Smart TV,Sci-Fi,Africa,Delayed,Standard,No,3,52,9824,1,4
+C00292,24,3,4.17,2,Mobile,Drama,North America,Delayed,Premium,No,0,31,822,2,2
+C00293,1,1,3.53,2,Smart TV,Drama,Africa,Delayed,Basic,Yes,2,36,1830,4,2
+C00294,24,2,0.52,10,Desktop,Drama,North America,Delayed,Premium,No,3,54,8145,0,1
+C00295,6,1,3.86,5,Desktop,Romance,Africa,Delayed,Basic,Yes,1,42,8943,3,1
+C00296,6,3,4.45,9,Laptop,Comedy,Asia,Delayed,Standard,No,4,43,8496,0,4
+C00297,6,9,1.06,1,Smart TV,Thriller,Europe,Delayed,Standard,Yes,10,33,4856,2,2
+C00298,12,3,0.78,1,Mobile,Action,Europe,Delayed,Basic,Yes,5,45,4865,4,1
+C00299,3,4,3.51,5,Tablet,Sci-Fi,North America,On-Time,Standard,No,9,40,5004,3,5
+C00300,3,10,3.68,9,Laptop,Thriller,South America,Delayed,Premium,No,4,53,938,1,2
+C00301,1,10,2.95,2,Smart TV,Romance,Africa,On-Time,Premium,No,5,34,4755,3,5
+C00302,6,1,2.19,7,Tablet,Action,North America,On-Time,Premium,Yes,4,58,3065,2,5
+C00303,1,8,4.45,9,Smart TV,Sci-Fi,Africa,Delayed,Premium,No,8,36,9667,3,3
+C00304,6,8,1.62,4,Laptop,Action,Europe,Delayed,Standard,No,9,48,4646,3,1
+C00305,24,5,2.04,1,Desktop,Action,Africa,On-Time,Standard,Yes,4,57,2271,0,3
+C00306,12,3,1.75,4,Desktop,Drama,Europe,On-Time,Premium,Yes,2,42,2612,5,3
+C00307,3,8,3.65,1,Laptop,Documentary,South America,Delayed,Premium,No,4,44,3666,4,4
+C00308,6,9,1.2,7,Tablet,Sci-Fi,Asia,On-Time,Premium,No,9,55,5765,2,3
+C00309,1,8,1.66,4,Tablet,Sci-Fi,Africa,On-Time,Premium,Yes,6,29,8223,0,4
+C00310,6,9,1.45,9,Mobile,Comedy,Asia,On-Time,Premium,No,2,21,1901,2,3
+C00311,3,2,4.61,6,Desktop,Drama,Europe,Delayed,Basic,Yes,0,35,5183,0,5
+C00312,12,5,1.45,6,Smart TV,Sci-Fi,Europe,On-Time,Standard,Yes,8,44,5627,3,2
+C00313,3,4,2.84,9,Desktop,Documentary,South America,Delayed,Basic,Yes,1,69,3558,4,1
+C00314,12,5,1.23,3,Desktop,Documentary,Europe,On-Time,Standard,Yes,7,52,8319,4,4
+C00315,24,3,3.69,4,Mobile,Action,Asia,On-Time,Standard,Yes,5,38,1978,5,2
+C00316,24,10,3.11,2,Mobile,Comedy,Asia,Delayed,Basic,No,2,63,6216,3,2
+C00317,12,7,3.89,10,Mobile,Romance,North America,On-Time,Standard,No,6,63,2055,5,3
+C00318,24,2,1.08,7,Smart TV,Thriller,Europe,Delayed,Basic,No,0,57,8653,4,2
+C00319,6,1,1.27,1,Mobile,Drama,Europe,On-Time,Basic,Yes,5,33,8586,1,3
+C00320,24,4,3.31,2,Tablet,Sci-Fi,Europe,On-Time,Standard,No,0,67,9822,4,1
+C00321,24,5,1.32,6,Mobile,Documentary,North America,On-Time,Premium,Yes,9,18,6230,3,3
+C00322,24,7,0.81,3,Mobile,Documentary,Asia,On-Time,Premium,No,4,43,681,4,1
+C00323,1,2,1.87,2,Smart TV,Documentary,North America,On-Time,Premium,Yes,6,60,8262,1,3
+C00324,1,8,2.26,3,Laptop,Documentary,North America,On-Time,Basic,Yes,10,65,6127,2,2
+C00325,6,3,3.6,10,Laptop,Romance,Asia,On-Time,Basic,No,1,68,9803,5,2
+C00326,24,5,4.63,9,Tablet,Drama,North America,Delayed,Standard,No,3,51,9812,1,5
+C00327,6,2,3.57,3,Smart TV,Drama,South America,On-Time,Premium,No,3,44,8418,3,4
+C00328,12,3,4.96,2,Laptop,Thriller,South America,Delayed,Standard,No,0,32,2990,2,4
+C00329,1,2,3.79,7,Tablet,Romance,North America,On-Time,Premium,Yes,6,69,3211,3,1
+C00330,1,9,3.11,5,Mobile,Drama,North America,Delayed,Premium,No,5,34,3098,2,5
+C00331,1,2,1.0,8,Smart TV,Thriller,South America,On-Time,Standard,Yes,7,48,2858,3,4
+C00332,12,4,4.38,9,Tablet,Sci-Fi,Europe,On-Time,Standard,No,5,56,8002,1,2
+C00333,24,10,2.92,7,Desktop,Thriller,South America,Delayed,Basic,No,10,27,865,4,2
+C00334,3,6,4.97,3,Mobile,Romance,Europe,Delayed,Basic,Yes,8,58,5338,2,1
+C00335,24,10,3.76,4,Tablet,Documentary,North America,On-Time,Premium,No,9,24,2906,3,4
+C00336,3,2,3.34,5,Smart TV,Documentary,South America,Delayed,Premium,Yes,1,24,5186,0,1
+C00337,12,10,0.86,6,Desktop,Documentary,South America,On-Time,Standard,No,0,45,2196,3,4
+C00338,3,9,0.63,6,Laptop,Documentary,Europe,On-Time,Premium,No,1,37,6243,0,4
+C00339,24,9,2.74,4,Laptop,Action,North America,Delayed,Basic,No,4,70,7257,3,2
+C00340,12,6,4.66,8,Smart TV,Action,Africa,On-Time,Premium,No,7,43,8803,5,2
+C00341,1,4,2.76,4,Tablet,Action,Asia,Delayed,Premium,Yes,6,24,6543,4,4
+C00342,3,8,3.12,6,Mobile,Sci-Fi,North America,On-Time,Premium,No,8,46,2580,5,3
+C00343,1,9,3.26,3,Desktop,Comedy,Europe,Delayed,Basic,No,3,21,5337,3,5
+C00344,24,1,3.25,4,Mobile,Sci-Fi,Asia,On-Time,Premium,No,5,62,4015,1,1
+C00345,12,8,1.57,9,Mobile,Comedy,Europe,Delayed,Basic,Yes,10,59,7350,2,1
+C00346,1,9,1.77,2,Tablet,Sci-Fi,Europe,On-Time,Standard,No,5,61,7650,3,1
+C00347,1,8,4.52,8,Smart TV,Action,Asia,On-Time,Premium,Yes,10,54,1302,0,1
+C00348,12,10,4.45,3,Laptop,Drama,North America,On-Time,Basic,No,3,58,3074,5,2
+C00349,24,4,0.81,2,Tablet,Documentary,North America,On-Time,Basic,No,8,36,7239,2,3
+C00350,3,2,2.18,3,Mobile,Documentary,North America,On-Time,Basic,Yes,4,64,3254,0,4
+C00351,6,4,0.57,9,Mobile,Documentary,North America,Delayed,Basic,Yes,0,27,4821,5,1
+C00352,12,6,1.69,2,Desktop,Comedy,Asia,On-Time,Standard,Yes,4,49,9586,0,3
+C00353,12,10,2.01,4,Mobile,Action,Europe,Delayed,Basic,Yes,8,36,4645,3,1
+C00354,24,10,0.87,10,Desktop,Comedy,South America,On-Time,Basic,No,7,59,5535,3,4
+C00355,12,4,3.57,2,Mobile,Romance,Africa,Delayed,Standard,Yes,7,70,6126,4,4
+C00356,24,9,4.11,6,Desktop,Drama,Asia,Delayed,Standard,No,9,24,8893,3,4
+C00357,6,6,4.19,7,Tablet,Documentary,South America,On-Time,Standard,No,0,43,953,5,4
+C00358,24,7,3.74,5,Desktop,Thriller,Africa,On-Time,Premium,No,1,35,6162,1,5
+C00359,12,6,2.48,8,Tablet,Romance,South America,On-Time,Standard,No,2,21,813,5,1
+C00360,6,6,1.11,8,Smart TV,Sci-Fi,Africa,Delayed,Premium,No,6,19,7611,1,1
+C00361,6,10,2.5,2,Tablet,Documentary,Africa,On-Time,Basic,Yes,10,31,8804,1,1
+C00362,6,1,1.99,10,Laptop,Drama,Europe,Delayed,Premium,Yes,3,45,1468,3,3
+C00363,12,9,4.46,6,Smart TV,Thriller,South America,Delayed,Standard,No,6,29,8444,2,3
+C00364,12,3,1.37,4,Desktop,Comedy,South America,On-Time,Premium,Yes,8,47,3065,4,3
+C00365,12,5,4.88,9,Laptop,Comedy,North America,Delayed,Premium,No,3,24,3569,3,3
+C00366,1,10,4.24,4,Tablet,Action,Africa,On-Time,Premium,No,0,26,2409,4,2
+C00367,6,6,4.55,9,Desktop,Sci-Fi,South America,On-Time,Basic,Yes,4,32,4808,0,4
+C00368,1,3,4.85,7,Desktop,Comedy,North America,Delayed,Standard,No,2,55,3565,0,1
+C00369,12,4,4.11,1,Desktop,Documentary,North America,On-Time,Basic,Yes,2,55,7437,0,3
+C00370,3,2,4.29,9,Smart TV,Drama,South America,On-Time,Premium,Yes,8,43,3659,1,4
+C00371,24,2,3.8,9,Smart TV,Documentary,North America,On-Time,Basic,No,2,54,6551,5,2
+C00372,24,3,2.28,7,Laptop,Documentary,Europe,On-Time,Basic,No,4,53,7497,0,1
+C00373,1,5,3.49,1,Mobile,Documentary,Europe,Delayed,Basic,Yes,4,22,7075,2,3
+C00374,1,4,4.66,1,Mobile,Sci-Fi,Europe,Delayed,Premium,Yes,1,34,4860,0,4
+C00375,24,1,1.97,5,Laptop,Sci-Fi,Africa,On-Time,Premium,No,6,35,7444,3,2
+C00376,24,9,1.61,6,Tablet,Sci-Fi,Europe,Delayed,Premium,No,4,42,9543,0,2
+C00377,3,4,1.16,8,Laptop,Documentary,Africa,Delayed,Standard,No,8,18,2809,1,3
+C00378,24,5,3.82,6,Tablet,Documentary,Africa,Delayed,Premium,No,7,61,704,4,2
+C00379,1,3,3.1,6,Desktop,Sci-Fi,North America,On-Time,Premium,No,5,31,6388,4,3
+C00380,6,7,4.44,2,Tablet,Romance,Asia,On-Time,Premium,Yes,2,49,897,0,1
+C00381,3,10,1.3,1,Laptop,Action,Europe,On-Time,Basic,No,10,55,2346,5,3
+C00382,12,1,3.55,8,Laptop,Sci-Fi,South America,Delayed,Standard,Yes,9,29,3565,1,3
+C00383,12,4,4.81,3,Tablet,Romance,South America,Delayed,Standard,No,2,42,2222,2,4
+C00384,12,10,2.88,4,Mobile,Sci-Fi,North America,Delayed,Premium,No,4,26,7165,5,4
+C00385,1,5,0.8,9,Mobile,Documentary,Europe,Delayed,Premium,No,10,54,3109,5,3
+C00386,1,9,2.94,2,Desktop,Comedy,Africa,On-Time,Standard,No,1,63,9162,0,5
+C00387,1,1,2.16,6,Laptop,Romance,Europe,On-Time,Premium,Yes,8,54,5090,1,3
+C00388,24,3,3.22,3,Smart TV,Romance,Europe,On-Time,Basic,No,2,66,1576,0,2
+C00389,6,2,2.42,1,Mobile,Thriller,Asia,On-Time,Premium,Yes,8,70,5182,1,3
+C00390,1,4,2.46,6,Tablet,Thriller,Europe,On-Time,Basic,No,5,66,6888,5,2
+C00391,24,3,4.22,6,Smart TV,Sci-Fi,North America,Delayed,Premium,No,1,26,1228,1,2
+C00392,24,7,1.59,2,Tablet,Action,Asia,Delayed,Premium,Yes,10,38,1274,5,3
+C00393,24,2,4.54,4,Smart TV,Comedy,Asia,On-Time,Standard,Yes,7,58,3307,0,3
+C00394,3,6,1.8,6,Desktop,Action,North America,On-Time,Basic,No,5,29,5300,2,1
+C00395,3,5,0.98,7,Tablet,Romance,Africa,Delayed,Standard,Yes,7,30,4086,3,1
+C00396,3,1,2.29,2,Smart TV,Sci-Fi,Europe,On-Time,Standard,Yes,2,18,5393,0,3
+C00397,24,5,1.3,6,Desktop,Comedy,Europe,Delayed,Premium,No,1,27,1227,4,3
+C00398,6,4,3.46,3,Tablet,Sci-Fi,North America,On-Time,Premium,Yes,2,62,1897,0,2
+C00399,12,9,2.47,8,Laptop,Sci-Fi,South America,Delayed,Premium,Yes,8,52,7879,1,1
+C00400,6,4,4.73,4,Mobile,Comedy,North America,On-Time,Standard,Yes,8,20,5577,1,1
+C00401,12,9,4.93,3,Tablet,Thriller,North America,On-Time,Premium,No,0,58,7483,5,2
+C00402,24,1,4.61,8,Laptop,Sci-Fi,Europe,On-Time,Premium,Yes,10,60,2565,2,3
+C00403,1,4,1.0,6,Smart TV,Action,Asia,Delayed,Basic,Yes,5,25,6664,3,5
+C00404,3,7,4.56,7,Laptop,Action,Europe,On-Time,Premium,No,0,32,8259,5,5
+C00405,12,7,3.03,7,Mobile,Action,Asia,On-Time,Standard,No,0,19,9921,3,2
+C00406,6,10,3.38,4,Smart TV,Sci-Fi,South America,Delayed,Premium,Yes,7,19,4022,0,1
+C00407,12,3,4.09,3,Laptop,Romance,Europe,On-Time,Basic,Yes,5,49,2423,4,2
+C00408,24,4,0.61,2,Smart TV,Drama,Africa,Delayed,Basic,Yes,1,61,5398,1,5
+C00409,1,9,1.24,3,Smart TV,Thriller,Africa,Delayed,Standard,Yes,1,51,8444,1,4
+C00410,24,1,2.44,4,Desktop,Sci-Fi,Asia,Delayed,Standard,Yes,0,28,6693,0,5
+C00411,24,2,4.38,7,Laptop,Sci-Fi,South America,Delayed,Standard,No,1,22,5156,4,2
+C00412,12,6,4.09,5,Mobile,Action,Europe,On-Time,Premium,No,0,36,4168,3,5
+C00413,6,4,3.56,8,Mobile,Sci-Fi,Africa,Delayed,Premium,Yes,10,37,2589,1,4
+C00414,1,4,2.05,7,Tablet,Comedy,Europe,Delayed,Premium,No,0,48,5983,3,4
+C00415,3,3,4.5,10,Laptop,Action,Africa,On-Time,Standard,No,3,26,5463,3,1
+C00416,12,4,3.94,9,Desktop,Comedy,Europe,Delayed,Standard,No,2,70,7337,0,1
+C00417,12,1,3.32,1,Tablet,Comedy,South America,Delayed,Premium,Yes,7,40,3088,0,1
+C00418,1,2,3.3,8,Laptop,Comedy,North America,Delayed,Premium,No,3,43,6750,3,5
+C00419,3,9,0.78,10,Desktop,Romance,Asia,On-Time,Premium,No,2,58,6412,5,5
+C00420,1,3,1.48,1,Laptop,Sci-Fi,Europe,On-Time,Basic,Yes,3,34,4565,0,1
+C00421,3,10,1.3,3,Desktop,Sci-Fi,Europe,On-Time,Premium,Yes,10,22,6805,4,2
+C00422,12,10,0.52,1,Tablet,Romance,Asia,On-Time,Premium,Yes,9,70,5145,0,4
+C00423,12,3,2.04,1,Desktop,Sci-Fi,Europe,Delayed,Standard,Yes,1,70,3112,4,5
+C00424,6,7,3.86,9,Mobile,Action,Asia,Delayed,Basic,No,1,31,9659,2,3
+C00425,1,9,2.32,4,Laptop,Romance,Africa,On-Time,Premium,Yes,10,47,1889,2,2
+C00426,3,6,4.64,4,Desktop,Comedy,Asia,On-Time,Basic,Yes,10,64,6172,0,3
+C00427,24,7,1.34,3,Tablet,Drama,North America,On-Time,Premium,No,6,38,7075,0,5
+C00428,6,10,2.55,10,Mobile,Drama,Europe,Delayed,Premium,No,4,59,5050,5,2
+C00429,1,3,4.63,9,Laptop,Sci-Fi,South America,On-Time,Basic,No,4,65,2764,2,4
+C00430,6,1,2.63,3,Laptop,Drama,Europe,Delayed,Standard,Yes,8,23,7044,2,1
+C00431,1,2,2.76,6,Smart TV,Drama,South America,Delayed,Basic,Yes,10,45,9261,5,3
+C00432,1,2,3.6,6,Laptop,Romance,Africa,Delayed,Premium,Yes,1,53,8904,3,2
+C00433,6,7,2.39,9,Mobile,Comedy,Europe,On-Time,Premium,No,7,51,5792,4,2
+C00434,3,1,4.59,7,Desktop,Documentary,Europe,Delayed,Basic,No,2,52,5570,2,3
+C00435,24,3,1.08,9,Laptop,Drama,Europe,On-Time,Basic,Yes,6,34,4086,3,2
+C00436,24,4,1.68,6,Mobile,Documentary,Asia,On-Time,Standard,No,0,47,5125,4,5
+C00437,1,8,4.3,8,Mobile,Thriller,Africa,On-Time,Basic,No,2,45,8759,4,1
+C00438,12,9,3.34,9,Laptop,Thriller,Africa,Delayed,Premium,No,7,53,9447,5,1
+C00439,1,9,3.89,2,Tablet,Action,Africa,On-Time,Premium,No,1,53,3343,5,5
+C00440,12,4,4.5,3,Mobile,Sci-Fi,Asia,Delayed,Premium,No,1,64,557,2,5
+C00441,1,7,3.53,4,Tablet,Sci-Fi,North America,Delayed,Standard,No,5,36,5192,3,5
+C00442,1,6,3.86,2,Tablet,Action,Africa,Delayed,Premium,No,0,53,2158,3,3
+C00443,1,1,2.78,1,Smart TV,Drama,Asia,On-Time,Standard,No,2,37,5510,4,1
+C00444,24,8,2.86,4,Tablet,Thriller,Asia,On-Time,Premium,No,0,37,7796,3,3
+C00445,6,9,1.11,1,Desktop,Sci-Fi,Asia,On-Time,Standard,No,1,42,1925,5,3
+C00446,24,6,4.52,6,Desktop,Action,Africa,Delayed,Standard,No,4,51,543,0,1
+C00447,1,5,4.12,1,Smart TV,Sci-Fi,Europe,Delayed,Premium,Yes,1,25,5730,2,3
+C00448,1,6,4.63,5,Laptop,Drama,Asia,Delayed,Standard,No,8,48,3088,4,5
+C00449,3,1,0.9,3,Laptop,Action,Asia,On-Time,Premium,Yes,3,54,6021,5,3
+C00450,6,6,4.72,1,Laptop,Drama,Africa,Delayed,Standard,Yes,4,57,6458,0,1
+C00451,3,10,4.51,10,Laptop,Sci-Fi,Europe,Delayed,Premium,No,4,44,5872,2,3
+C00452,6,8,1.62,4,Smart TV,Sci-Fi,North America,On-Time,Standard,No,9,65,8952,3,1
+C00453,12,6,4.27,5,Tablet,Thriller,Europe,On-Time,Standard,Yes,7,25,1607,0,4
+C00454,6,1,0.64,5,Tablet,Thriller,South America,Delayed,Standard,Yes,2,31,5059,1,1
+C00455,6,8,3.9,8,Tablet,Thriller,Africa,On-Time,Premium,No,6,62,598,0,1
+C00456,24,5,2.65,6,Tablet,Romance,North America,Delayed,Basic,No,1,35,8771,4,2
+C00457,1,3,4.44,7,Smart TV,Romance,North America,On-Time,Basic,No,6,64,7500,4,2
+C00458,6,10,1.18,8,Smart TV,Romance,North America,Delayed,Premium,No,9,44,3804,1,5
+C00459,6,4,0.51,5,Desktop,Documentary,Europe,Delayed,Premium,Yes,4,54,3312,0,3
+C00460,3,5,2.93,1,Tablet,Comedy,North America,Delayed,Standard,Yes,7,21,3332,0,1
+C00461,24,4,0.99,7,Tablet,Action,South America,On-Time,Premium,No,2,53,3746,2,2
+C00462,12,8,0.81,6,Smart TV,Thriller,Asia,Delayed,Standard,No,4,41,2696,2,5
+C00463,12,10,3.77,4,Smart TV,Drama,South America,On-Time,Standard,No,2,65,2009,0,5
+C00464,3,5,2.5,7,Mobile,Documentary,Asia,On-Time,Basic,No,3,27,2032,1,4
+C00465,24,10,3.79,6,Laptop,Comedy,Asia,Delayed,Premium,No,0,24,3085,0,3
+C00466,6,2,1.69,6,Mobile,Thriller,Europe,On-Time,Standard,Yes,6,43,4953,3,5
+C00467,24,1,3.85,2,Mobile,Romance,Asia,On-Time,Basic,No,7,69,3509,2,1
+C00468,24,7,1.43,2,Tablet,Sci-Fi,Europe,Delayed,Basic,Yes,7,60,1300,0,3
+C00469,1,9,4.54,8,Desktop,Drama,South America,Delayed,Premium,No,3,27,6791,0,3
+C00470,24,8,3.4,5,Laptop,Thriller,North America,On-Time,Basic,No,0,59,3885,1,4
+C00471,3,6,3.93,5,Desktop,Thriller,South America,Delayed,Standard,Yes,10,24,3282,3,2
+C00472,12,2,4.47,5,Laptop,Sci-Fi,North America,On-Time,Basic,No,6,30,8753,4,1
+C00473,3,7,3.11,9,Laptop,Sci-Fi,Europe,On-Time,Standard,No,2,46,790,4,2
+C00474,3,10,1.52,6,Smart TV,Documentary,Africa,Delayed,Premium,Yes,10,33,4948,2,5
+C00475,6,1,2.7,9,Smart TV,Comedy,Asia,On-Time,Premium,No,2,39,3326,3,5
+C00476,3,2,1.78,10,Smart TV,Romance,South America,Delayed,Premium,Yes,0,22,4419,2,2
+C00477,24,6,3.56,9,Mobile,Thriller,Africa,Delayed,Standard,No,4,32,5062,0,4
+C00478,12,5,3.8,7,Tablet,Documentary,Europe,Delayed,Standard,No,0,24,6522,4,4
+C00479,3,5,1.99,3,Mobile,Thriller,South America,On-Time,Basic,No,0,20,736,5,3
+C00480,12,5,3.08,5,Smart TV,Romance,Europe,Delayed,Basic,No,1,66,4879,5,1
+C00481,3,2,2.81,6,Smart TV,Thriller,Asia,Delayed,Premium,Yes,7,39,9163,1,5
+C00482,3,1,4.4,4,Tablet,Romance,North America,On-Time,Basic,Yes,8,50,8953,3,5
+C00483,12,8,3.91,3,Mobile,Romance,South America,On-Time,Basic,No,8,56,6599,4,2
+C00484,6,4,3.75,7,Laptop,Documentary,Africa,Delayed,Basic,Yes,4,57,1262,4,4
+C00485,3,9,2.94,1,Smart TV,Comedy,Africa,Delayed,Standard,Yes,5,25,8553,3,4
+C00486,6,10,3.81,10,Smart TV,Action,Asia,On-Time,Basic,No,6,56,5970,1,1
+C00487,6,3,2.54,3,Laptop,Drama,Europe,Delayed,Premium,Yes,2,25,1960,2,3
+C00488,24,9,1.47,2,Tablet,Comedy,Africa,Delayed,Standard,No,10,48,9357,5,3
+C00489,1,9,3.66,4,Mobile,Drama,Asia,Delayed,Premium,No,3,52,3942,0,4
+C00490,1,2,1.75,9,Laptop,Documentary,Asia,On-Time,Standard,No,2,41,5739,2,4
+C00491,1,8,1.42,5,Laptop,Documentary,Asia,Delayed,Standard,Yes,9,32,3562,4,1
+C00492,12,2,4.6,10,Smart TV,Sci-Fi,Asia,Delayed,Standard,No,2,51,6618,0,1
+C00493,12,10,1.64,8,Desktop,Sci-Fi,Africa,Delayed,Premium,No,2,23,1474,3,5
+C00494,6,1,4.44,8,Laptop,Romance,Asia,Delayed,Basic,Yes,0,58,2992,0,2
+C00495,12,5,1.44,8,Laptop,Sci-Fi,South America,On-Time,Standard,No,3,55,8756,2,1
+C00496,6,3,2.98,4,Smart TV,Documentary,Asia,On-Time,Premium,Yes,10,67,1839,0,1
+C00497,6,2,2.49,10,Smart TV,Documentary,North America,On-Time,Standard,Yes,6,37,3914,0,3
+C00498,1,9,3.87,9,Mobile,Drama,Africa,Delayed,Premium,No,2,34,8059,1,3
+C00499,3,1,1.99,6,Laptop,Sci-Fi,Africa,Delayed,Standard,Yes,2,68,8029,0,3
+C00500,1,7,3.18,6,Tablet,Sci-Fi,Africa,On-Time,Standard,Yes,9,70,2760,1,2
+C00501,3,7,3.38,3,Laptop,Romance,North America,Delayed,Premium,Yes,7,64,4824,3,5
+C00502,24,9,0.96,5,Mobile,Documentary,South America,On-Time,Standard,No,2,18,1465,4,1
+C00503,6,8,2.77,5,Laptop,Drama,Europe,Delayed,Basic,No,0,58,7248,4,1
+C00504,12,5,4.85,8,Mobile,Comedy,Asia,On-Time,Standard,No,3,36,1810,0,4
+C00505,12,3,0.99,10,Smart TV,Comedy,North America,Delayed,Standard,No,0,42,4671,2,4
+C00506,12,7,4.93,8,Tablet,Comedy,South America,Delayed,Standard,No,2,21,706,2,1
+C00507,6,7,3.77,8,Desktop,Thriller,Asia,On-Time,Premium,No,6,30,1137,4,2
+C00508,1,2,0.98,6,Smart TV,Drama,Europe,Delayed,Basic,Yes,3,65,8097,1,2
+C00509,1,5,3.71,6,Laptop,Sci-Fi,Asia,Delayed,Standard,Yes,8,47,1384,0,5
+C00510,1,2,4.85,9,Smart TV,Romance,Africa,Delayed,Standard,No,0,61,1879,4,1
+C00511,6,9,2.31,9,Mobile,Documentary,South America,Delayed,Standard,No,8,44,7106,2,1
+C00512,3,4,1.08,9,Mobile,Thriller,Africa,Delayed,Premium,Yes,9,32,8511,4,2
+C00513,1,8,2.38,10,Desktop,Comedy,Europe,Delayed,Premium,No,4,44,1043,1,1
+C00514,6,8,3.69,10,Smart TV,Drama,Africa,Delayed,Standard,No,6,51,1010,2,4
+C00515,3,6,4.79,9,Laptop,Documentary,Asia,On-Time,Standard,No,8,44,8963,3,1
+C00516,24,7,4.66,1,Smart TV,Action,Asia,Delayed,Basic,No,0,70,5717,3,3
+C00517,24,8,3.96,4,Mobile,Documentary,Asia,Delayed,Premium,No,6,37,4957,1,1
+C00518,12,5,1.22,8,Tablet,Thriller,Africa,Delayed,Standard,No,6,58,9059,3,5
+C00519,24,3,0.65,10,Mobile,Comedy,Africa,Delayed,Premium,Yes,10,32,6309,3,2
+C00520,3,4,3.75,7,Desktop,Sci-Fi,Asia,On-Time,Standard,Yes,7,20,3878,3,3
+C00521,3,9,4.59,4,Tablet,Comedy,North America,Delayed,Premium,No,9,20,3766,0,4
+C00522,12,7,0.59,3,Smart TV,Romance,South America,Delayed,Basic,No,9,49,9646,2,5
+C00523,1,10,1.95,1,Desktop,Action,Europe,On-Time,Basic,Yes,10,29,7754,1,4
+C00524,12,5,2.71,9,Mobile,Documentary,Africa,Delayed,Premium,No,9,26,7194,1,1
+C00525,6,6,3.78,6,Tablet,Thriller,South America,Delayed,Standard,No,9,39,8193,2,4
+C00526,6,5,2.69,7,Desktop,Sci-Fi,North America,On-Time,Premium,No,1,51,9183,0,1
+C00527,3,1,2.1,10,Desktop,Comedy,North America,Delayed,Basic,Yes,7,51,8075,5,3
+C00528,6,2,2.48,9,Smart TV,Sci-Fi,Asia,On-Time,Premium,No,2,19,6963,4,2
+C00529,1,6,4.32,6,Mobile,Action,Africa,On-Time,Basic,No,10,66,4053,3,5
+C00530,3,7,4.71,6,Mobile,Action,North America,Delayed,Standard,No,4,28,9531,1,5
+C00531,24,3,1.34,7,Desktop,Thriller,Europe,Delayed,Basic,No,1,35,660,0,1
+C00532,12,7,4.02,2,Desktop,Thriller,Africa,Delayed,Premium,Yes,8,53,4902,1,3
+C00533,1,2,0.55,8,Mobile,Romance,Asia,Delayed,Premium,Yes,2,47,5785,2,3
+C00534,6,9,2.25,4,Tablet,Drama,North America,Delayed,Premium,No,0,68,6448,2,1
+C00535,12,2,2.31,5,Mobile,Comedy,Asia,On-Time,Premium,No,2,40,1700,0,1
+C00536,6,2,4.73,2,Tablet,Romance,Africa,On-Time,Premium,Yes,2,34,3395,1,5
+C00537,6,4,1.12,5,Laptop,Drama,Europe,On-Time,Premium,Yes,7,19,9356,2,2
+C00538,12,2,0.5,3,Mobile,Sci-Fi,South America,Delayed,Standard,Yes,7,18,8523,2,5
+C00539,24,8,0.87,7,Desktop,Documentary,South America,Delayed,Standard,No,6,46,9446,2,4
+C00540,24,10,4.03,8,Mobile,Drama,Europe,Delayed,Premium,No,7,44,4761,5,4
+C00541,3,7,2.42,1,Laptop,Comedy,Africa,On-Time,Standard,Yes,6,45,6987,4,3
+C00542,24,3,0.72,9,Smart TV,Comedy,Africa,Delayed,Basic,No,5,47,1911,5,1
+C00543,1,3,2.33,4,Mobile,Sci-Fi,North America,Delayed,Premium,Yes,4,55,5357,3,1
+C00544,3,10,1.42,8,Desktop,Documentary,Europe,Delayed,Basic,No,0,18,2087,0,3
+C00545,6,4,2.77,7,Tablet,Drama,Asia,Delayed,Basic,No,7,64,2088,5,5
+C00546,1,6,3.67,5,Tablet,Romance,Africa,On-Time,Premium,No,7,47,9162,0,2
+C00547,24,1,2.46,9,Smart TV,Romance,Asia,On-Time,Premium,No,1,54,4212,1,3
+C00548,3,4,4.6,3,Desktop,Thriller,South America,Delayed,Premium,Yes,3,30,1767,3,2
+C00549,3,3,0.88,2,Desktop,Sci-Fi,Europe,On-Time,Standard,Yes,6,66,3355,4,1
+C00550,3,4,0.89,8,Laptop,Action,South America,Delayed,Basic,Yes,0,21,3376,2,1
+C00551,3,10,1.57,9,Smart TV,Drama,South America,On-Time,Standard,No,1,54,7893,0,2
+C00552,1,7,0.92,7,Smart TV,Romance,Asia,Delayed,Standard,Yes,4,33,7995,0,1
+C00553,24,10,0.96,6,Tablet,Romance,South America,Delayed,Basic,No,5,26,2921,4,4
+C00554,12,10,1.86,10,Smart TV,Action,Europe,Delayed,Premium,No,4,32,2456,4,1
+C00555,12,2,3.21,1,Laptop,Thriller,North America,Delayed,Basic,Yes,3,28,1231,3,5
+C00556,3,4,2.8,5,Desktop,Romance,Africa,Delayed,Basic,Yes,7,44,3950,1,2
+C00557,6,9,1.05,5,Smart TV,Documentary,Africa,On-Time,Basic,Yes,9,34,8297,1,5
+C00558,24,4,3.91,6,Mobile,Documentary,North America,Delayed,Basic,No,5,20,4026,3,2
+C00559,1,7,3.32,7,Smart TV,Drama,Africa,Delayed,Premium,Yes,9,25,909,0,3
+C00560,3,8,3.08,9,Mobile,Drama,South America,On-Time,Basic,No,3,60,9799,1,1
+C00561,3,5,1.56,9,Desktop,Action,North America,On-Time,Standard,No,4,67,8462,5,1
+C00562,12,1,4.69,7,Desktop,Sci-Fi,Europe,Delayed,Premium,Yes,1,45,6955,2,1
+C00563,24,4,3.13,10,Desktop,Action,South America,Delayed,Premium,No,6,64,7085,3,5
+C00564,1,1,1.44,10,Desktop,Documentary,South America,On-Time,Standard,Yes,10,20,5587,0,4
+C00565,1,3,0.8,1,Tablet,Romance,Asia,On-Time,Basic,Yes,5,31,7530,2,3
+C00566,12,7,4.34,3,Laptop,Comedy,North America,Delayed,Standard,No,1,49,6099,5,3
+C00567,24,6,2.3,3,Laptop,Thriller,Asia,Delayed,Basic,Yes,7,50,5771,2,4
+C00568,24,9,3.95,6,Laptop,Drama,South America,On-Time,Premium,No,8,19,7926,1,4
+C00569,24,7,3.22,2,Tablet,Romance,South America,On-Time,Standard,No,4,34,1405,4,4
+C00570,24,8,1.81,5,Smart TV,Sci-Fi,Africa,On-Time,Standard,No,10,28,8426,4,2
+C00571,1,9,3.98,9,Tablet,Drama,Asia,Delayed,Standard,No,8,62,2551,5,1
+C00572,12,6,3.6,1,Mobile,Drama,South America,On-Time,Premium,No,0,67,1824,2,2
+C00573,12,5,3.15,3,Laptop,Thriller,South America,Delayed,Basic,Yes,6,54,3572,0,4
+C00574,1,10,4.12,3,Laptop,Thriller,South America,Delayed,Basic,No,5,65,9048,4,1
+C00575,3,10,1.04,2,Laptop,Sci-Fi,Europe,Delayed,Premium,No,2,33,9942,2,5
+C00576,1,7,4.68,3,Desktop,Drama,Asia,On-Time,Basic,Yes,9,44,9874,1,1
+C00577,12,5,4.72,6,Mobile,Romance,Africa,On-Time,Standard,No,10,59,1614,5,3
+C00578,6,2,2.34,9,Mobile,Comedy,Europe,On-Time,Basic,No,0,66,5894,4,1
+C00579,3,5,4.12,2,Mobile,Drama,Africa,Delayed,Premium,No,1,45,5574,3,4
+C00580,6,8,3.39,8,Tablet,Documentary,Europe,On-Time,Basic,No,3,33,4415,5,5
+C00581,1,7,1.89,6,Smart TV,Thriller,South America,On-Time,Standard,Yes,7,44,1208,1,1
+C00582,1,4,3.8,2,Desktop,Romance,Africa,On-Time,Standard,Yes,3,52,1700,2,4
+C00583,3,3,2.56,8,Desktop,Romance,Asia,Delayed,Standard,Yes,7,68,2452,0,5
+C00584,6,3,1.81,2,Smart TV,Comedy,Asia,Delayed,Premium,No,0,47,2190,4,2
+C00585,3,9,4.0,2,Tablet,Sci-Fi,Asia,On-Time,Standard,Yes,4,53,1972,2,5
+C00586,24,2,4.73,10,Tablet,Thriller,Africa,Delayed,Standard,No,0,23,510,4,1
+C00587,3,2,3.92,4,Desktop,Sci-Fi,Africa,On-Time,Basic,No,4,64,9950,5,4
+C00588,1,10,3.87,10,Laptop,Action,South America,Delayed,Basic,No,1,64,9231,4,4
+C00589,12,9,2.86,2,Laptop,Thriller,Asia,On-Time,Standard,Yes,8,45,9989,1,5
+C00590,1,9,2.95,6,Mobile,Documentary,Asia,Delayed,Basic,No,0,27,8680,4,4
+C00591,6,2,1.6,4,Laptop,Comedy,North America,Delayed,Premium,Yes,9,44,8893,3,1
+C00592,12,2,3.92,10,Desktop,Drama,Africa,On-Time,Basic,No,3,60,3993,5,3
+C00593,12,4,2.89,1,Mobile,Documentary,Europe,On-Time,Standard,Yes,3,50,8599,5,4
+C00594,12,9,4.71,9,Laptop,Drama,North America,Delayed,Premium,No,8,34,906,0,4
+C00595,1,7,2.17,10,Desktop,Drama,Africa,On-Time,Basic,No,9,61,7525,5,4
+C00596,24,5,3.36,2,Mobile,Romance,North America,On-Time,Basic,No,7,26,5516,4,2
+C00597,3,7,4.39,9,Tablet,Sci-Fi,Asia,On-Time,Basic,No,6,55,9651,0,3
+C00598,1,4,4.08,2,Laptop,Action,Africa,Delayed,Standard,Yes,5,18,4197,5,4
+C00599,1,7,0.97,9,Smart TV,Sci-Fi,Asia,On-Time,Premium,No,8,29,8992,0,1
+C00600,12,10,4.59,2,Laptop,Documentary,Europe,Delayed,Standard,No,1,25,6944,0,5
+C00601,1,3,2.7,3,Desktop,Thriller,North America,On-Time,Premium,Yes,3,47,7139,5,3
+C00602,12,7,1.35,1,Laptop,Comedy,Africa,Delayed,Standard,Yes,7,69,6224,3,1
+C00603,12,3,2.67,1,Desktop,Comedy,South America,On-Time,Standard,No,3,21,6574,4,4
+C00604,12,9,1.61,7,Laptop,Action,South America,On-Time,Basic,No,8,62,4425,4,4
+C00605,3,6,4.38,10,Laptop,Thriller,Asia,Delayed,Premium,No,6,42,1669,2,3
+C00606,24,5,4.72,9,Laptop,Comedy,South America,Delayed,Standard,No,8,29,8797,3,1
+C00607,6,6,2.7,5,Desktop,Comedy,Asia,Delayed,Standard,Yes,7,28,6859,4,2
+C00608,6,2,2.73,1,Laptop,Thriller,South America,Delayed,Standard,Yes,3,18,3173,5,4
+C00609,6,1,1.38,10,Mobile,Comedy,South America,On-Time,Standard,Yes,8,29,6021,0,1
+C00610,3,1,3.97,10,Smart TV,Drama,Asia,Delayed,Premium,Yes,4,30,3071,5,3
+C00611,12,10,3.11,9,Laptop,Romance,Africa,Delayed,Basic,No,2,48,2030,4,1
+C00612,24,3,4.51,5,Desktop,Thriller,Africa,On-Time,Premium,No,8,46,9028,3,2
+C00613,3,7,3.95,1,Desktop,Drama,Asia,On-Time,Premium,No,9,57,4712,5,5
+C00614,24,3,0.66,3,Mobile,Sci-Fi,Europe,On-Time,Standard,No,5,36,8350,0,4
+C00615,24,1,1.59,9,Desktop,Comedy,North America,Delayed,Premium,No,1,58,9727,3,3
+C00616,3,1,2.43,6,Laptop,Drama,North America,On-Time,Standard,Yes,8,63,6442,4,1
+C00617,1,6,4.5,7,Mobile,Action,Europe,On-Time,Standard,No,4,59,8981,2,2
+C00618,1,5,0.66,10,Laptop,Romance,North America,On-Time,Premium,No,0,40,3833,1,4
+C00619,1,10,4.73,7,Mobile,Thriller,Asia,Delayed,Standard,No,1,57,4077,2,3
+C00620,24,7,4.76,6,Laptop,Drama,Africa,On-Time,Basic,No,0,47,942,1,5
+C00621,12,4,4.86,5,Mobile,Drama,Europe,Delayed,Basic,Yes,2,30,3091,1,3
+C00622,12,10,4.59,4,Laptop,Sci-Fi,Asia,Delayed,Standard,No,1,49,7392,4,4
+C00623,12,8,1.05,5,Laptop,Romance,Asia,On-Time,Standard,No,6,45,9704,0,5
+C00624,1,6,3.22,9,Tablet,Romance,Europe,Delayed,Standard,No,4,18,9529,2,3
+C00625,6,4,2.73,9,Tablet,Sci-Fi,Africa,Delayed,Premium,Yes,4,32,3407,0,1
+C00626,6,6,3.86,8,Laptop,Documentary,Asia,Delayed,Basic,No,2,31,3496,5,4
+C00627,12,3,2.57,7,Smart TV,Sci-Fi,Asia,Delayed,Premium,No,1,64,1015,2,5
+C00628,6,5,0.87,4,Desktop,Drama,South America,On-Time,Basic,Yes,8,43,1010,5,4
+C00629,24,9,2.73,6,Tablet,Action,Europe,On-Time,Standard,No,9,27,6869,2,4
+C00630,12,9,0.92,3,Mobile,Drama,North America,On-Time,Premium,No,10,46,1241,3,2
+C00631,24,1,2.4,3,Tablet,Action,North America,Delayed,Standard,Yes,5,66,3925,1,3
+C00632,1,3,1.64,7,Desktop,Drama,North America,Delayed,Standard,Yes,7,57,1709,1,4
+C00633,1,2,2.82,9,Mobile,Comedy,Asia,On-Time,Standard,Yes,3,43,9580,1,5
+C00634,6,7,3.86,10,Mobile,Comedy,Europe,Delayed,Standard,No,3,19,9499,3,5
+C00635,3,5,3.14,10,Laptop,Thriller,Africa,Delayed,Basic,No,4,57,8838,2,2
+C00636,3,4,2.11,1,Tablet,Documentary,South America,On-Time,Basic,Yes,9,62,3942,1,4
+C00637,6,6,2.46,2,Desktop,Documentary,North America,Delayed,Basic,Yes,7,30,1851,1,1
+C00638,6,8,4.92,10,Tablet,Sci-Fi,Africa,Delayed,Basic,No,0,48,4753,3,5
+C00639,24,1,3.47,8,Mobile,Comedy,Europe,Delayed,Premium,Yes,6,39,6514,2,5
+C00640,1,3,2.5,2,Laptop,Romance,Asia,On-Time,Basic,Yes,4,41,8649,1,5
+C00641,24,1,3.07,5,Laptop,Thriller,South America,Delayed,Basic,No,0,68,4541,5,3
+C00642,1,3,1.27,7,Laptop,Comedy,North America,Delayed,Premium,Yes,10,58,9209,1,3
+C00643,12,10,3.26,4,Mobile,Action,North America,On-Time,Basic,No,2,34,2786,3,1
+C00644,24,5,2.42,5,Tablet,Thriller,South America,Delayed,Standard,No,9,50,9248,5,1
+C00645,6,4,0.92,7,Mobile,Drama,Asia,On-Time,Premium,No,2,59,9659,1,5
+C00646,6,10,0.71,5,Laptop,Romance,North America,Delayed,Standard,No,4,20,4740,0,1
+C00647,6,10,4.59,4,Tablet,Comedy,North America,Delayed,Basic,No,3,55,8163,5,3
+C00648,24,8,4.12,8,Laptop,Documentary,Asia,Delayed,Premium,No,8,21,1572,4,5
+C00649,24,3,1.74,9,Smart TV,Documentary,Asia,Delayed,Basic,Yes,7,44,718,2,2
+C00650,6,8,0.89,4,Mobile,Drama,Africa,On-Time,Basic,Yes,5,62,1384,3,1
+C00651,24,7,3.09,4,Desktop,Action,South America,On-Time,Basic,Yes,7,36,774,0,2
+C00652,3,6,3.01,4,Laptop,Thriller,North America,On-Time,Standard,Yes,10,19,7354,1,5
+C00653,6,5,1.25,3,Smart TV,Comedy,Europe,Delayed,Premium,Yes,6,66,5024,1,3
+C00654,6,4,1.88,2,Tablet,Comedy,North America,On-Time,Standard,No,1,36,1280,1,4
+C00655,12,4,3.57,1,Smart TV,Action,Asia,Delayed,Standard,Yes,4,23,7917,0,2
+C00656,3,5,2.37,2,Smart TV,Sci-Fi,Asia,Delayed,Basic,Yes,5,54,7748,3,2
+C00657,3,6,3.97,3,Desktop,Comedy,Africa,On-Time,Standard,No,2,63,650,4,3
+C00658,24,8,2.94,6,Tablet,Thriller,Europe,On-Time,Standard,No,4,25,898,1,2
+C00659,1,4,4.73,5,Laptop,Sci-Fi,South America,Delayed,Premium,Yes,9,27,3723,2,5
+C00660,6,5,0.74,4,Desktop,Thriller,North America,Delayed,Premium,Yes,9,37,7081,2,4
+C00661,12,8,4.67,3,Laptop,Thriller,Asia,Delayed,Standard,No,3,43,8683,1,1
+C00662,6,10,3.56,2,Laptop,Romance,Europe,Delayed,Basic,Yes,3,26,5307,2,4
+C00663,3,5,4.54,7,Smart TV,Drama,South America,On-Time,Basic,No,3,64,4552,0,3
+C00664,24,1,4.77,3,Laptop,Comedy,North America,On-Time,Basic,No,4,56,811,4,5
+C00665,3,1,3.74,9,Smart TV,Documentary,North America,On-Time,Premium,No,8,31,5338,5,4
+C00666,6,10,4.09,7,Smart TV,Sci-Fi,South America,Delayed,Basic,No,0,20,573,2,5
+C00667,3,3,2.2,10,Smart TV,Documentary,Europe,On-Time,Basic,No,9,48,2980,4,5
+C00668,24,7,0.68,3,Mobile,Drama,Europe,Delayed,Standard,No,0,40,709,4,2
+C00669,6,8,0.76,5,Tablet,Comedy,Europe,Delayed,Standard,No,2,37,9198,3,1
+C00670,6,1,2.99,2,Mobile,Comedy,South America,On-Time,Premium,Yes,7,51,602,2,3
+C00671,6,4,3.24,1,Smart TV,Thriller,North America,On-Time,Premium,No,0,65,6003,0,2
+C00672,1,7,3.8,4,Mobile,Documentary,Europe,Delayed,Premium,Yes,2,47,5399,2,4
+C00673,3,4,4.89,8,Mobile,Drama,Africa,On-Time,Premium,No,5,34,9691,0,4
+C00674,24,1,4.35,8,Desktop,Documentary,Asia,On-Time,Standard,No,9,47,8220,4,5
+C00675,6,3,1.32,5,Laptop,Romance,South America,On-Time,Premium,Yes,3,32,3035,1,1
+C00676,12,3,4.46,9,Desktop,Thriller,South America,On-Time,Premium,No,3,50,8063,5,3
+C00677,12,6,4.36,5,Desktop,Drama,North America,On-Time,Standard,Yes,7,70,534,2,2
+C00678,3,5,2.73,2,Mobile,Documentary,North America,Delayed,Standard,No,3,27,747,4,2
+C00679,3,4,4.18,3,Desktop,Documentary,Asia,On-Time,Basic,No,6,64,5515,3,1
+C00680,24,4,4.24,3,Mobile,Drama,Europe,Delayed,Basic,Yes,7,61,9628,1,2
+C00681,24,2,4.41,6,Smart TV,Thriller,North America,Delayed,Premium,No,4,24,3498,5,5
+C00682,6,3,4.47,1,Mobile,Thriller,South America,Delayed,Basic,Yes,9,42,3205,3,3
+C00683,6,6,3.35,1,Mobile,Action,Europe,On-Time,Basic,Yes,10,61,6255,5,2
+C00684,6,1,3.41,2,Desktop,Action,Europe,Delayed,Standard,Yes,7,64,3133,3,3
+C00685,24,7,1.73,6,Tablet,Documentary,Africa,Delayed,Basic,No,10,40,5740,1,1
+C00686,3,2,2.56,6,Mobile,Drama,North America,On-Time,Standard,Yes,0,41,4293,5,4
+C00687,6,6,1.06,8,Smart TV,Romance,Africa,Delayed,Basic,Yes,8,70,8166,2,1
+C00688,1,9,2.66,9,Laptop,Documentary,Asia,Delayed,Basic,No,5,60,1995,4,1
+C00689,24,9,3.4,7,Laptop,Action,Africa,Delayed,Standard,No,10,29,6818,3,1
+C00690,6,5,3.87,6,Smart TV,Documentary,North America,Delayed,Basic,Yes,9,43,5374,2,1
+C00691,3,9,0.77,9,Mobile,Sci-Fi,Asia,On-Time,Basic,Yes,10,50,4089,5,3
+C00692,6,8,1.59,7,Mobile,Comedy,Europe,On-Time,Basic,No,3,66,5021,0,4
+C00693,12,7,1.09,5,Tablet,Thriller,North America,On-Time,Standard,No,3,70,6509,1,2
+C00694,12,10,1.24,8,Smart TV,Documentary,South America,On-Time,Premium,No,1,22,7421,5,5
+C00695,6,3,2.92,6,Laptop,Comedy,Europe,Delayed,Basic,Yes,0,54,2905,1,2
+C00696,12,7,3.7,5,Laptop,Action,Africa,Delayed,Premium,No,6,58,6155,4,3
+C00697,3,7,1.51,6,Tablet,Drama,South America,On-Time,Standard,Yes,9,24,6565,0,5
+C00698,6,5,1.44,5,Mobile,Documentary,Asia,On-Time,Premium,Yes,9,49,6239,1,1
+C00699,6,9,2.4,5,Tablet,Sci-Fi,North America,Delayed,Standard,No,1,26,5457,3,1
+C00700,1,2,2.25,3,Tablet,Documentary,Asia,On-Time,Standard,Yes,9,48,4801,3,5
+C00701,24,2,2.61,10,Laptop,Comedy,North America,On-Time,Basic,No,7,19,1683,3,1
+C00702,1,6,2.89,8,Tablet,Documentary,Africa,On-Time,Premium,No,0,32,3964,5,1
+C00703,3,9,3.14,10,Mobile,Thriller,South America,On-Time,Standard,No,3,63,7700,0,1
+C00704,3,7,4.41,3,Laptop,Sci-Fi,Asia,Delayed,Premium,No,2,19,8463,5,4
+C00705,24,7,3.31,10,Desktop,Sci-Fi,Africa,On-Time,Basic,No,9,27,6775,0,5
+C00706,12,9,2.9,4,Desktop,Thriller,Europe,Delayed,Premium,No,2,66,6235,4,2
+C00707,3,4,3.92,3,Smart TV,Romance,North America,On-Time,Standard,No,2,62,3821,5,3
+C00708,1,4,3.52,4,Desktop,Romance,Africa,On-Time,Premium,Yes,7,52,2337,3,2
+C00709,6,5,1.7,10,Smart TV,Action,Asia,On-Time,Standard,No,9,34,3137,1,1
+C00710,24,1,1.27,8,Smart TV,Sci-Fi,South America,On-Time,Standard,No,8,32,714,4,2
+C00711,6,10,1.65,3,Mobile,Comedy,Europe,Delayed,Basic,No,5,41,1357,1,1
+C00712,1,6,4.32,5,Mobile,Documentary,North America,Delayed,Basic,No,6,62,7624,4,5
+C00713,1,9,2.64,1,Laptop,Action,South America,On-Time,Standard,No,0,62,8148,3,2
+C00714,6,1,4.1,10,Mobile,Thriller,South America,Delayed,Basic,Yes,7,31,9672,1,2
+C00715,3,7,0.94,3,Smart TV,Comedy,Asia,On-Time,Standard,Yes,4,67,1032,2,3
+C00716,3,4,2.55,5,Desktop,Comedy,North America,On-Time,Basic,Yes,9,22,5463,1,1
+C00717,3,8,2.87,5,Smart TV,Action,Africa,Delayed,Premium,No,3,61,664,5,2
+C00718,1,6,2.64,1,Desktop,Thriller,Africa,On-Time,Standard,Yes,10,33,2735,5,3
+C00719,3,7,0.87,9,Desktop,Sci-Fi,Africa,On-Time,Standard,No,5,41,1451,4,3
+C00720,6,9,2.88,9,Tablet,Thriller,Africa,On-Time,Standard,No,1,45,5439,4,2
+C00721,1,6,4.56,3,Desktop,Romance,Europe,Delayed,Basic,Yes,6,41,9457,1,3
+C00722,24,5,1.51,6,Tablet,Comedy,Asia,On-Time,Standard,Yes,5,31,3531,2,3
+C00723,24,6,3.81,4,Laptop,Comedy,South America,On-Time,Premium,No,0,22,526,3,1
+C00724,3,9,4.34,1,Tablet,Romance,Europe,On-Time,Basic,No,6,39,902,4,4
+C00725,3,7,2.75,7,Smart TV,Drama,Europe,Delayed,Standard,No,0,39,4684,3,3
+C00726,6,9,2.23,9,Tablet,Thriller,Europe,Delayed,Standard,No,4,41,6564,1,2
+C00727,3,8,0.99,2,Laptop,Thriller,North America,On-Time,Basic,Yes,9,67,3407,2,1
+C00728,12,6,4.23,5,Smart TV,Documentary,South America,On-Time,Basic,Yes,10,26,9949,4,4
+C00729,6,10,3.94,4,Desktop,Sci-Fi,Europe,On-Time,Standard,Yes,6,57,1765,1,2
+C00730,3,1,4.07,6,Smart TV,Documentary,South America,On-Time,Standard,Yes,5,23,6736,0,1
+C00731,3,5,3.69,7,Smart TV,Drama,Africa,Delayed,Basic,Yes,0,18,1335,4,4
+C00732,3,3,3.68,5,Mobile,Romance,North America,On-Time,Basic,No,10,22,6376,3,4
+C00733,1,9,4.28,2,Desktop,Sci-Fi,Africa,On-Time,Standard,No,0,30,5896,4,1
+C00734,24,10,4.99,2,Smart TV,Action,Europe,On-Time,Premium,No,6,35,5855,0,1
+C00735,1,1,4.28,9,Laptop,Romance,Europe,On-Time,Standard,No,0,39,8015,2,5
+C00736,24,7,3.25,1,Smart TV,Drama,Africa,On-Time,Premium,Yes,10,69,4794,1,1
+C00737,12,1,1.51,7,Mobile,Drama,South America,Delayed,Basic,Yes,8,57,6405,2,1
+C00738,3,1,4.45,9,Mobile,Documentary,Asia,On-Time,Basic,Yes,9,53,8246,4,2
+C00739,1,3,1.64,3,Laptop,Comedy,South America,Delayed,Basic,Yes,3,27,2490,2,2
+C00740,3,3,0.87,10,Smart TV,Romance,Asia,On-Time,Basic,No,7,61,9455,4,4
+C00741,24,9,1.42,6,Mobile,Sci-Fi,Asia,Delayed,Standard,No,8,59,9449,4,1
+C00742,6,7,2.32,3,Desktop,Romance,South America,Delayed,Standard,Yes,6,37,7067,1,3
+C00743,12,4,3.62,3,Mobile,Drama,South America,Delayed,Basic,Yes,5,25,6202,3,3
+C00744,24,8,2.86,5,Tablet,Sci-Fi,Africa,Delayed,Basic,No,4,52,7842,3,1
+C00745,1,9,2.34,10,Tablet,Sci-Fi,Africa,Delayed,Premium,No,3,27,6645,4,3
+C00746,6,4,3.32,6,Laptop,Action,North America,On-Time,Basic,Yes,6,63,3952,2,2
+C00747,6,10,4.83,10,Tablet,Sci-Fi,Asia,Delayed,Standard,No,2,42,8787,5,2
+C00748,1,2,2.15,9,Tablet,Thriller,Europe,On-Time,Premium,Yes,1,56,5507,2,1
+C00749,12,10,0.85,4,Smart TV,Drama,Europe,Delayed,Basic,Yes,7,22,7770,1,3
+C00750,12,4,4.68,2,Laptop,Drama,Africa,Delayed,Basic,Yes,4,19,1727,1,5
+C00751,12,8,4.3,2,Desktop,Documentary,Europe,On-Time,Standard,No,2,57,1359,5,4
+C00752,12,9,2.37,6,Smart TV,Sci-Fi,South America,On-Time,Standard,No,6,49,2730,1,4
+C00753,1,5,1.1,5,Mobile,Romance,Asia,On-Time,Basic,No,5,19,3648,2,1
+C00754,1,2,2.16,6,Tablet,Romance,South America,Delayed,Basic,Yes,2,54,9695,3,3
+C00755,24,6,1.82,4,Smart TV,Action,North America,On-Time,Standard,Yes,5,49,8151,5,4
+C00756,1,5,2.83,6,Laptop,Sci-Fi,Asia,Delayed,Premium,Yes,7,48,3489,0,3
+C00757,24,8,2.96,6,Mobile,Romance,South America,On-Time,Standard,No,4,24,3513,2,3
+C00758,24,10,3.84,2,Tablet,Drama,South America,On-Time,Standard,No,8,22,4694,2,1
+C00759,6,3,1.58,1,Mobile,Drama,South America,Delayed,Standard,Yes,8,58,4513,1,2
+C00760,3,6,2.32,5,Laptop,Drama,South America,On-Time,Premium,No,9,20,8100,4,3
+C00761,6,10,0.51,4,Tablet,Sci-Fi,Africa,Delayed,Premium,Yes,5,40,4090,1,3
+C00762,12,1,1.08,2,Tablet,Drama,Asia,Delayed,Basic,Yes,7,63,8183,4,4
+C00763,1,3,3.52,7,Laptop,Documentary,Asia,Delayed,Basic,Yes,5,47,4022,0,1
+C00764,6,2,3.21,6,Smart TV,Action,Africa,On-Time,Premium,No,6,29,3085,5,4
+C00765,12,9,3.21,7,Tablet,Documentary,Africa,Delayed,Basic,No,1,65,2317,2,2
+C00766,6,8,0.99,7,Smart TV,Sci-Fi,Europe,Delayed,Basic,No,6,26,3665,1,3
+C00767,12,1,3.68,1,Laptop,Action,Asia,Delayed,Basic,Yes,8,28,3664,3,2
+C00768,12,1,3.25,1,Mobile,Documentary,Asia,Delayed,Standard,Yes,5,34,2297,2,5
+C00769,1,7,3.34,3,Mobile,Romance,North America,On-Time,Standard,No,7,49,6561,3,5
+C00770,1,9,1.37,5,Laptop,Romance,North America,Delayed,Premium,No,10,49,8200,5,1
+C00771,6,5,1.15,1,Smart TV,Drama,Europe,Delayed,Basic,Yes,9,69,2050,1,1
+C00772,3,6,2.32,7,Desktop,Comedy,Asia,On-Time,Premium,Yes,1,38,1848,2,3
+C00773,3,6,0.6,5,Laptop,Thriller,Asia,Delayed,Premium,Yes,6,23,5306,4,3
+C00774,24,8,3.07,4,Laptop,Drama,North America,On-Time,Basic,No,0,61,2649,4,3
+C00775,6,2,2.43,7,Laptop,Documentary,Asia,Delayed,Basic,Yes,4,27,2232,3,1
+C00776,1,4,2.3,6,Desktop,Drama,Europe,Delayed,Basic,Yes,9,21,5311,0,4
+C00777,1,5,1.98,7,Desktop,Romance,North America,Delayed,Premium,No,3,51,6143,5,4
+C00778,3,1,4.14,10,Mobile,Romance,North America,Delayed,Standard,Yes,8,62,1371,1,3
+C00779,1,4,0.69,8,Smart TV,Drama,South America,On-Time,Premium,Yes,4,42,5692,3,1
+C00780,3,3,4.57,2,Desktop,Sci-Fi,Asia,On-Time,Premium,Yes,9,36,4908,2,3
+C00781,6,6,3.5,2,Laptop,Thriller,Asia,Delayed,Premium,No,1,68,5061,4,4
+C00782,6,2,1.03,7,Smart TV,Documentary,Asia,On-Time,Standard,No,9,69,2174,5,3
+C00783,24,6,1.84,8,Desktop,Romance,Asia,Delayed,Premium,No,8,28,3990,4,5
+C00784,3,10,2.15,8,Smart TV,Documentary,South America,Delayed,Premium,No,3,46,9021,3,2
+C00785,6,2,1.95,4,Smart TV,Thriller,Europe,Delayed,Standard,No,0,54,1514,4,5
+C00786,6,4,3.36,10,Smart TV,Comedy,Asia,On-Time,Premium,No,6,30,5121,0,5
+C00787,6,3,2.6,5,Tablet,Comedy,Europe,Delayed,Basic,Yes,6,35,7951,3,3
+C00788,6,5,4.97,10,Smart TV,Documentary,Asia,On-Time,Standard,No,7,38,5116,2,5
+C00789,12,1,4.57,9,Desktop,Action,North America,Delayed,Standard,No,2,32,8405,2,5
+C00790,6,10,2.25,5,Laptop,Romance,Europe,On-Time,Premium,No,6,66,3821,5,4
+C00791,1,2,0.95,3,Smart TV,Comedy,North America,On-Time,Premium,Yes,10,55,5850,3,3
+C00792,6,10,1.49,7,Smart TV,Drama,North America,Delayed,Basic,No,8,70,9548,2,3
+C00793,12,4,0.77,3,Tablet,Comedy,Asia,Delayed,Premium,Yes,9,68,8315,1,3
+C00794,6,8,2.48,1,Mobile,Comedy,Europe,Delayed,Premium,Yes,7,29,619,0,5
+C00795,3,8,1.88,10,Desktop,Romance,North America,On-Time,Basic,No,9,19,4927,5,4
+C00796,6,6,3.04,2,Laptop,Thriller,North America,Delayed,Standard,Yes,3,47,6754,1,2
+C00797,12,5,3.67,6,Mobile,Documentary,Asia,Delayed,Basic,No,8,66,3855,0,3
+C00798,3,1,4.52,6,Laptop,Comedy,Africa,Delayed,Premium,Yes,9,58,4392,5,4
+C00799,1,6,1.71,6,Laptop,Thriller,Asia,Delayed,Standard,Yes,6,52,3631,2,3
+C00800,24,10,2.13,10,Mobile,Action,South America,Delayed,Basic,No,5,42,7320,1,4
+C00801,3,6,4.9,10,Laptop,Thriller,Asia,Delayed,Standard,Yes,4,35,4251,0,2
+C00802,6,6,4.23,1,Tablet,Action,Africa,On-Time,Standard,Yes,2,69,536,3,5
+C00803,1,7,1.3,5,Smart TV,Action,Africa,Delayed,Basic,Yes,4,69,5664,1,5
+C00804,3,4,0.62,9,Mobile,Romance,Europe,Delayed,Standard,Yes,5,41,7596,0,5
+C00805,12,1,4.14,3,Laptop,Action,North America,Delayed,Standard,Yes,2,19,7479,3,3
+C00806,1,10,0.52,2,Laptop,Thriller,Asia,On-Time,Standard,Yes,3,46,832,4,4
+C00807,12,7,1.33,5,Smart TV,Sci-Fi,North America,On-Time,Standard,No,10,64,6447,5,1
+C00808,12,3,3.29,3,Mobile,Comedy,Africa,Delayed,Standard,Yes,2,20,3854,3,4
+C00809,3,6,1.01,8,Desktop,Drama,Europe,Delayed,Premium,No,8,22,2454,5,2
+C00810,24,4,0.87,1,Mobile,Action,Europe,Delayed,Standard,Yes,8,54,4695,5,1
+C00811,3,3,2.53,5,Smart TV,Drama,South America,On-Time,Premium,No,4,53,9374,5,1
+C00812,3,2,1.54,6,Laptop,Sci-Fi,Europe,Delayed,Basic,Yes,1,57,4930,2,5
+C00813,3,4,4.62,5,Smart TV,Thriller,Europe,On-Time,Standard,No,6,38,2210,1,5
+C00814,3,2,2.11,8,Smart TV,Action,Europe,On-Time,Basic,No,1,59,9641,4,2
+C00815,3,8,1.44,6,Mobile,Romance,Europe,On-Time,Premium,No,4,39,7873,5,5
+C00816,12,8,3.52,1,Laptop,Action,North America,Delayed,Standard,Yes,5,64,8920,0,3
+C00817,24,1,2.3,10,Mobile,Romance,Africa,On-Time,Premium,No,7,57,3486,3,1
+C00818,1,3,3.67,8,Mobile,Documentary,South America,Delayed,Standard,Yes,7,56,3441,4,5
+C00819,3,7,3.87,5,Laptop,Thriller,Europe,Delayed,Standard,No,10,52,8196,2,3
+C00820,12,3,1.88,5,Laptop,Sci-Fi,North America,Delayed,Standard,No,7,28,1778,2,4
+C00821,24,7,4.5,6,Laptop,Romance,Europe,Delayed,Standard,No,0,55,3209,1,5
+C00822,6,1,1.28,7,Tablet,Sci-Fi,South America,On-Time,Standard,Yes,10,39,8956,2,5
+C00823,3,7,4.91,10,Tablet,Comedy,Africa,On-Time,Premium,No,8,24,7970,3,5
+C00824,3,2,1.88,4,Tablet,Comedy,Europe,On-Time,Standard,Yes,10,23,3091,2,5
+C00825,3,4,4.73,10,Laptop,Romance,South America,Delayed,Standard,No,0,29,4675,5,5
+C00826,6,1,3.41,6,Mobile,Romance,North America,Delayed,Standard,Yes,0,48,1849,1,1
+C00827,6,9,0.71,2,Desktop,Comedy,Asia,Delayed,Premium,No,4,67,5761,1,3
+C00828,1,1,1.39,10,Smart TV,Documentary,Europe,Delayed,Basic,No,4,37,5571,0,3
+C00829,6,4,4.79,4,Laptop,Documentary,Africa,Delayed,Standard,Yes,10,63,2928,0,3
+C00830,3,1,4.42,7,Laptop,Thriller,Europe,On-Time,Premium,No,3,27,4908,2,2
+C00831,3,7,3.09,7,Tablet,Action,Africa,On-Time,Standard,No,8,70,3920,0,5
+C00832,24,8,1.36,6,Mobile,Romance,North America,Delayed,Standard,No,0,59,5415,3,5
+C00833,6,2,1.56,8,Tablet,Drama,South America,Delayed,Standard,Yes,1,38,1814,2,4
+C00834,3,8,4.99,7,Laptop,Action,Africa,On-Time,Standard,No,8,23,833,3,1
+C00835,1,5,2.53,4,Tablet,Action,North America,Delayed,Premium,No,6,37,8126,5,1
+C00836,24,2,4.08,1,Smart TV,Action,Europe,On-Time,Basic,Yes,7,54,8118,4,5
+C00837,6,3,1.57,10,Tablet,Action,Africa,Delayed,Standard,No,0,28,784,2,5
+C00838,12,5,2.64,1,Laptop,Romance,Africa,On-Time,Standard,No,3,51,4356,5,2
+C00839,12,9,2.44,2,Tablet,Documentary,Africa,On-Time,Premium,No,7,30,7188,4,4
+C00840,1,4,1.65,9,Desktop,Thriller,South America,On-Time,Basic,No,10,68,5038,0,4
+C00841,12,3,4.41,7,Tablet,Comedy,Europe,Delayed,Basic,No,5,32,4233,5,2
+C00842,12,1,4.48,10,Tablet,Romance,South America,On-Time,Basic,Yes,9,63,4556,1,3
+C00843,24,5,1.25,7,Smart TV,Sci-Fi,North America,On-Time,Standard,Yes,7,24,9064,1,1
+C00844,3,6,0.89,8,Mobile,Action,Africa,Delayed,Standard,No,4,70,7605,5,4
+C00845,12,6,1.63,9,Tablet,Thriller,South America,On-Time,Basic,No,4,43,9262,5,4
+C00846,12,6,2.97,8,Laptop,Sci-Fi,North America,On-Time,Standard,No,0,22,7807,2,2
+C00847,6,2,2.86,3,Tablet,Comedy,Asia,Delayed,Basic,Yes,1,63,613,0,4
+C00848,3,10,0.81,5,Laptop,Action,North America,On-Time,Standard,Yes,7,19,2286,1,5
+C00849,3,3,2.44,1,Smart TV,Comedy,Asia,Delayed,Basic,Yes,2,70,8018,4,3
+C00850,6,3,3.79,6,Mobile,Thriller,North America,On-Time,Basic,No,2,44,5669,5,4
+C00851,1,1,1.52,4,Laptop,Comedy,South America,Delayed,Basic,Yes,5,47,4143,2,4
+C00852,6,7,4.42,10,Laptop,Thriller,Asia,On-Time,Premium,No,5,18,1078,2,1
+C00853,12,10,1.23,5,Desktop,Documentary,Europe,On-Time,Basic,No,6,48,4064,3,4
+C00854,24,9,3.87,5,Laptop,Action,Europe,Delayed,Standard,No,9,65,6905,3,1
+C00855,1,3,3.58,2,Smart TV,Romance,South America,Delayed,Premium,Yes,7,26,4952,0,3
+C00856,12,4,3.26,9,Desktop,Romance,North America,Delayed,Basic,Yes,9,32,7795,3,1
+C00857,24,10,1.23,2,Tablet,Drama,Africa,Delayed,Standard,No,6,64,6381,5,2
+C00858,24,3,4.17,1,Tablet,Sci-Fi,Asia,Delayed,Premium,Yes,10,61,3272,3,5
+C00859,3,2,1.57,2,Tablet,Drama,North America,On-Time,Basic,Yes,5,63,8086,3,2
+C00860,6,7,3.41,6,Mobile,Sci-Fi,North America,On-Time,Premium,No,5,34,3304,1,1
+C00861,1,4,2.58,8,Laptop,Drama,South America,Delayed,Standard,Yes,10,53,7319,0,5
+C00862,3,2,1.93,8,Laptop,Drama,South America,On-Time,Standard,No,3,25,3421,2,2
+C00863,1,5,3.52,9,Laptop,Comedy,Europe,On-Time,Basic,No,4,69,8912,3,4
+C00864,12,10,3.38,8,Desktop,Action,North America,On-Time,Basic,No,7,61,4385,3,4
+C00865,6,6,3.48,5,Tablet,Sci-Fi,South America,Delayed,Premium,Yes,8,64,6587,5,1
+C00866,3,3,4.47,8,Tablet,Comedy,Asia,Delayed,Premium,No,1,66,4783,2,1
+C00867,24,10,2.08,1,Mobile,Romance,Europe,On-Time,Premium,Yes,10,54,3036,1,5
+C00868,12,10,1.6,2,Laptop,Romance,Europe,Delayed,Standard,No,0,40,1296,2,4
+C00869,12,2,0.77,7,Tablet,Drama,Europe,Delayed,Standard,Yes,6,36,5453,3,2
+C00870,6,3,2.07,8,Tablet,Action,North America,On-Time,Premium,No,8,41,2292,5,4
+C00871,3,9,3.54,5,Mobile,Sci-Fi,South America,Delayed,Premium,Yes,7,52,8616,1,2
+C00872,6,4,2.6,2,Tablet,Drama,North America,Delayed,Basic,Yes,4,68,9312,0,2
+C00873,24,1,3.42,8,Mobile,Comedy,North America,Delayed,Standard,Yes,6,61,718,3,4
+C00874,3,9,3.51,10,Mobile,Romance,Africa,Delayed,Basic,No,5,60,3698,2,1
+C00875,3,1,3.46,10,Mobile,Sci-Fi,South America,On-Time,Premium,No,5,58,6957,0,1
+C00876,1,2,4.2,3,Laptop,Romance,Africa,Delayed,Standard,Yes,3,32,8512,4,4
+C00877,6,5,3.94,9,Laptop,Romance,South America,On-Time,Basic,Yes,4,28,3468,0,2
+C00878,24,6,3.43,7,Mobile,Documentary,Europe,Delayed,Standard,No,10,40,6164,1,5
+C00879,12,6,2.13,2,Laptop,Drama,Asia,On-Time,Premium,No,5,42,9238,2,5
+C00880,3,8,2.07,2,Desktop,Sci-Fi,South America,Delayed,Premium,Yes,8,42,3418,4,3
+C00881,3,9,2.11,1,Tablet,Comedy,North America,On-Time,Premium,Yes,1,61,6460,1,3
+C00882,24,2,3.27,5,Desktop,Sci-Fi,Asia,Delayed,Standard,No,6,18,2279,4,4
+C00883,12,5,4.76,10,Mobile,Romance,Asia,On-Time,Standard,No,10,40,1857,1,4
+C00884,12,8,1.94,10,Laptop,Documentary,North America,Delayed,Standard,No,6,41,7306,2,2
+C00885,12,6,0.54,4,Tablet,Comedy,Europe,On-Time,Premium,No,9,52,8732,2,4
+C00886,1,8,3.88,2,Desktop,Action,Africa,On-Time,Standard,Yes,10,21,8512,1,4
+C00887,24,7,4.34,1,Mobile,Sci-Fi,Asia,Delayed,Premium,No,5,37,8565,3,4
+C00888,12,6,4.08,10,Laptop,Sci-Fi,South America,On-Time,Premium,No,7,55,3877,2,1
+C00889,24,9,1.12,2,Desktop,Action,South America,Delayed,Basic,No,3,42,5522,4,4
+C00890,12,4,4.56,6,Smart TV,Thriller,Europe,On-Time,Basic,No,3,43,3015,4,4
+C00891,6,4,3.41,5,Mobile,Action,North America,Delayed,Premium,Yes,4,48,7828,0,5
+C00892,6,10,4.82,7,Mobile,Drama,South America,Delayed,Basic,No,8,33,9314,3,5
+C00893,12,5,0.84,4,Desktop,Action,Africa,Delayed,Basic,Yes,5,59,9349,1,2
+C00894,24,4,1.03,6,Desktop,Romance,South America,On-Time,Basic,Yes,3,52,5234,2,5
+C00895,24,8,4.87,9,Smart TV,Comedy,Asia,Delayed,Standard,No,7,50,8933,5,3
+C00896,24,9,1.31,4,Tablet,Sci-Fi,North America,On-Time,Basic,Yes,10,52,7153,0,3
+C00897,3,6,3.28,8,Smart TV,Romance,South America,On-Time,Basic,No,10,39,4210,1,2
+C00898,3,3,3.23,9,Mobile,Documentary,Africa,Delayed,Premium,No,2,33,1672,1,2
+C00899,1,7,4.48,9,Desktop,Romance,Europe,Delayed,Standard,No,10,43,3953,5,5
+C00900,6,4,2.58,2,Smart TV,Action,Europe,Delayed,Basic,No,2,18,7623,5,4
+C00901,1,9,0.59,5,Laptop,Documentary,South America,Delayed,Premium,Yes,6,33,8367,3,1
+C00902,12,10,1.18,9,Desktop,Romance,Asia,Delayed,Premium,No,1,39,8065,5,3
+C00903,24,10,2.07,10,Mobile,Sci-Fi,South America,Delayed,Basic,No,1,44,1305,0,5
+C00904,6,7,1.98,2,Laptop,Documentary,North America,On-Time,Premium,Yes,9,19,6128,2,3
+C00905,24,8,2.72,3,Laptop,Sci-Fi,Asia,Delayed,Premium,No,1,26,6216,3,4
+C00906,12,8,0.76,2,Tablet,Action,Europe,On-Time,Standard,Yes,0,47,740,3,2
+C00907,3,5,4.85,2,Smart TV,Documentary,South America,Delayed,Basic,No,2,59,5158,5,3
+C00908,24,10,3.28,1,Tablet,Romance,South America,Delayed,Standard,No,0,67,4137,4,3
+C00909,24,6,2.07,3,Laptop,Action,North America,Delayed,Standard,No,2,68,9248,4,5
+C00910,12,4,4.43,8,Desktop,Drama,North America,Delayed,Standard,No,3,37,5272,3,1
+C00911,1,9,3.32,3,Tablet,Comedy,Africa,Delayed,Standard,No,10,43,3179,4,2
+C00912,6,8,3.71,9,Laptop,Thriller,Africa,Delayed,Premium,Yes,9,55,9437,1,4
+C00913,24,3,2.72,4,Tablet,Comedy,Europe,Delayed,Basic,Yes,7,27,1216,0,4
+C00914,1,9,2.04,9,Mobile,Drama,Africa,Delayed,Premium,Yes,9,57,4531,3,1
+C00915,6,8,2.74,7,Laptop,Sci-Fi,Europe,Delayed,Basic,No,3,35,3878,3,4
+C00916,12,2,2.02,2,Smart TV,Thriller,Africa,On-Time,Basic,No,1,51,8626,1,3
+C00917,24,5,1.86,9,Tablet,Romance,Asia,Delayed,Premium,Yes,1,67,5127,0,4
+C00918,6,7,4.43,3,Mobile,Thriller,Europe,On-Time,Basic,No,5,56,5615,0,2
+C00919,24,5,2.28,5,Smart TV,Documentary,Africa,Delayed,Basic,No,5,66,6308,1,2
+C00920,6,2,1.09,2,Desktop,Documentary,North America,On-Time,Standard,No,2,47,6362,4,3
+C00921,12,1,1.79,1,Tablet,Thriller,Asia,On-Time,Standard,No,2,24,9249,2,1
+C00922,6,2,4.61,10,Smart TV,Comedy,Asia,On-Time,Basic,No,3,32,9386,0,2
+C00923,12,9,0.99,10,Smart TV,Comedy,Asia,On-Time,Standard,No,7,40,3209,3,5
+C00924,12,1,4.34,9,Desktop,Action,Asia,Delayed,Basic,No,1,18,3383,3,1
+C00925,1,4,2.38,1,Tablet,Thriller,Africa,Delayed,Basic,Yes,2,39,6247,0,2
+C00926,24,3,4.12,10,Smart TV,Thriller,Africa,On-Time,Premium,No,1,70,8355,0,4
+C00927,1,1,3.98,7,Tablet,Action,Africa,Delayed,Premium,Yes,0,30,5936,0,2
+C00928,6,8,1.56,3,Smart TV,Thriller,Africa,Delayed,Basic,Yes,5,28,9395,1,2
+C00929,24,8,0.56,10,Mobile,Action,North America,Delayed,Basic,No,5,26,9011,4,1
+C00930,6,2,1.0,10,Desktop,Sci-Fi,North America,Delayed,Premium,No,0,56,1556,0,4
+C00931,1,6,2.32,2,Laptop,Drama,Asia,On-Time,Premium,Yes,8,67,6953,4,2
+C00932,12,3,2.84,9,Desktop,Documentary,Europe,Delayed,Standard,No,0,70,3578,4,4
+C00933,3,2,2.78,2,Smart TV,Drama,Europe,On-Time,Standard,Yes,1,60,1367,0,4
+C00934,3,7,2.95,1,Smart TV,Thriller,Africa,Delayed,Standard,Yes,3,50,9936,3,4
+C00935,12,8,0.68,1,Tablet,Thriller,Europe,Delayed,Basic,Yes,9,20,8243,4,1
+C00936,6,2,1.97,5,Smart TV,Documentary,South America,On-Time,Basic,Yes,9,62,5194,1,1
+C00937,12,5,1.21,6,Laptop,Drama,North America,Delayed,Standard,No,9,28,3052,5,1
+C00938,1,2,1.22,3,Smart TV,Thriller,South America,On-Time,Premium,Yes,10,68,888,2,4
+C00939,24,9,1.78,10,Smart TV,Romance,Europe,On-Time,Standard,No,6,36,3339,2,5
+C00940,3,6,3.81,2,Mobile,Thriller,Africa,On-Time,Premium,Yes,3,35,1740,1,4
+C00941,6,6,2.37,7,Smart TV,Comedy,Asia,On-Time,Standard,Yes,9,43,7748,5,1
+C00942,3,5,4.71,9,Desktop,Action,North America,On-Time,Standard,No,8,45,2410,3,2
+C00943,6,5,3.42,8,Mobile,Romance,North America,Delayed,Standard,No,2,28,6611,1,1
+C00944,1,10,2.0,7,Desktop,Romance,South America,Delayed,Standard,No,9,37,5875,2,2
+C00945,6,1,1.4,4,Tablet,Sci-Fi,Asia,On-Time,Standard,Yes,3,52,7519,0,2
+C00946,3,4,2.34,7,Mobile,Thriller,North America,Delayed,Standard,No,6,26,966,5,2
+C00947,24,5,4.56,3,Laptop,Sci-Fi,Asia,Delayed,Standard,No,5,48,9667,2,1
+C00948,1,6,1.26,4,Desktop,Sci-Fi,North America,Delayed,Standard,No,9,63,3085,4,4
+C00949,1,9,4.38,10,Tablet,Sci-Fi,Europe,On-Time,Basic,No,1,31,5834,0,3
+C00950,6,6,3.23,5,Mobile,Sci-Fi,North America,On-Time,Premium,No,3,19,7040,0,2
+C00951,3,4,4.26,10,Tablet,Sci-Fi,South America,On-Time,Basic,No,10,22,1461,4,5
+C00952,3,10,0.57,6,Mobile,Thriller,Asia,On-Time,Basic,Yes,7,63,7179,2,3
+C00953,3,8,4.89,6,Tablet,Comedy,North America,On-Time,Premium,No,5,40,9834,0,2
+C00954,3,8,3.43,5,Desktop,Thriller,Europe,On-Time,Basic,No,4,36,719,0,3
+C00955,12,8,2.67,7,Smart TV,Romance,South America,On-Time,Standard,Yes,10,70,6860,2,1
+C00956,24,1,2.41,8,Tablet,Sci-Fi,Europe,Delayed,Basic,Yes,7,32,7936,5,5
+C00957,6,5,4.55,9,Smart TV,Thriller,South America,On-Time,Basic,No,6,62,3220,5,1
+C00958,1,2,3.99,5,Tablet,Drama,Europe,On-Time,Standard,Yes,0,30,3822,1,2
+C00959,1,10,4.83,1,Mobile,Romance,South America,On-Time,Standard,No,3,19,4538,5,2
+C00960,1,1,1.12,8,Mobile,Sci-Fi,Asia,On-Time,Standard,Yes,8,28,8147,0,1
+C00961,6,2,4.67,8,Tablet,Thriller,South America,Delayed,Premium,No,7,21,8656,3,1
+C00962,3,4,1.39,6,Smart TV,Comedy,Asia,On-Time,Basic,Yes,0,70,4419,0,4
+C00963,12,3,1.01,10,Tablet,Comedy,Africa,Delayed,Premium,No,4,47,6672,2,4
+C00964,24,6,3.45,5,Smart TV,Comedy,Asia,On-Time,Standard,No,6,51,9948,2,3
+C00965,6,2,3.17,8,Tablet,Sci-Fi,South America,Delayed,Premium,Yes,10,60,5559,4,5
+C00966,12,1,4.44,1,Tablet,Comedy,Europe,On-Time,Premium,Yes,10,24,4275,3,4
+C00967,6,5,2.76,4,Desktop,Action,South America,On-Time,Premium,No,6,36,2426,3,1
+C00968,24,8,0.59,7,Tablet,Action,Africa,On-Time,Premium,No,8,39,3205,0,1
+C00969,6,6,3.54,1,Laptop,Documentary,Europe,On-Time,Basic,Yes,9,45,4216,5,5
+C00970,24,4,4.8,1,Tablet,Romance,Europe,On-Time,Premium,Yes,4,32,5261,1,1
+C00971,3,9,3.71,2,Mobile,Documentary,Africa,On-Time,Premium,No,3,18,8288,1,2
+C00972,6,8,2.49,5,Tablet,Drama,Africa,On-Time,Basic,No,7,22,3953,1,4
+C00973,3,4,0.76,7,Desktop,Drama,North America,On-Time,Standard,Yes,10,29,8744,4,1
+C00974,6,5,2.24,1,Tablet,Comedy,North America,Delayed,Premium,Yes,8,59,3401,4,3
+C00975,6,2,4.93,10,Desktop,Comedy,Europe,On-Time,Basic,No,3,58,8545,2,5
+C00976,24,4,2.25,2,Tablet,Action,North America,Delayed,Basic,Yes,4,26,9952,2,1
+C00977,3,2,1.35,4,Smart TV,Sci-Fi,South America,Delayed,Basic,Yes,4,38,4086,3,5
+C00978,6,8,3.23,2,Smart TV,Comedy,Asia,On-Time,Standard,Yes,4,59,6250,2,4
+C00979,3,5,2.47,8,Desktop,Sci-Fi,North America,On-Time,Basic,Yes,8,57,2270,0,2
+C00980,12,1,0.53,3,Smart TV,Romance,Africa,Delayed,Standard,Yes,9,42,3548,4,5
+C00981,6,6,3.47,10,Mobile,Drama,Asia,On-Time,Basic,No,0,47,4824,3,5
+C00982,6,8,4.86,6,Desktop,Action,Africa,Delayed,Premium,No,0,42,7654,1,1
+C00983,12,2,3.46,10,Desktop,Documentary,Asia,On-Time,Premium,Yes,4,46,1777,3,2
+C00984,1,4,4.53,6,Tablet,Comedy,Africa,Delayed,Basic,Yes,5,22,8637,2,4
+C00985,24,4,1.19,8,Laptop,Comedy,Europe,On-Time,Basic,No,10,39,1547,4,4
+C00986,12,9,4.84,3,Tablet,Documentary,Africa,On-Time,Basic,No,9,68,7245,0,4
+C00987,24,8,4.08,10,Mobile,Romance,Africa,Delayed,Premium,No,5,41,1067,3,1
+C00988,12,5,3.55,4,Desktop,Romance,Europe,On-Time,Basic,Yes,4,64,9343,4,5
+C00989,1,6,4.13,7,Desktop,Action,North America,On-Time,Standard,No,1,23,1406,0,2
+C00990,12,6,1.42,7,Mobile,Drama,South America,On-Time,Basic,No,1,46,6616,2,2
+C00991,3,4,4.67,5,Mobile,Action,Africa,Delayed,Standard,Yes,10,53,5459,5,2
+C00992,1,5,4.76,7,Tablet,Documentary,Europe,On-Time,Basic,No,7,39,7811,1,4
+C00993,12,3,1.48,4,Desktop,Romance,Africa,On-Time,Basic,Yes,6,42,4500,4,4
+C00994,24,10,0.89,9,Mobile,Romance,South America,On-Time,Standard,No,9,52,7379,4,4
+C00995,6,5,3.64,8,Laptop,Sci-Fi,Europe,On-Time,Standard,No,0,50,3456,5,5
+C00996,1,4,0.77,10,Tablet,Romance,Europe,On-Time,Standard,Yes,5,28,772,1,4
+C00997,1,2,2.66,2,Mobile,Romance,South America,Delayed,Standard,Yes,3,54,588,4,1
+C00998,6,2,2.36,10,Mobile,Drama,Africa,On-Time,Standard,No,7,62,577,4,1
+C00999,3,6,1.73,3,Laptop,Action,Asia,On-Time,Basic,Yes,1,38,3684,0,4
+C01000,1,6,1.94,4,Mobile,Comedy,South America,On-Time,Premium,Yes,8,23,3023,2,4
