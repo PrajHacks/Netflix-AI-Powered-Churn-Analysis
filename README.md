@@ -2,7 +2,7 @@
 
 An end-to-end data science and full-stack project that predicts customer churn for a subscription service, explains *why* each customer is at risk using SHAP, segments customers into actionable retention groups, and serves it all through a live interactive dashboard.
 
-🔗 **Live App**: [[your-app.onrender.com](https://your-app.onrender.com)](https://netflix-ai-powered-churn-analysis.onrender.com/)
+🔗 **Live App**: (https://netflix-ai-powered-churn-analysis.onrender.com/)
 📊 **Power BI Report**: <img width="1122" height="627" alt="net1" src="https://github.com/user-attachments/assets/160ddc41-ee80-4ae8-84f7-225badb7ac73" />
 <img width="1121" height="626" alt="net2" src="https://github.com/user-attachments/assets/ee7737ea-4c6b-4948-9d38-06926c89e14d" />
 <img width="1112" height="627" alt="net3" src="https://github.com/user-attachments/assets/4589f72f-7c2c-45e6-a164-6dd4f4637ba8" />
